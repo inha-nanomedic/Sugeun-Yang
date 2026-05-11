@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-04T11:08:31.020619+00:00",
+  "fetched_at": "2026-05-11T17:31:45.310509+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -7,7 +7,7 @@
   },
   "totals": {
     "works": 98,
-    "co_authors": 317,
+    "co_authors": 314,
     "institutions": 69,
     "countries": 13
   },
@@ -15,7 +15,7 @@
     {
       "id": "https://openalex.org/A5052029602",
       "name": "Ratchapol Jenjob",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0001-8423-1153",
       "papers": 17,
       "first_year": 2015,
       "last_year": 2025,
@@ -861,6 +861,18 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5077899911",
+      "name": "Doo Yong Chung",
+      "orcid": "https://orcid.org/0000-0001-8614-5742",
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I4210153373"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5044181109",
       "name": "Eun Hye Lee",
       "orcid": "https://orcid.org/0000-0001-8090-6571",
@@ -1016,6 +1028,18 @@
       "last_year": 2011,
       "institution_ids": [
         "https://openalex.org/I139264467"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5039621912",
+      "name": "Jong Yeon Hwang",
+      "orcid": "https://orcid.org/0000-0001-5926-4877",
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I4210151417"
       ],
       "is_external": true
     },
@@ -1221,6 +1245,18 @@
       "last_year": 2026,
       "institution_ids": [
         "https://openalex.org/I69094615"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5017647161",
+      "name": "Seokjae Park",
+      "orcid": "https://orcid.org/0000-0002-3932-995X",
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I193352282"
       ],
       "is_external": true
     },
@@ -1778,30 +1814,6 @@
         "https://openalex.org/I139264467"
       ],
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5077899911",
-      "name": "Doo Yong Chung",
-      "orcid": "https://orcid.org/0000-0001-8614-5742",
-      "papers": 1,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5128516240",
-      "name": "Doo Yong Chung",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2026,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
     },
     {
       "id": "https://openalex.org/A5109360824",
@@ -2466,30 +2478,6 @@
         "https://openalex.org/I191879574"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5039621912",
-      "name": "Jong Yeon Hwang",
-      "orcid": "https://orcid.org/0000-0001-5926-4877",
-      "papers": 1,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4210151417"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5128525201",
-      "name": "Jong Yeon Hwang",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2026,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I4210151417"
-      ],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5102941983",
@@ -3218,30 +3206,6 @@
       "institution_ids": [
         "https://openalex.org/I36258959",
         "https://openalex.org/I4210091204"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5017647161",
-      "name": "Seokjae Park",
-      "orcid": "https://orcid.org/0000-0002-3932-995X",
-      "papers": 1,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I193352282"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5122304252",
-      "name": "Seokjae Park",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2026,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I193352282"
       ],
       "is_external": true
     },
@@ -4249,6 +4213,30 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I902798049",
+      "name": "National Center for Genetic Engineering and Biotechnology",
+      "country": "TH",
+      "type": "facility",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I1332092204",
+      "name": "National Science and Technology Development Agency",
+      "country": "TH",
+      "type": "government",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I24541011",
+      "name": "Soonchunhyang University",
+      "country": "KR",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I103320735",
       "name": "Università Cattolica del Sacro Cuore",
       "country": "IT",
@@ -4305,33 +4293,9 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I902798049",
-      "name": "National Center for Genetic Engineering and Biotechnology",
-      "country": "TH",
-      "type": "facility",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I1332092204",
-      "name": "National Science and Technology Development Agency",
-      "country": "TH",
-      "type": "government",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4210110060",
       "name": "Kamphaeng Phet Rajabhat University",
       "country": "TH",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I24541011",
-      "name": "Soonchunhyang University",
-      "country": "KR",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4675,6 +4639,43 @@
         "https://openalex.org/A5064657974",
         "https://openalex.org/A5024433704",
         "https://openalex.org/A5017936915"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4392107834",
+      "year": 2024,
+      "title": "Optimizing protein delivery rate from silk fibroin hydrogel using silk fibroin-mimetic peptides conjugation",
+      "doi": "https://doi.org/10.1038/s41598-024-53689-7",
+      "venue": "Scientific Reports",
+      "co_author_ids": [
+        "https://openalex.org/A5010630551",
+        "https://openalex.org/A5018137563",
+        "https://openalex.org/A5013473553",
+        "https://openalex.org/A5023322040",
+        "https://openalex.org/A5076469940",
+        "https://openalex.org/A5043140700",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5044987510",
+        "https://openalex.org/A5046261041"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410490295",
+      "year": 2025,
+      "title": "Autophagy-Regulating, Photothermal Polydopamine-Coated, and Photodynamic Zirconium/Porphyrin-Framed Metal–Organic Frameworks for Enhanced Doxorubicin Therapy in Colon Cancer",
+      "doi": "https://doi.org/10.34133/bmr.0218",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5073268890",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5102941983",
+        "https://openalex.org/A5038422196",
+        "https://openalex.org/A5056376298",
+        "https://openalex.org/A5091275236",
+        "https://openalex.org/A5014280112"
       ]
     },
     {
@@ -5031,24 +5032,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4392107834",
-      "year": 2024,
-      "title": "Optimizing protein delivery rate from silk fibroin hydrogel using silk fibroin-mimetic peptides conjugation",
-      "doi": "https://doi.org/10.1038/s41598-024-53689-7",
-      "venue": "Scientific Reports",
-      "co_author_ids": [
-        "https://openalex.org/A5010630551",
-        "https://openalex.org/A5018137563",
-        "https://openalex.org/A5013473553",
-        "https://openalex.org/A5023322040",
-        "https://openalex.org/A5076469940",
-        "https://openalex.org/A5043140700",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5044987510",
-        "https://openalex.org/A5046261041"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4403734307",
       "year": 2024,
       "title": "Synthesis of Silver Nanoparticles and Gold Nanoparticles Used as Biosensors for the Detection of Human Serum Albumin-Diagnosed Kidney Disease",
@@ -5065,25 +5048,6 @@
         "https://openalex.org/A5063227694",
         "https://openalex.org/A5086734944",
         "https://openalex.org/A5041020388"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4410490295",
-      "year": 2025,
-      "title": "Autophagy-Regulating, Photothermal Polydopamine-Coated, and Photodynamic Zirconium/Porphyrin-Framed Metal–Organic Frameworks for Enhanced Doxorubicin Therapy in Colon Cancer",
-      "doi": "https://doi.org/10.34133/bmr.0218",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5073268890",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5102941983",
-        "https://openalex.org/A5038422196",
-        "https://openalex.org/A5056376298",
-        "https://openalex.org/A5091275236",
-        "https://openalex.org/A5014280112"
       ]
     },
     {
@@ -5931,12 +5895,12 @@
         "https://openalex.org/A5036197835",
         "https://openalex.org/A5042950353",
         "https://openalex.org/A5066216202",
-        "https://openalex.org/A5128525201",
+        "https://openalex.org/A5039621912",
         "https://openalex.org/A5128434767",
         "https://openalex.org/A5128395556",
         "https://openalex.org/A5128508650",
-        "https://openalex.org/A5128516240",
-        "https://openalex.org/A5122304252",
+        "https://openalex.org/A5077899911",
+        "https://openalex.org/A5017647161",
         "https://openalex.org/A5100673990",
         "https://openalex.org/A5075061660"
       ]

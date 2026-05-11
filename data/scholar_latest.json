@@ -1,9 +1,9 @@
 {
-  "total_citations": 4385,
-  "y5_citations": 2443,
+  "total_citations": 4389,
+  "y5_citations": 2447,
   "h_index": 35,
   "y5_h_index": 25,
-  "i10_index": 74,
+  "i10_index": 75,
   "y5_i10_index": 59,
   "cites_per_year": {
     "2009": 31,
@@ -20,10 +20,10 @@
     "2020": 313,
     "2021": 336,
     "2022": 411,
-    "2023": 417,
-    "2024": 533,
-    "2025": 559,
-    "2026": 185
+    "2023": 416,
+    "2024": 534,
+    "2025": 560,
+    "2026": 188
   },
   "articles": [
     {
@@ -89,7 +89,7 @@
       "authors": "X Wu, L Luo, S Yang, X Ma, Y Li, C Dong, Y Tian, L Zhang, Z Shen, A Wu",
       "publication": "ACS applied materials & interfaces 7 (18), 9965-9971, 2015",
       "cited_by": {
-        "value": 170,
+        "value": 169,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460042747662798991",
         "serpapi_link": "https://serpapi.com/search.json?cites=14460042747662798991&engine=google_scholar&hl=en",
         "cites_id": "14460042747662798991"
@@ -145,7 +145,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 127,
+        "value": 128,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -243,7 +243,7 @@
       "authors": "J Yang, J Feng, S Yang, Y Xu, Z Shen",
       "publication": "Small 19 (49), 2302856, 2023",
       "cited_by": {
-        "value": 68,
+        "value": 69,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474365134918622444",
         "serpapi_link": "https://serpapi.com/search.json?cites=7474365134918622444&engine=google_scholar&hl=en",
         "cites_id": "7474365134918622444"
@@ -307,6 +307,6 @@
       "year": "2010"
     }
   ],
-  "fetched_at": "2026-05-04T11:08:31.675196+00:00",
+  "fetched_at": "2026-05-11T17:31:51.448025+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author"
 }
