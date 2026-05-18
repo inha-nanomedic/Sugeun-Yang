@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T17:31:45.310509+00:00",
+  "fetched_at": "2026-05-18T12:37:55.349011+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4944,6 +4944,25 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4388894188",
+      "year": 2023,
+      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a <i>T</i><sub>1</sub>‐Weighted Contrast Agent for Magnetic Resonance Imaging",
+      "doi": "https://doi.org/10.1002/smll.202308547",
+      "venue": "Small",
+      "co_author_ids": [
+        "https://openalex.org/A5113173370",
+        "https://openalex.org/A5080928023",
+        "https://openalex.org/A5038168122",
+        "https://openalex.org/A5012497435",
+        "https://openalex.org/A5065762239",
+        "https://openalex.org/A5027421966",
+        "https://openalex.org/A5100672809",
+        "https://openalex.org/A5101891723",
+        "https://openalex.org/A5023469305",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4307182951",
       "year": 2022,
       "title": "Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells",
@@ -4962,25 +4981,6 @@
         "https://openalex.org/A5054617653",
         "https://openalex.org/A5038422196",
         "https://openalex.org/A5075061660"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4388894188",
-      "year": 2023,
-      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a <i>T</i><sub>1</sub>‐Weighted Contrast Agent for Magnetic Resonance Imaging",
-      "doi": "https://doi.org/10.1002/smll.202308547",
-      "venue": "Small",
-      "co_author_ids": [
-        "https://openalex.org/A5113173370",
-        "https://openalex.org/A5080928023",
-        "https://openalex.org/A5038168122",
-        "https://openalex.org/A5012497435",
-        "https://openalex.org/A5065762239",
-        "https://openalex.org/A5027421966",
-        "https://openalex.org/A5100672809",
-        "https://openalex.org/A5101891723",
-        "https://openalex.org/A5023469305",
-        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5173,6 +5173,20 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3188096147",
+      "year": 2021,
+      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
+      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
+      "venue": "Biomacromolecules",
+      "co_author_ids": [
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5000212121",
+        "https://openalex.org/A5100776694",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5038803466"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2013150522",
       "year": 2013,
       "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
@@ -5339,20 +5353,6 @@
         "https://openalex.org/A5102114218",
         "https://openalex.org/A5082007935",
         "https://openalex.org/A5072803749"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3188096147",
-      "year": 2021,
-      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
-      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
-      "venue": "Biomacromolecules",
-      "co_author_ids": [
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5000212121",
-        "https://openalex.org/A5100776694",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5038803466"
       ]
     },
     {

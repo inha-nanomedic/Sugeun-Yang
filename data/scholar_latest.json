@@ -1,6 +1,6 @@
 {
-  "total_citations": 4389,
-  "y5_citations": 2447,
+  "total_citations": 4407,
+  "y5_citations": 2465,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -18,12 +18,12 @@
     "2018": 188,
     "2019": 223,
     "2020": 313,
-    "2021": 336,
+    "2021": 337,
     "2022": 411,
-    "2023": 416,
+    "2023": 417,
     "2024": 534,
-    "2025": 560,
-    "2026": 188
+    "2025": 559,
+    "2026": 205
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 648,
+        "value": 652,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -47,7 +47,7 @@
       "authors": "JS Guthi, SG Yang, G Huang, S Li, C Khemtong, CW Kessinger, M Peyton, ...",
       "publication": "Molecular pharmaceutics 7 (1), 32-40, 2010",
       "cited_by": {
-        "value": 260,
+        "value": 261,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3435560212659049934",
         "serpapi_link": "https://serpapi.com/search.json?cites=3435560212659049934&engine=google_scholar&hl=en",
         "cites_id": "3435560212659049934"
@@ -69,6 +69,20 @@
       "year": "2010"
     },
     {
+      "title": "Improved SERS nanoparticles for direct detection of circulating tumor cells in the blood",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:QIV2ME_5wuYC",
+      "citation_id": "X1B7JX8AAAAJ:QIV2ME_5wuYC",
+      "authors": "X Wu, L Luo, S Yang, X Ma, Y Li, C Dong, Y Tian, L Zhang, Z Shen, A Wu",
+      "publication": "ACS applied materials & interfaces 7 (18), 9965-9971, 2015",
+      "cited_by": {
+        "value": 171,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460042747662798991",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14460042747662798991&engine=google_scholar&hl=en",
+        "cites_id": "14460042747662798991"
+      },
+      "year": "2015"
+    },
+    {
       "title": "Lung-specific delivery of paclitaxel by chitosan-modified PLGA nanoparticles via transient formation of microaggregates",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:UebtZRa9Y70C",
       "citation_id": "X1B7JX8AAAAJ:UebtZRa9Y70C",
@@ -81,20 +95,6 @@
         "cites_id": "8244422379502692755"
       },
       "year": "2009"
-    },
-    {
-      "title": "Improved SERS nanoparticles for direct detection of circulating tumor cells in the blood",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:QIV2ME_5wuYC",
-      "citation_id": "X1B7JX8AAAAJ:QIV2ME_5wuYC",
-      "authors": "X Wu, L Luo, S Yang, X Ma, Y Li, C Dong, Y Tian, L Zhang, Z Shen, A Wu",
-      "publication": "ACS applied materials & interfaces 7 (18), 9965-9971, 2015",
-      "cited_by": {
-        "value": 169,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460042747662798991",
-        "serpapi_link": "https://serpapi.com/search.json?cites=14460042747662798991&engine=google_scholar&hl=en",
-        "cites_id": "14460042747662798991"
-      },
-      "year": "2015"
     },
     {
       "title": "Multiple\u2010interaction ligands inspired by mussel adhesive protein: synthesis of highly stable and biocompatible nanoparticles",
@@ -111,6 +111,20 @@
       "year": "2011"
     },
     {
+      "title": "A novel strategy for surface modification of superparamagnetic iron oxide nanoparticles for lung cancer imaging",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:RHpTSmoSYBkC",
+      "citation_id": "X1B7JX8AAAAJ:RHpTSmoSYBkC",
+      "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
+      "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
+      "cited_by": {
+        "value": 133,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
+        "cites_id": "18137633855902214834"
+      },
+      "year": "2009"
+    },
+    {
       "title": "In vivo off-resonance saturation magnetic resonance imaging of \u03b1v\u03b23-targeted superparamagnetic nanoparticles",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:YOwf2qJgpHMC",
       "citation_id": "X1B7JX8AAAAJ:YOwf2qJgpHMC",
@@ -125,27 +139,13 @@
       "year": "2009"
     },
     {
-      "title": "A novel strategy for surface modification of superparamagnetic iron oxide nanoparticles for lung cancer imaging",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:RHpTSmoSYBkC",
-      "citation_id": "X1B7JX8AAAAJ:RHpTSmoSYBkC",
-      "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
-      "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
-      "cited_by": {
-        "value": 132,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
-        "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
-        "cites_id": "18137633855902214834"
-      },
-      "year": "2009"
-    },
-    {
       "title": "The effects of real and simulated microgravity on cellular mitochondrial function",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:HoB7MX3m0LUC",
       "citation_id": "X1B7JX8AAAAJ:HoB7MX3m0LUC",
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 128,
+        "value": 129,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -285,7 +285,7 @@
       "authors": "SI Jang, JH Kim, M Kim, S Yang, EA Jo, JW Lee, K Na, JM Kim, S Jeong, ...",
       "publication": "Endoscopy 44 (09), 825-831, 2012",
       "cited_by": {
-        "value": 65,
+        "value": 67,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=760808377809737404",
         "serpapi_link": "https://serpapi.com/search.json?cites=760808377809737404&engine=google_scholar&hl=en",
         "cites_id": "760808377809737404"
@@ -307,6 +307,6 @@
       "year": "2010"
     }
   ],
-  "fetched_at": "2026-05-11T17:31:51.448025+00:00",
+  "fetched_at": "2026-05-18T12:37:55.862380+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author"
 }
