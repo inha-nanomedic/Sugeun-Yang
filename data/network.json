@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-18T12:37:55.349011+00:00",
+  "fetched_at": "2026-05-25T12:36:11.250704+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -615,7 +615,7 @@
     {
       "id": "https://openalex.org/A5101584982",
       "name": "Hong Phuong Nguyen",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-6088-9548",
       "papers": 3,
       "first_year": 2021,
       "last_year": 2022,
@@ -4205,9 +4205,9 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4389425394",
-      "name": "Institute for Tropical Technology",
-      "country": "",
+      "id": "https://openalex.org/I1332092204",
+      "name": "National Science and Technology Development Agency",
+      "country": "TH",
       "type": "government",
       "papers": 1,
       "is_external": true
@@ -4217,22 +4217,6 @@
       "name": "National Center for Genetic Engineering and Biotechnology",
       "country": "TH",
       "type": "facility",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I1332092204",
-      "name": "National Science and Technology Development Agency",
-      "country": "TH",
-      "type": "government",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I24541011",
-      "name": "Soonchunhyang University",
-      "country": "KR",
-      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4289,6 +4273,22 @@
       "name": "Faculty (United Kingdom)",
       "country": "GB",
       "type": "company",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4389425394",
+      "name": "Institute for Tropical Technology",
+      "country": "",
+      "type": "government",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I24541011",
+      "name": "Soonchunhyang University",
+      "country": "KR",
+      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4622,26 +4622,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4290989580",
-      "year": 2022,
-      "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
-      "doi": "https://doi.org/10.1039/d2ra01969h",
-      "venue": "RSC Advances",
-      "co_author_ids": [
-        "https://openalex.org/A5101584982",
-        "https://openalex.org/A5048216686",
-        "https://openalex.org/A5100658917",
-        "https://openalex.org/A5010745046",
-        "https://openalex.org/A5077807093",
-        "https://openalex.org/A5006085063",
-        "https://openalex.org/A5078615245",
-        "https://openalex.org/A5022604421",
-        "https://openalex.org/A5064657974",
-        "https://openalex.org/A5024433704",
-        "https://openalex.org/A5017936915"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4392107834",
       "year": 2024,
       "title": "Optimizing protein delivery rate from silk fibroin hydrogel using silk fibroin-mimetic peptides conjugation",
@@ -4657,25 +4637,6 @@
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5044987510",
         "https://openalex.org/A5046261041"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4410490295",
-      "year": 2025,
-      "title": "Autophagy-Regulating, Photothermal Polydopamine-Coated, and Photodynamic Zirconium/Porphyrin-Framed Metal–Organic Frameworks for Enhanced Doxorubicin Therapy in Colon Cancer",
-      "doi": "https://doi.org/10.34133/bmr.0218",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5073268890",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5102941983",
-        "https://openalex.org/A5038422196",
-        "https://openalex.org/A5056376298",
-        "https://openalex.org/A5091275236",
-        "https://openalex.org/A5014280112"
       ]
     },
     {
@@ -4944,22 +4905,37 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4388894188",
-      "year": 2023,
-      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a <i>T</i><sub>1</sub>‐Weighted Contrast Agent for Magnetic Resonance Imaging",
-      "doi": "https://doi.org/10.1002/smll.202308547",
-      "venue": "Small",
+      "id": "https://openalex.org/W4220868673",
+      "year": 2022,
+      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
+      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
+      "venue": "Biomaterials Research",
       "co_author_ids": [
-        "https://openalex.org/A5113173370",
-        "https://openalex.org/A5080928023",
-        "https://openalex.org/A5038168122",
-        "https://openalex.org/A5012497435",
-        "https://openalex.org/A5065762239",
-        "https://openalex.org/A5027421966",
-        "https://openalex.org/A5100672809",
-        "https://openalex.org/A5101891723",
-        "https://openalex.org/A5023469305",
-        "https://openalex.org/A5056376298"
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5101949861",
+        "https://openalex.org/A5069089381",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5059446452"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4290989580",
+      "year": 2022,
+      "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
+      "doi": "https://doi.org/10.1039/d2ra01969h",
+      "venue": "RSC Advances",
+      "co_author_ids": [
+        "https://openalex.org/A5101584982",
+        "https://openalex.org/A5048216686",
+        "https://openalex.org/A5100658917",
+        "https://openalex.org/A5010745046",
+        "https://openalex.org/A5077807093",
+        "https://openalex.org/A5006085063",
+        "https://openalex.org/A5078615245",
+        "https://openalex.org/A5022604421",
+        "https://openalex.org/A5064657974",
+        "https://openalex.org/A5024433704",
+        "https://openalex.org/A5017936915"
       ]
     },
     {
@@ -4981,6 +4957,25 @@
         "https://openalex.org/A5054617653",
         "https://openalex.org/A5038422196",
         "https://openalex.org/A5075061660"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388894188",
+      "year": 2023,
+      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a <i>T</i><sub>1</sub>‐Weighted Contrast Agent for Magnetic Resonance Imaging",
+      "doi": "https://doi.org/10.1002/smll.202308547",
+      "venue": "Small",
+      "co_author_ids": [
+        "https://openalex.org/A5113173370",
+        "https://openalex.org/A5080928023",
+        "https://openalex.org/A5038168122",
+        "https://openalex.org/A5012497435",
+        "https://openalex.org/A5065762239",
+        "https://openalex.org/A5027421966",
+        "https://openalex.org/A5100672809",
+        "https://openalex.org/A5101891723",
+        "https://openalex.org/A5023469305",
+        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5032,6 +5027,25 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4410490295",
+      "year": 2025,
+      "title": "Autophagy-Regulating, Photothermal Polydopamine-Coated, and Photodynamic Zirconium/Porphyrin-Framed Metal–Organic Frameworks for Enhanced Doxorubicin Therapy in Colon Cancer",
+      "doi": "https://doi.org/10.34133/bmr.0218",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5073268890",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5102941983",
+        "https://openalex.org/A5038422196",
+        "https://openalex.org/A5056376298",
+        "https://openalex.org/A5091275236",
+        "https://openalex.org/A5014280112"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4403734307",
       "year": 2024,
       "title": "Synthesis of Silver Nanoparticles and Gold Nanoparticles Used as Biosensors for the Detection of Human Serum Albumin-Diagnosed Kidney Disease",
@@ -5078,6 +5092,16 @@
         "https://openalex.org/A5110155990",
         "https://openalex.org/A5108101906",
         "https://openalex.org/A5034418015"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4401419630",
+      "year": 2024,
+      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
+      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
+      "venue": "Journal of Pharmaceutical Investigation",
+      "co_author_ids": [
+        "https://openalex.org/A5073364524"
       ]
     },
     {
@@ -5156,20 +5180,6 @@
         "https://openalex.org/A5006402804",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5048790280"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4220868673",
-      "year": 2022,
-      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
-      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5101949861",
-        "https://openalex.org/A5069089381",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5059446452"
       ]
     },
     {
@@ -5257,16 +5267,6 @@
         "https://openalex.org/A5086734944",
         "https://openalex.org/A5076820793",
         "https://openalex.org/A5090977989"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4401419630",
-      "year": 2024,
-      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
-      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
-      "venue": "Journal of Pharmaceutical Investigation",
-      "co_author_ids": [
-        "https://openalex.org/A5073364524"
       ]
     },
     {
