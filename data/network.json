@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-25T12:36:11.250704+00:00",
+  "fetched_at": "2026-06-01T15:27:06.071542+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4285,17 +4285,17 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I24541011",
-      "name": "Soonchunhyang University",
-      "country": "KR",
+      "id": "https://openalex.org/I4210110060",
+      "name": "Kamphaeng Phet Rajabhat University",
+      "country": "TH",
       "type": "education",
       "papers": 1,
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210110060",
-      "name": "Kamphaeng Phet Rajabhat University",
-      "country": "TH",
+      "id": "https://openalex.org/I24541011",
+      "name": "Soonchunhyang University",
+      "country": "KR",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4341,17 +4341,17 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210148737",
-      "name": "CHA University",
-      "country": "KR",
+      "id": "https://openalex.org/I4210153049",
+      "name": "Vidyasirimedhi Institute of Science and Technology",
+      "country": "TH",
       "type": "education",
       "papers": 1,
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210153049",
-      "name": "Vidyasirimedhi Institute of Science and Technology",
-      "country": "TH",
+      "id": "https://openalex.org/I4210148737",
+      "name": "CHA University",
+      "country": "KR",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -5027,25 +5027,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4410490295",
-      "year": 2025,
-      "title": "Autophagy-Regulating, Photothermal Polydopamine-Coated, and Photodynamic Zirconium/Porphyrin-Framed Metal–Organic Frameworks for Enhanced Doxorubicin Therapy in Colon Cancer",
-      "doi": "https://doi.org/10.34133/bmr.0218",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5073268890",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5102941983",
-        "https://openalex.org/A5038422196",
-        "https://openalex.org/A5056376298",
-        "https://openalex.org/A5091275236",
-        "https://openalex.org/A5014280112"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4403734307",
       "year": 2024,
       "title": "Synthesis of Silver Nanoparticles and Gold Nanoparticles Used as Biosensors for the Detection of Human Serum Albumin-Diagnosed Kidney Disease",
@@ -5062,6 +5043,25 @@
         "https://openalex.org/A5063227694",
         "https://openalex.org/A5086734944",
         "https://openalex.org/A5041020388"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4410490295",
+      "year": 2025,
+      "title": "Autophagy-Regulating, Photothermal Polydopamine-Coated, and Photodynamic Zirconium/Porphyrin-Framed Metal–Organic Frameworks for Enhanced Doxorubicin Therapy in Colon Cancer",
+      "doi": "https://doi.org/10.34133/bmr.0218",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5073268890",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5102941983",
+        "https://openalex.org/A5038422196",
+        "https://openalex.org/A5056376298",
+        "https://openalex.org/A5091275236",
+        "https://openalex.org/A5014280112"
       ]
     },
     {
@@ -5180,6 +5180,18 @@
         "https://openalex.org/A5006402804",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5048790280"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2563908675",
+      "year": 2016,
+      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic-<i>co</i>-glycolic Acid)/Poly(styrene-<i>alt</i>-maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
+      "doi": "https://doi.org/10.1021/acsami.6b08994",
+      "venue": "ACS Applied Materials & Interfaces",
+      "co_author_ids": [
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -5312,18 +5324,6 @@
         "https://openalex.org/A5112499147",
         "https://openalex.org/A5100368589",
         "https://openalex.org/A5014332786"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2563908675",
-      "year": 2016,
-      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic-<i>co</i>-glycolic Acid)/Poly(styrene-<i>alt</i>-maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
-      "doi": "https://doi.org/10.1021/acsami.6b08994",
-      "venue": "ACS Applied Materials & Interfaces",
-      "co_author_ids": [
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5052029602"
       ]
     },
     {

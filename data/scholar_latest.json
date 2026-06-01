@@ -1,6 +1,6 @@
 {
-  "total_citations": 4425,
-  "y5_citations": 2481,
+  "total_citations": 4435,
+  "y5_citations": 2489,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -13,17 +13,17 @@
     "2013": 135,
     "2014": 173,
     "2015": 160,
-    "2016": 156,
+    "2016": 158,
     "2017": 197,
     "2018": 188,
     "2019": 223,
     "2020": 313,
-    "2021": 336,
+    "2021": 337,
     "2022": 411,
-    "2023": 417,
+    "2023": 419,
     "2024": 534,
     "2025": 560,
-    "2026": 221
+    "2026": 225
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 655,
+        "value": 658,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -47,7 +47,7 @@
       "authors": "JS Guthi, SG Yang, G Huang, S Li, C Khemtong, CW Kessinger, M Peyton, ...",
       "publication": "Molecular pharmaceutics 7 (1), 32-40, 2010",
       "cited_by": {
-        "value": 261,
+        "value": 262,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3435560212659049934",
         "serpapi_link": "https://serpapi.com/search.json?cites=3435560212659049934&engine=google_scholar&hl=en",
         "cites_id": "3435560212659049934"
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 187,
+        "value": 188,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -117,7 +117,7 @@
       "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
       "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
       "cited_by": {
-        "value": 134,
+        "value": 135,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
         "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
         "cites_id": "18137633855902214834"
@@ -307,6 +307,6 @@
       "year": "2023"
     }
   ],
-  "fetched_at": "2026-05-25T12:36:13.325095+00:00",
+  "fetched_at": "2026-06-01T15:27:07.433934+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author"
 }
