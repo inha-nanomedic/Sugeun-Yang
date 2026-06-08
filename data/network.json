@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-01T15:27:06.071542+00:00",
+  "fetched_at": "2026-06-08T13:11:04.169806+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4165,6 +4165,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I170238339",
+      "name": "Duy Tan University",
+      "country": "VN",
+      "type": "education",
+      "papers": 2,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I155671955",
       "name": "Korea Atomic Energy Research Institute",
       "country": "KR",
@@ -4184,14 +4192,6 @@
       "id": "https://openalex.org/I36258959",
       "name": "University of California, San Diego",
       "country": "US",
-      "type": "education",
-      "papers": 2,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I170238339",
-      "name": "Duy Tan University",
-      "country": "VN",
       "type": "education",
       "papers": 2,
       "is_external": true
@@ -5007,6 +5007,20 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3188096147",
+      "year": 2021,
+      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
+      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
+      "venue": "Biomacromolecules",
+      "co_author_ids": [
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5000212121",
+        "https://openalex.org/A5100776694",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5038803466"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4324278770",
       "year": 2023,
       "title": "Novel histone deacetylase 6 inhibitors using benzimidazole as caps for cancer treatment",
@@ -5192,20 +5206,6 @@
         "https://openalex.org/A5042100124",
         "https://openalex.org/A5101949860",
         "https://openalex.org/A5052029602"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3188096147",
-      "year": 2021,
-      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
-      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
-      "venue": "Biomacromolecules",
-      "co_author_ids": [
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5000212121",
-        "https://openalex.org/A5100776694",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5038803466"
       ]
     },
     {
