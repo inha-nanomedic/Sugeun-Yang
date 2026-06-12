@@ -172,8 +172,11 @@ def replace_pill(html, label, new_value):
     return re.sub(pattern, repl, html, count=1)
 
 
+# Lab-page rows are single-line: <tr><td>Title</td><td>Journal</td><td>Year</td><td><a ...>DOI</a></td></tr>
+# Deliberately NO re.DOTALL — a multi-line/garbled row should fail to count
+# (and trip the MIN_PLAUSIBLE_COUNT guard) rather than match across rows.
 _PUB_ROW_RE = re.compile(
-    r"<tr><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td></tr>", re.DOTALL
+    r"<tr><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td></tr>"
 )
 
 
@@ -190,6 +193,9 @@ def fetch_publication_count():
 
     Returns None on any network/parse failure or an implausibly low count, so
     the caller leaves the existing number untouched rather than writing garbage.
+
+    Accepted trade-off: a truncated-but-valid response with >= MIN_PLAUSIBLE_COUNT
+    rows could briefly write a low count; the next weekly run self-heals it.
     """
     try:
         with urllib.request.urlopen(PUB_PAGE_URL, timeout=30) as r:

@@ -50,6 +50,19 @@ def test_count_rows_only_inside_tbody():
     assert s.count_publication_rows(html) == 1
 
 
+def test_count_rows_first_tbody_only_when_second_table_exists():
+    # plausible future: a patents table BELOW publications on publication-patent.html;
+    # only the first tbody (publications) must be counted
+    html = ('<tbody>\n'
+            '          <tr><td>Pub A</td><td>J1</td><td>2025</td><td><a href="a">DOI</a></td></tr>\n'
+            '          <tr><td>Pub B</td><td>J2</td><td>2024</td><td><a href="b">DOI</a></td></tr>\n'
+            '        </tbody>\n'
+            '<tbody>\n'
+            '          <tr><td>Patent X</td><td>KR</td><td>2024</td><td><a href="p">Link</a></td></tr>\n'
+            '        </tbody>')
+    assert s.count_publication_rows(html) == 2
+
+
 def test_set_count_updates_publications_pill():
     out = s.set_publication_count(PROFILE, 97)
     assert '<span class="v">97</span>\n          <span class="l">Publications</span>' in out
