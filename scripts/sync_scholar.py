@@ -23,6 +23,12 @@ HTML_PATH = ROOT / "index.html"
 DATA_DIR = ROOT / "data"
 START_YEAR = 2009
 
+# The curated publication list lives on the lab homepage. We mirror ITS row
+# count onto this profile page so both sites always show the same number.
+# (Google Scholar lists more, incl. junk/duplicates, so we never count it.)
+PUB_PAGE_URL = "https://inha-nanomedic.com/publication-patent.html"
+MIN_PLAUSIBLE_COUNT = 50  # guard: refuse to write a count below this (bad fetch)
+
 
 def fetch_scholar():
     """Fetch metrics via SerpAPI's google_scholar_author endpoint."""
@@ -166,6 +172,56 @@ def replace_pill(html, label, new_value):
     return re.sub(pattern, repl, html, count=1)
 
 
+_PUB_ROW_RE = re.compile(
+    r"<tr><td>.*?</td><td>.*?</td><td>.*?</td><td>.*?</td></tr>", re.DOTALL
+)
+
+
+def count_publication_rows(pub_html):
+    """Count the 4-column <tr> publication rows inside the lab page's <tbody>."""
+    start = pub_html.find("<tbody>")
+    end = pub_html.find("</tbody>")
+    region = pub_html[start:end] if start != -1 and end != -1 else pub_html
+    return len(_PUB_ROW_RE.findall(region))
+
+
+def fetch_publication_count():
+    """Fetch the live lab homepage and return its publication-row count.
+
+    Returns None on any network/parse failure or an implausibly low count, so
+    the caller leaves the existing number untouched rather than writing garbage.
+    """
+    try:
+        with urllib.request.urlopen(PUB_PAGE_URL, timeout=30) as r:
+            pub_html = r.read().decode("utf-8")
+    except Exception as exc:
+        print(f"[sync] publication-count fetch failed: {exc}", file=sys.stderr)
+        return None
+    n = count_publication_rows(pub_html)
+    if n < MIN_PLAUSIBLE_COUNT:
+        print(f"[sync] publication count {n} below {MIN_PLAUSIBLE_COUNT}; ignoring.",
+              file=sys.stderr)
+        return None
+    return n
+
+
+def set_publication_count(html, count):
+    """Write `count` into the 3 total-count spots on the profile page.
+
+    1. the Publications metric pill, 2. the "(N of TOTAL)" heading (the shown
+    "N" is left alone), 3. the "View all TOTAL publications" footer link.
+    Citation/h-index/i10 pills and the tab's shown count are untouched.
+    """
+    html = replace_pill(html, "Publications", str(count))
+    html = re.sub(
+        r'(Recent Publications <span class="count">\(\d+ of )\d+(\)</span>)',
+        rf'\g<1>{count}\g<2>', html, count=1)
+    html = re.sub(
+        r'(View all )\d+( publications)',
+        rf'\g<1>{count}\g<2>', html, count=1)
+    return html
+
+
 def update_html(data):
     html = HTML_PATH.read_text(encoding="utf-8")
 
@@ -225,6 +281,9 @@ def update_html(data):
             flags=re.DOTALL,
         )
 
+    if data.get("pub_count"):
+        html = set_publication_count(html, data["pub_count"])
+
     HTML_PATH.write_text(html, encoding="utf-8")
 
 
@@ -247,6 +306,13 @@ def main():
     print(f"[sync] h-index:          {data['h_index']} (5y: {data['y5_h_index']})")
     print(f"[sync] i10-index:        {data['i10_index']} (5y: {data['y5_i10_index']})")
     print(f"[sync] Years in chart:   {len(data['cites_per_year'])}")
+
+    count = fetch_publication_count()
+    if count is not None:
+        data["pub_count"] = count
+        print(f"[sync] Publication count: {count} (mirrored from lab homepage)")
+    else:
+        print("[sync] Publication count: unavailable; leaving existing number as-is")
 
     DATA_DIR.mkdir(exist_ok=True)
     (DATA_DIR / "scholar_latest.json").write_text(
