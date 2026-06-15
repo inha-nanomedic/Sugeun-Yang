@@ -1,6 +1,6 @@
 {
-  "total_citations": 4444,
-  "y5_citations": 2500,
+  "total_citations": 4456,
+  "y5_citations": 2509,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -13,17 +13,17 @@
     "2013": 135,
     "2014": 173,
     "2015": 160,
-    "2016": 156,
+    "2016": 158,
     "2017": 197,
     "2018": 188,
-    "2019": 224,
+    "2019": 225,
     "2020": 314,
     "2021": 338,
     "2022": 411,
-    "2023": 422,
-    "2024": 535,
-    "2025": 561,
-    "2026": 230
+    "2023": 423,
+    "2024": 534,
+    "2025": 560,
+    "2026": 240
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 662,
+        "value": 666,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -47,7 +47,7 @@
       "authors": "JS Guthi, SG Yang, G Huang, S Li, C Khemtong, CW Kessinger, M Peyton, ...",
       "publication": "Molecular pharmaceutics 7 (1), 32-40, 2010",
       "cited_by": {
-        "value": 261,
+        "value": 262,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3435560212659049934",
         "serpapi_link": "https://serpapi.com/search.json?cites=3435560212659049934&engine=google_scholar&hl=en",
         "cites_id": "3435560212659049934"
@@ -117,7 +117,7 @@
       "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
       "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
       "cited_by": {
-        "value": 134,
+        "value": 136,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
         "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
         "cites_id": "18137633855902214834"
@@ -159,7 +159,7 @@
       "authors": "M Kim, SG Yang, JM Kim, JW Lee, YS Kim, JI Lee",
       "publication": "International journal of molecular medicine 30 (3), 473-479, 2012",
       "cited_by": {
-        "value": 118,
+        "value": 119,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13484796374835337379",
         "serpapi_link": "https://serpapi.com/search.json?cites=13484796374835337379&engine=google_scholar&hl=en",
         "cites_id": "13484796374835337379"
@@ -307,6 +307,7 @@
       "year": "2023"
     }
   ],
-  "fetched_at": "2026-06-08T13:11:05.209993+00:00",
-  "source": "SerpAPI \u00b7 google_scholar_author"
+  "fetched_at": "2026-06-15T15:19:25.885859+00:00",
+  "source": "SerpAPI \u00b7 google_scholar_author",
+  "pub_count": 96
 }

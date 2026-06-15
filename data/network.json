@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-08T13:11:04.169806+00:00",
+  "fetched_at": "2026-06-15T15:19:25.098533+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -8,8 +8,8 @@
   "totals": {
     "works": 98,
     "co_authors": 314,
-    "institutions": 69,
-    "countries": 13
+    "institutions": 70,
+    "countries": 14
   },
   "co_authors": [
     {
@@ -680,7 +680,8 @@
       "first_year": 2013,
       "last_year": 2014,
       "institution_ids": [
-        "https://openalex.org/I4210090248"
+        "https://openalex.org/I4210090248",
+        "https://openalex.org/I4210094804"
       ],
       "is_external": true
     },
@@ -2856,7 +2857,7 @@
     {
       "id": "https://openalex.org/A5100458101",
       "name": "Min-A Kim",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0003-2758-7254",
       "papers": 1,
       "first_year": 2011,
       "last_year": 2011,
@@ -3928,7 +3929,7 @@
       "id": "https://openalex.org/I19820366",
       "name": "Chinese Academy of Sciences",
       "country": "CN",
-      "type": "funder",
+      "type": "government",
       "papers": 16,
       "is_external": true
     },
@@ -4149,14 +4150,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210090951",
-      "name": "Advanced Pharma",
-      "country": "US",
-      "type": "facility",
-      "papers": 2,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4400600942",
       "name": "Yonsei University College of Dentistry",
       "country": "",
@@ -4181,6 +4174,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4210090951",
+      "name": "Advanced Pharma",
+      "country": "US",
+      "type": "facility",
+      "papers": 2,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I4210086342",
       "name": "Songdo Hospital",
       "country": "KR",
@@ -4190,7 +4191,7 @@
     },
     {
       "id": "https://openalex.org/I36258959",
-      "name": "University of California, San Diego",
+      "name": "University of California San Diego",
       "country": "US",
       "type": "education",
       "papers": 2,
@@ -4325,6 +4326,22 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4210149256",
+      "name": "Zhangzhou Vocational and Technical College",
+      "country": "CN",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210094804",
+      "name": "Bioalpha (Malaysia)",
+      "country": "MY",
+      "type": "company",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I4210091204",
       "name": "Joint Center for Structural Genomics",
       "country": "US",
@@ -4395,14 +4412,6 @@
       "type": "healthcare",
       "papers": 1,
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210149256",
-      "name": "Zhangzhou Vocational and Technical College",
-      "country": "CN",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
     }
   ],
   "country_counts": {
@@ -4418,7 +4427,8 @@
     "JP": 1,
     "BE": 1,
     "IN": 1,
-    "GB": 1
+    "GB": 1,
+    "MY": 1
   },
   "papers": [
     {
@@ -4811,21 +4821,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2007530036",
-      "year": 2013,
-      "title": "Endoscopic application of EGF-chitosan hydrogel for precipitated healing of GI peptic ulcers and mucosectomy-induced ulcers",
-      "doi": "https://doi.org/10.1007/s10856-013-5088-x",
-      "venue": "Journal of Materials Science Materials in Medicine",
-      "co_author_ids": [
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5011304851",
-        "https://openalex.org/A5044181109",
-        "https://openalex.org/A5054404752",
-        "https://openalex.org/A5085029096",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
       "id": "https://openalex.org/W3093381001",
       "year": 2020,
       "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
@@ -5119,6 +5114,19 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4411966593",
+      "year": 2025,
+      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
+      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
+      "venue": "Acta Pharmaceutica Sinica B",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2008579070",
       "year": 2010,
       "title": "99mTc-hematoporphyrin linked albumin nanoparticles for lung cancer targeted photodynamic therapy and imaging",
@@ -5139,6 +5147,21 @@
       "doi": "https://doi.org/10.1007/s12272-010-1116-2",
       "venue": "Archives of Pharmacal Research",
       "co_author_ids": []
+    },
+    {
+      "id": "https://openalex.org/W2007530036",
+      "year": 2013,
+      "title": "Endoscopic application of EGF-chitosan hydrogel for precipitated healing of GI peptic ulcers and mucosectomy-induced ulcers",
+      "doi": "https://doi.org/10.1007/s10856-013-5088-x",
+      "venue": "Journal of Materials Science Materials in Medicine",
+      "co_author_ids": [
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5011304851",
+        "https://openalex.org/A5044181109",
+        "https://openalex.org/A5054404752",
+        "https://openalex.org/A5085029096",
+        "https://openalex.org/A5072803749"
+      ]
     },
     {
       "id": "https://openalex.org/W2055701749",
@@ -5847,19 +5870,6 @@
       "venue": "Metabolites",
       "co_author_ids": [
         "https://openalex.org/A5090977989"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4411966593",
-      "year": 2025,
-      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
-      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
-      "venue": "Acta Pharmaceutica Sinica B",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5056376298"
       ]
     },
     {
