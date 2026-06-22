@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-15T15:19:25.098533+00:00",
+  "fetched_at": "2026-06-22T14:45:43.505451+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -3624,7 +3624,7 @@
     {
       "id": "https://openalex.org/A5110394606",
       "name": "Yanqiu Feng",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-3294-4351",
       "papers": 1,
       "first_year": 2023,
       "last_year": 2023,
@@ -4302,22 +4302,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I279583474",
-      "name": "Navamindradhiraj University",
-      "country": "TH",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I2801262096",
-      "name": "Vajira Hospital",
-      "country": "TH",
-      "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4575257",
       "name": "Hanyang University",
       "country": "KR",
@@ -4362,6 +4346,22 @@
       "name": "Vidyasirimedhi Institute of Science and Technology",
       "country": "TH",
       "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I279583474",
+      "name": "Navamindradhiraj University",
+      "country": "TH",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I2801262096",
+      "name": "Vajira Hospital",
+      "country": "TH",
+      "type": "healthcare",
       "papers": 1,
       "is_external": true
     },
@@ -5074,21 +5074,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4387630748",
-      "year": 2023,
-      "title": "Facile synthesis of multi-stimuli responsive biocompatible trimethyl chitosan-based nanogel as potential nanocarrier for photothermal chemotherapy",
-      "doi": "https://doi.org/10.1016/j.scp.2023.101290",
-      "venue": "Sustainable Chemistry and Pharmacy",
-      "co_author_ids": [
-        "https://openalex.org/A5079783706",
-        "https://openalex.org/A5044550703",
-        "https://openalex.org/A5061019019",
-        "https://openalex.org/A5053010588",
-        "https://openalex.org/A5112419946",
-        "https://openalex.org/A5052029602"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2079945583",
       "year": 2012,
       "title": "Inclusion complex effect on the bioavailability of clotrimazole from poloxamer-based solid suppository",
@@ -5273,6 +5258,21 @@
         "https://openalex.org/A5101634566",
         "https://openalex.org/A5080095186",
         "https://openalex.org/A5055385392"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4387630748",
+      "year": 2023,
+      "title": "Facile synthesis of multi-stimuli responsive biocompatible trimethyl chitosan-based nanogel as potential nanocarrier for photothermal chemotherapy",
+      "doi": "https://doi.org/10.1016/j.scp.2023.101290",
+      "venue": "Sustainable Chemistry and Pharmacy",
+      "co_author_ids": [
+        "https://openalex.org/A5079783706",
+        "https://openalex.org/A5044550703",
+        "https://openalex.org/A5061019019",
+        "https://openalex.org/A5053010588",
+        "https://openalex.org/A5112419946",
+        "https://openalex.org/A5052029602"
       ]
     },
     {
