@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-06-22T14:45:43.505451+00:00",
+  "fetched_at": "2026-06-29T13:10:27.008773+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
     "orcid": "0000-0001-5278-8723"
   },
   "totals": {
-    "works": 98,
-    "co_authors": 314,
+    "works": 99,
+    "co_authors": 315,
     "institutions": 70,
     "countries": 14
   },
@@ -16,9 +16,9 @@
       "id": "https://openalex.org/A5052029602",
       "name": "Ratchapol Jenjob",
       "orcid": "https://orcid.org/0000-0001-8423-1153",
-      "papers": 17,
+      "papers": 18,
       "first_year": 2015,
-      "last_year": 2025,
+      "last_year": 2026,
       "institution_ids": [
         "https://openalex.org/I191879574",
         "https://openalex.org/I4210153049",
@@ -800,6 +800,19 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5085277476",
+      "name": "Arjaree Jobdeedamrong",
+      "orcid": null,
+      "papers": 2,
+      "first_year": 2025,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5078615245",
       "name": "Bùi Thị Bửu Huê",
       "orcid": "https://orcid.org/0000-0002-4635-933X",
@@ -1130,6 +1143,19 @@
       "is_external": false
     },
     {
+      "id": "https://openalex.org/A5069836237",
+      "name": "Ngoc-Thuan Truong",
+      "orcid": null,
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5118899901",
       "name": "Nohyun Lee",
       "orcid": "https://orcid.org/0000-0001-6296-2625",
@@ -1258,6 +1284,18 @@
       "last_year": 2026,
       "institution_ids": [
         "https://openalex.org/I193352282"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5027658078",
+      "name": "Seokyoung Bang",
+      "orcid": "https://orcid.org/0000-0001-6607-2072",
+      "papers": 2,
+      "first_year": 2025,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I205490536"
       ],
       "is_external": true
     },
@@ -1474,19 +1512,6 @@
         "https://openalex.org/I158708052"
       ],
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5085277476",
-      "name": "Arjaree Jobdeedamrong",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2025,
-      "last_year": 2025,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
     },
     {
       "id": "https://openalex.org/A5076292212",
@@ -2030,6 +2055,18 @@
       "papers": 1,
       "first_year": 2024,
       "last_year": 2024,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5139108936",
+      "name": "Hye-Jin Yoo",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
       "institution_ids": [
         "https://openalex.org/I191879574"
       ],
@@ -2968,19 +3005,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5069836237",
-      "name": "Ngoc-Thuan Truong",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
-    },
-    {
       "id": "https://openalex.org/A5068478889",
       "name": "Nguyen Phu Quy",
       "orcid": null,
@@ -3207,18 +3231,6 @@
       "institution_ids": [
         "https://openalex.org/I36258959",
         "https://openalex.org/I4210091204"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5027658078",
-      "name": "Seokyoung Bang",
-      "orcid": "https://orcid.org/0000-0001-6607-2072",
-      "papers": 1,
-      "first_year": 2025,
-      "last_year": 2025,
-      "institution_ids": [
-        "https://openalex.org/I205490536"
       ],
       "is_external": true
     },
@@ -3858,7 +3870,7 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 185,
+      "papers": 189,
       "is_external": false
     },
     {
@@ -4006,6 +4018,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I205490536",
+      "name": "Dongguk University",
+      "country": "KR",
+      "type": "education",
+      "papers": 6,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I146429904",
       "name": "Incheon National University",
       "country": "KR",
@@ -4018,14 +4038,6 @@
       "name": "Chong Kun Dang Bio (South Korea)",
       "country": "KR",
       "type": "company",
-      "papers": 5,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I205490536",
-      "name": "Dongguk University",
-      "country": "KR",
-      "type": "education",
       "papers": 5,
       "is_external": true
     },
@@ -4415,7 +4427,7 @@
     }
   ],
   "country_counts": {
-    "KR": 394,
+    "KR": 399,
     "CN": 142,
     "US": 67,
     "TH": 32,
@@ -5320,23 +5332,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4413271926",
-      "year": 2025,
-      "title": "Cholesterol-Conjugated Polyion Complex Nanoparticles for Combination Delivery of Hydrophobic Paclitaxel and Hydrophilic miR-34a for Colon Cancer Therapy",
-      "doi": "https://doi.org/10.3390/ijms26167965",
-      "venue": "International Journal of Molecular Sciences",
-      "co_author_ids": [
-        "https://openalex.org/A5085277476",
-        "https://openalex.org/A5090977989",
-        "https://openalex.org/A5051742735",
-        "https://openalex.org/A5041020388",
-        "https://openalex.org/A5086734944",
-        "https://openalex.org/A5044987510",
-        "https://openalex.org/A5076820793",
-        "https://openalex.org/A5101949860"
-      ]
-    },
-    {
       "id": "https://openalex.org/W327060654",
       "year": 2001,
       "title": "Once-a-Day Oral Dosing Regimen of Cyclosporin A: Combined Therapy of Cyclosporin A Premicroemulsion Concentrates and Enteric Coated Solid-State Premicroemulsion Concentrates",
@@ -5423,6 +5418,23 @@
         "https://openalex.org/A5069836237",
         "https://openalex.org/A5059446452",
         "https://openalex.org/A5076820793"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413271926",
+      "year": 2025,
+      "title": "Cholesterol-Conjugated Polyion Complex Nanoparticles for Combination Delivery of Hydrophobic Paclitaxel and Hydrophilic miR-34a for Colon Cancer Therapy",
+      "doi": "https://doi.org/10.3390/ijms26167965",
+      "venue": "International Journal of Molecular Sciences",
+      "co_author_ids": [
+        "https://openalex.org/A5085277476",
+        "https://openalex.org/A5090977989",
+        "https://openalex.org/A5051742735",
+        "https://openalex.org/A5041020388",
+        "https://openalex.org/A5086734944",
+        "https://openalex.org/A5044987510",
+        "https://openalex.org/A5076820793",
+        "https://openalex.org/A5101949860"
       ]
     },
     {
@@ -5913,6 +5925,20 @@
         "https://openalex.org/A5017647161",
         "https://openalex.org/A5100673990",
         "https://openalex.org/A5075061660"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W7165554749",
+      "year": 2026,
+      "title": "Electricity-Based Locoregional Cancer Therapies and Their Associated Drug Delivery Technologies: from Principal of Action to Clinical Implications",
+      "doi": "https://doi.org/10.34133/bmr.0386",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5069836237",
+        "https://openalex.org/A5085277476",
+        "https://openalex.org/A5139108936",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5027658078"
       ]
     },
     {

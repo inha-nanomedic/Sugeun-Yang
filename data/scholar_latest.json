@@ -1,6 +1,6 @@
 {
-  "total_citations": 4465,
-  "y5_citations": 2520,
+  "total_citations": 4475,
+  "y5_citations": 2529,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -13,17 +13,17 @@
     "2013": 135,
     "2014": 173,
     "2015": 160,
-    "2016": 156,
+    "2016": 158,
     "2017": 197,
     "2018": 188,
     "2019": 225,
     "2020": 314,
-    "2021": 340,
-    "2022": 410,
+    "2021": 339,
+    "2022": 412,
     "2023": 423,
     "2024": 534,
     "2025": 560,
-    "2026": 250
+    "2026": 258
   },
   "articles": [
     {
@@ -47,7 +47,7 @@
       "authors": "JS Guthi, SG Yang, G Huang, S Li, C Khemtong, CW Kessinger, M Peyton, ...",
       "publication": "Molecular pharmaceutics 7 (1), 32-40, 2010",
       "cited_by": {
-        "value": 261,
+        "value": 263,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3435560212659049934",
         "serpapi_link": "https://serpapi.com/search.json?cites=3435560212659049934&engine=google_scholar&hl=en",
         "cites_id": "3435560212659049934"
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 190,
+        "value": 191,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -83,7 +83,7 @@
       "year": "2015"
     },
     {
-      "title": "Lung-specific delivery of paclitaxel by chitosan-modified PLGA nanoparticles via transient formation of microaggregates",
+      "title": "Lung\u2010specific delivery of paclitaxel by chitosan\u2010modified PLGA nanoparticles via transient formation of microaggregates",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:UebtZRa9Y70C",
       "citation_id": "X1B7JX8AAAAJ:UebtZRa9Y70C",
       "authors": "R Yang, SG Yang, WS Shim, F Cui, G Cheng, IW Kim, DD Kim, SJ Chung, ...",
@@ -117,7 +117,7 @@
       "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
       "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
       "cited_by": {
-        "value": 135,
+        "value": 137,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
         "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
         "cites_id": "18137633855902214834"
@@ -223,6 +223,20 @@
       "year": "2023"
     },
     {
+      "title": "Exceedingly Small Magnetic Iron Oxide Nanoparticles for T1\u2010Weighted Magnetic Resonance Imaging and Imaging\u2010Guided Therapy of Tumors",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:NhqRSupF_l8C",
+      "citation_id": "X1B7JX8AAAAJ:NhqRSupF_l8C",
+      "authors": "J Yang, J Feng, S Yang, Y Xu, Z Shen",
+      "publication": "Small 19 (49), 2302856, 2023",
+      "cited_by": {
+        "value": 71,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474365134918622444",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7474365134918622444&engine=google_scholar&hl=en",
+        "cites_id": "7474365134918622444"
+      },
+      "year": "2023"
+    },
+    {
       "title": "Durable soft neural micro-electrode coating by an electrochemical synthesis of PEDOT: PSS/graphene oxide composites",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:NMxIlDl6LWMC",
       "citation_id": "X1B7JX8AAAAJ:NMxIlDl6LWMC",
@@ -235,20 +249,6 @@
         "cites_id": "2704977120617069866"
       },
       "year": "2019"
-    },
-    {
-      "title": "Exceedingly Small Magnetic Iron Oxide Nanoparticles for T1\u2010Weighted Magnetic Resonance Imaging and Imaging\u2010Guided Therapy of Tumors",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:NhqRSupF_l8C",
-      "citation_id": "X1B7JX8AAAAJ:NhqRSupF_l8C",
-      "authors": "J Yang, J Feng, S Yang, Y Xu, Z Shen",
-      "publication": "Small 19 (49), 2302856, 2023",
-      "cited_by": {
-        "value": 70,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474365134918622444",
-        "serpapi_link": "https://serpapi.com/search.json?cites=7474365134918622444&engine=google_scholar&hl=en",
-        "cites_id": "7474365134918622444"
-      },
-      "year": "2023"
     },
     {
       "title": "A novel Trojan-horse targeting strategy to reduce the non-specific uptake of nanocarriers by non-cancerous cells",
@@ -307,7 +307,7 @@
       "year": "2023"
     }
   ],
-  "fetched_at": "2026-06-22T14:45:54.869538+00:00",
+  "fetched_at": "2026-06-29T13:10:33.719718+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 96
 }
