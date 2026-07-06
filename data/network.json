@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-06-29T13:10:27.008773+00:00",
+  "fetched_at": "2026-07-06T06:51:19.687389+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
     "orcid": "0000-0001-5278-8723"
   },
   "totals": {
-    "works": 99,
-    "co_authors": 315,
+    "works": 100,
+    "co_authors": 320,
     "institutions": 70,
     "countries": 14
   },
@@ -497,6 +497,19 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5085277476",
+      "name": "Arjaree Jobdeedamrong",
+      "orcid": null,
+      "papers": 3,
+      "first_year": 2025,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5080095186",
       "name": "Bong Sup Shim",
       "orcid": "https://orcid.org/0000-0003-3205-6191",
@@ -798,19 +811,6 @@
         "https://openalex.org/I58200834"
       ],
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5085277476",
-      "name": "Arjaree Jobdeedamrong",
-      "orcid": null,
-      "papers": 2,
-      "first_year": 2025,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
     },
     {
       "id": "https://openalex.org/A5078615245",
@@ -1703,6 +1703,18 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5139939756",
+      "name": "Da-hee Ryu",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5110155990",
       "name": "Dae Duk Kim",
       "orcid": null,
@@ -2576,6 +2588,18 @@
         "https://openalex.org/I4210093716"
       ],
       "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5139905530",
+      "name": "Jun-hyeon Park",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
     },
     {
       "id": "https://openalex.org/A5059048351",
@@ -3495,6 +3519,18 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5139857419",
+      "name": "Truong Ngoc Thuan",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5077807093",
       "name": "Trần Duy Bình",
       "orcid": "https://orcid.org/0000-0003-1591-2611",
@@ -3745,6 +3781,18 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5081491421",
+      "name": "Yoon-Hee Shim",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5046700190",
       "name": "You-han Bae",
       "orcid": null,
@@ -3773,6 +3821,18 @@
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5103639673",
+      "name": "Young-Rok Choi",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
       "institution_ids": [
         "https://openalex.org/I191879574"
       ],
@@ -3870,7 +3930,7 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 189,
+      "papers": 195,
       "is_external": false
     },
     {
@@ -4234,54 +4294,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I103320735",
-      "name": "Università Cattolica del Sacro Cuore",
-      "country": "IT",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I1317886745",
-      "name": "Virginia Mason Medical Center",
-      "country": "US",
-      "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I74801974",
-      "name": "The University of Tokyo",
-      "country": "JP",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I2802054198",
-      "name": "Erasmus Hospital",
-      "country": "BE",
-      "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I2801680663",
-      "name": "Asan Medical Center",
-      "country": "KR",
-      "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210137328",
-      "name": "Asian Institute of Gastroenterology",
-      "country": "IN",
-      "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4210093057",
       "name": "Faculty (United Kingdom)",
       "country": "GB",
@@ -4326,6 +4338,54 @@
       "name": "Zhangzhou Vocational and Technical College",
       "country": "CN",
       "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I103320735",
+      "name": "Università Cattolica del Sacro Cuore",
+      "country": "IT",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I1317886745",
+      "name": "Virginia Mason Medical Center",
+      "country": "US",
+      "type": "healthcare",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I74801974",
+      "name": "The University of Tokyo",
+      "country": "JP",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I2802054198",
+      "name": "Erasmus Hospital",
+      "country": "BE",
+      "type": "healthcare",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I2801680663",
+      "name": "Asan Medical Center",
+      "country": "KR",
+      "type": "healthcare",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210137328",
+      "name": "Asian Institute of Gastroenterology",
+      "country": "IN",
+      "type": "healthcare",
       "papers": 1,
       "is_external": true
     },
@@ -4427,7 +4487,7 @@
     }
   ],
   "country_counts": {
-    "KR": 399,
+    "KR": 405,
     "CN": 142,
     "US": 67,
     "TH": 32,
@@ -4435,11 +4495,11 @@
     "BD": 4,
     "EC": 4,
     "SG": 1,
+    "GB": 1,
     "IT": 1,
     "JP": 1,
     "BE": 1,
     "IN": 1,
-    "GB": 1,
     "MY": 1
   },
   "papers": [
@@ -4785,26 +4845,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2036545683",
-      "year": 2014,
-      "title": "Polymeric photosensitizer-embedded self-expanding metal stent for repeatable endoscopic photodynamic therapy of cholangiocarcinoma",
-      "doi": "https://doi.org/10.1016/j.biomaterials.2014.07.001",
-      "venue": "Biomaterials",
-      "co_author_ids": [
-        "https://openalex.org/A5008330827",
-        "https://openalex.org/A5076820793",
-        "https://openalex.org/A5072803749",
-        "https://openalex.org/A5067328906",
-        "https://openalex.org/A5074312882",
-        "https://openalex.org/A5008811522",
-        "https://openalex.org/A5063647285",
-        "https://openalex.org/A5073049896",
-        "https://openalex.org/A5103178513",
-        "https://openalex.org/A5044806903",
-        "https://openalex.org/A5080126709"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2945845468",
       "year": 2019,
       "title": "NIR-responsive ROS generating core and ROS-triggered 5′-Deoxy-5-fluorocytidine releasing shell structured water-swelling microgel for locoregional combination cancer therapy",
@@ -5138,6 +5178,26 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2036545683",
+      "year": 2014,
+      "title": "Polymeric photosensitizer-embedded self-expanding metal stent for repeatable endoscopic photodynamic therapy of cholangiocarcinoma",
+      "doi": "https://doi.org/10.1016/j.biomaterials.2014.07.001",
+      "venue": "Biomaterials",
+      "co_author_ids": [
+        "https://openalex.org/A5008330827",
+        "https://openalex.org/A5076820793",
+        "https://openalex.org/A5072803749",
+        "https://openalex.org/A5067328906",
+        "https://openalex.org/A5074312882",
+        "https://openalex.org/A5008811522",
+        "https://openalex.org/A5063647285",
+        "https://openalex.org/A5073049896",
+        "https://openalex.org/A5103178513",
+        "https://openalex.org/A5044806903",
+        "https://openalex.org/A5080126709"
+      ]
+    },
+    {
       "id": "https://openalex.org/W1976448220",
       "year": 2010,
       "title": "Biowaiver extension potential and IVIVC for BCS Class II drugs by formulation design: Case study for cyclosporine self-microemulsifying formulation",
@@ -5435,6 +5495,16 @@
         "https://openalex.org/A5044987510",
         "https://openalex.org/A5076820793",
         "https://openalex.org/A5101949860"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409535635",
+      "year": 2025,
+      "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
+      "doi": "https://doi.org/10.3390/metabo15040279",
+      "venue": "Metabolites",
+      "co_author_ids": [
+        "https://openalex.org/A5090977989"
       ]
     },
     {
@@ -5875,16 +5945,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4409535635",
-      "year": 2025,
-      "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
-      "doi": "https://doi.org/10.3390/metabo15040279",
-      "venue": "Metabolites",
-      "co_author_ids": [
-        "https://openalex.org/A5090977989"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4413138024",
       "year": 2025,
       "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
@@ -5942,6 +6002,21 @@
       ]
     },
     {
+      "id": "https://openalex.org/W7167065509",
+      "year": 2026,
+      "title": "Abstract P68: Photocatalytic Ferroptosis Induction in KRAS-Mutant CRC via BiVO4-Silica Nanoparticles",
+      "doi": "https://doi.org/10.1158/1538-7445.fcs2025-p68",
+      "venue": "Cancer Research",
+      "co_author_ids": [
+        "https://openalex.org/A5139905530",
+        "https://openalex.org/A5103639673",
+        "https://openalex.org/A5081491421",
+        "https://openalex.org/A5139939756",
+        "https://openalex.org/A5139857419",
+        "https://openalex.org/A5085277476"
+      ]
+    },
+    {
       "id": "https://openalex.org/W896387823",
       "year": 1994,
       "title": "Mucoadhesion, Swelling and Drug Release Characteristics of Hydroxypropylcellulose/Carbopol Solid Dispersions",
@@ -5968,6 +6043,10 @@
           "weight": 99
         },
         {
+          "name": "Ferroptosis and cancer prognosis",
+          "weight": 84
+        },
+        {
           "name": "Advanced MRI Techniques and Applications",
           "weight": 82
         },
@@ -5978,10 +6057,6 @@
         {
           "name": "Gastric Cancer Management and Outcomes",
           "weight": 82
-        },
-        {
-          "name": "Spaceflight effects on biology",
-          "weight": 81
         }
       ]
     },
@@ -5998,7 +6073,7 @@
         },
         {
           "name": "Advanced Nanomaterials in Catalysis",
-          "weight": 26
+          "weight": 27
         },
         {
           "name": "Polymer Surface Interaction Studies",

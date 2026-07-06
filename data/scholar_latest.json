@@ -1,6 +1,6 @@
 {
-  "total_citations": 4475,
-  "y5_citations": 2529,
+  "total_citations": 4479,
+  "y5_citations": 2533,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -21,9 +21,9 @@
     "2021": 339,
     "2022": 412,
     "2023": 423,
-    "2024": 534,
-    "2025": 560,
-    "2026": 258
+    "2024": 535,
+    "2025": 558,
+    "2026": 263
   },
   "articles": [
     {
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 111,
+        "value": 112,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -299,7 +299,7 @@
       "authors": "S Guo, W Xiong, J Zhu, J Feng, R Zhou, Q Fan, Q Zhang, Z Li, J Yang, ...",
       "publication": "Biomaterials 302, 122300, 2023",
       "cited_by": {
-        "value": 65,
+        "value": 66,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934486938362864450",
         "serpapi_link": "https://serpapi.com/search.json?cites=6934486938362864450&engine=google_scholar&hl=en",
         "cites_id": "6934486938362864450"
@@ -307,7 +307,7 @@
       "year": "2023"
     }
   ],
-  "fetched_at": "2026-06-29T13:10:33.719718+00:00",
+  "fetched_at": "2026-07-06T06:51:21.014679+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
-  "pub_count": 96
+  "pub_count": 97
 }
