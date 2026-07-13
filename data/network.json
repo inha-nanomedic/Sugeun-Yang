@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T12:52:57.279266+00:00",
+  "fetched_at": "2026-07-13T12:10:25.472270+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -5990,7 +5990,7 @@
     {
       "id": "https://openalex.org/W7165554749",
       "year": 2026,
-      "title": "Electricity-Based Locoregional Cancer Therapies and Their Associated Drug Delivery Technologies: from Principal of Action to Clinical Implications",
+      "title": "Electricity-Based Locoregional Cancer Therapies and Their Associated Drug Delivery Technologies: From Principles of Action to Clinical Implications",
       "doi": "https://doi.org/10.34133/bmr.0386",
       "venue": "Biomaterials Research",
       "co_author_ids": [

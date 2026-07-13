@@ -1,6 +1,6 @@
 {
-  "total_citations": 4479,
-  "y5_citations": 2533,
+  "total_citations": 4486,
+  "y5_citations": 2540,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -21,9 +21,9 @@
     "2021": 339,
     "2022": 412,
     "2023": 423,
-    "2024": 535,
-    "2025": 558,
-    "2026": 263
+    "2024": 534,
+    "2025": 557,
+    "2026": 272
   },
   "articles": [
     {
@@ -159,7 +159,7 @@
       "authors": "M Kim, SG Yang, JM Kim, JW Lee, YS Kim, JI Lee",
       "publication": "International journal of molecular medicine 30 (3), 473-479, 2012",
       "cited_by": {
-        "value": 119,
+        "value": 120,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13484796374835337379",
         "serpapi_link": "https://serpapi.com/search.json?cites=13484796374835337379&engine=google_scholar&hl=en",
         "cites_id": "13484796374835337379"
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 112,
+        "value": 113,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -223,6 +223,20 @@
       "year": "2023"
     },
     {
+      "title": "Durable soft neural micro-electrode coating by an electrochemical synthesis of PEDOT: PSS/graphene oxide composites",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:NMxIlDl6LWMC",
+      "citation_id": "X1B7JX8AAAAJ:NMxIlDl6LWMC",
+      "authors": "S Lee, T Eom, MK Kim, SG Yang, BS Shim",
+      "publication": "Electrochimica Acta 313, 79-90, 2019",
+      "cited_by": {
+        "value": 72,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2704977120617069866",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2704977120617069866&engine=google_scholar&hl=en",
+        "cites_id": "2704977120617069866"
+      },
+      "year": "2019"
+    },
+    {
       "title": "Exceedingly Small Magnetic Iron Oxide Nanoparticles for T1\u2010Weighted Magnetic Resonance Imaging and Imaging\u2010Guided Therapy of Tumors",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:NhqRSupF_l8C",
       "citation_id": "X1B7JX8AAAAJ:NhqRSupF_l8C",
@@ -237,18 +251,18 @@
       "year": "2023"
     },
     {
-      "title": "Durable soft neural micro-electrode coating by an electrochemical synthesis of PEDOT: PSS/graphene oxide composites",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:NMxIlDl6LWMC",
-      "citation_id": "X1B7JX8AAAAJ:NMxIlDl6LWMC",
-      "authors": "S Lee, T Eom, MK Kim, SG Yang, BS Shim",
-      "publication": "Electrochimica Acta 313, 79-90, 2019",
+      "title": "A STING pathway-activatable contrast agent for MRI-guided tumor immunoferroptosis synergistic therapy",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:xtRiw3GOFMkC",
+      "citation_id": "X1B7JX8AAAAJ:xtRiw3GOFMkC",
+      "authors": "S Guo, W Xiong, J Zhu, J Feng, R Zhou, Q Fan, Q Zhang, Z Li, J Yang, ...",
+      "publication": "Biomaterials 302, 122300, 2023",
       "cited_by": {
-        "value": 71,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2704977120617069866",
-        "serpapi_link": "https://serpapi.com/search.json?cites=2704977120617069866&engine=google_scholar&hl=en",
-        "cites_id": "2704977120617069866"
+        "value": 67,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934486938362864450",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6934486938362864450&engine=google_scholar&hl=en",
+        "cites_id": "6934486938362864450"
       },
-      "year": "2019"
+      "year": "2023"
     },
     {
       "title": "A novel Trojan-horse targeting strategy to reduce the non-specific uptake of nanocarriers by non-cancerous cells",
@@ -291,23 +305,9 @@
         "cites_id": "760808377809737404"
       },
       "year": "2012"
-    },
-    {
-      "title": "A STING pathway-activatable contrast agent for MRI-guided tumor immunoferroptosis synergistic therapy",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:xtRiw3GOFMkC",
-      "citation_id": "X1B7JX8AAAAJ:xtRiw3GOFMkC",
-      "authors": "S Guo, W Xiong, J Zhu, J Feng, R Zhou, Q Fan, Q Zhang, Z Li, J Yang, ...",
-      "publication": "Biomaterials 302, 122300, 2023",
-      "cited_by": {
-        "value": 66,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934486938362864450",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6934486938362864450&engine=google_scholar&hl=en",
-        "cites_id": "6934486938362864450"
-      },
-      "year": "2023"
     }
   ],
-  "fetched_at": "2026-07-06T12:52:58.925349+00:00",
+  "fetched_at": "2026-07-13T12:10:26.065192+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
-  "pub_count": 97
+  "pub_count": 98
 }
