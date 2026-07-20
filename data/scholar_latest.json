@@ -1,8 +1,8 @@
 {
-  "total_citations": 4486,
-  "y5_citations": 2540,
+  "total_citations": 4495,
+  "y5_citations": 2549,
   "h_index": 35,
-  "y5_h_index": 25,
+  "y5_h_index": 26,
   "i10_index": 75,
   "y5_i10_index": 59,
   "cites_per_year": {
@@ -11,19 +11,19 @@
     "2011": 104,
     "2012": 106,
     "2013": 135,
-    "2014": 173,
+    "2014": 174,
     "2015": 160,
-    "2016": 158,
+    "2016": 157,
     "2017": 197,
     "2018": 188,
     "2019": 225,
     "2020": 314,
     "2021": 339,
-    "2022": 412,
-    "2023": 423,
-    "2024": 534,
-    "2025": 557,
-    "2026": 272
+    "2022": 411,
+    "2023": 422,
+    "2024": 535,
+    "2025": 559,
+    "2026": 279
   },
   "articles": [
     {
@@ -131,7 +131,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 133,
+        "value": 135,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -159,7 +159,7 @@
       "authors": "M Kim, SG Yang, JM Kim, JW Lee, YS Kim, JI Lee",
       "publication": "International journal of molecular medicine 30 (3), 473-479, 2012",
       "cited_by": {
-        "value": 120,
+        "value": 121,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13484796374835337379",
         "serpapi_link": "https://serpapi.com/search.json?cites=13484796374835337379&engine=google_scholar&hl=en",
         "cites_id": "13484796374835337379"
@@ -257,7 +257,7 @@
       "authors": "S Guo, W Xiong, J Zhu, J Feng, R Zhou, Q Fan, Q Zhang, Z Li, J Yang, ...",
       "publication": "Biomaterials 302, 122300, 2023",
       "cited_by": {
-        "value": 67,
+        "value": 68,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934486938362864450",
         "serpapi_link": "https://serpapi.com/search.json?cites=6934486938362864450&engine=google_scholar&hl=en",
         "cites_id": "6934486938362864450"
@@ -307,7 +307,7 @@
       "year": "2012"
     }
   ],
-  "fetched_at": "2026-07-13T12:10:26.065192+00:00",
+  "fetched_at": "2026-07-20T11:49:15.854992+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }

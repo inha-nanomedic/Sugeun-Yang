@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T12:10:25.472270+00:00",
+  "fetched_at": "2026-07-20T11:49:14.905659+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4414,14 +4414,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210153049",
-      "name": "Vidyasirimedhi Institute of Science and Technology",
-      "country": "TH",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I279583474",
       "name": "Navamindradhiraj University",
       "country": "TH",
@@ -4441,6 +4433,14 @@
       "id": "https://openalex.org/I4210148737",
       "name": "CHA University",
       "country": "KR",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210153049",
+      "name": "Vidyasirimedhi Institute of Science and Technology",
+      "country": "TH",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -5277,18 +5277,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2563908675",
-      "year": 2016,
-      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic-<i>co</i>-glycolic Acid)/Poly(styrene-<i>alt</i>-maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
-      "doi": "https://doi.org/10.1021/acsami.6b08994",
-      "venue": "ACS Applied Materials & Interfaces",
-      "co_author_ids": [
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5052029602"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2013150522",
       "year": 2013,
       "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
@@ -5402,6 +5390,18 @@
         "https://openalex.org/A5112499147",
         "https://openalex.org/A5100368589",
         "https://openalex.org/A5014332786"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2563908675",
+      "year": 2016,
+      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic-<i>co</i>-glycolic Acid)/Poly(styrene-<i>alt</i>-maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
+      "doi": "https://doi.org/10.1021/acsami.6b08994",
+      "venue": "ACS Applied Materials & Interfaces",
+      "co_author_ids": [
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5052029602"
       ]
     },
     {
