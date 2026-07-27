@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T11:49:14.905659+00:00",
+  "fetched_at": "2026-07-27T12:28:52.096739+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -37,7 +37,6 @@
         "https://openalex.org/I19820366",
         "https://openalex.org/I4210103346",
         "https://openalex.org/I4210165339",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -204,7 +203,6 @@
       "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -478,7 +476,6 @@
       "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -1015,7 +1012,6 @@
       "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -1065,7 +1061,8 @@
       "first_year": 2016,
       "last_year": 2016,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210086342"
       ],
       "is_external": false
     },
@@ -1332,7 +1329,6 @@
       "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -1460,7 +1456,6 @@
       "last_year": 2022,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -1921,7 +1916,8 @@
       "first_year": 2014,
       "last_year": 2014,
       "institution_ids": [
-        "https://openalex.org/I103320735"
+        "https://openalex.org/I103320735",
+        "https://openalex.org/I84470341"
       ],
       "is_external": true
     },
@@ -1952,7 +1948,7 @@
     {
       "id": "https://openalex.org/A5034418015",
       "name": "Han‐Gon Choi",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-2318-387X",
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
@@ -3589,7 +3585,6 @@
       "last_year": 2022,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -3918,7 +3913,6 @@
       "last_year": 2022,
       "institution_ids": [
         "https://openalex.org/I4210103346",
-        "https://openalex.org/I4210166946",
         "https://openalex.org/I58200834"
       ],
       "is_external": true
@@ -4054,14 +4048,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210166946",
-      "name": "Imaging Center",
-      "country": "US",
-      "type": "healthcare",
-      "papers": 8,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I158708052",
       "name": "Chulalongkorn University",
       "country": "TH",
@@ -4142,6 +4128,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4210086342",
+      "name": "Songdo Hospital",
+      "country": "KR",
+      "type": "healthcare",
+      "papers": 3,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I70349855",
       "name": "Vietnam Academy of Science and Technology",
       "country": "VN",
@@ -4158,18 +4152,18 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I55240360",
-      "name": "Yeungnam University",
-      "country": "KR",
-      "type": "education",
-      "papers": 3,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I47141704",
       "name": "Daewoong Pharmaceutical (South Korea)",
       "country": "KR",
       "type": "company",
+      "papers": 3,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I55240360",
+      "name": "Yeungnam University",
+      "country": "KR",
+      "type": "education",
       "papers": 3,
       "is_external": true
     },
@@ -4230,14 +4224,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I170238339",
-      "name": "Duy Tan University",
-      "country": "VN",
-      "type": "education",
-      "papers": 2,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I155671955",
       "name": "Korea Atomic Energy Research Institute",
       "country": "KR",
@@ -4254,17 +4240,17 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210086342",
-      "name": "Songdo Hospital",
-      "country": "KR",
-      "type": "healthcare",
+      "id": "https://openalex.org/I36258959",
+      "name": "University of California San Diego",
+      "country": "US",
+      "type": "education",
       "papers": 2,
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I36258959",
-      "name": "University of California San Diego",
-      "country": "US",
+      "id": "https://openalex.org/I170238339",
+      "name": "Duy Tan University",
+      "country": "VN",
       "type": "education",
       "papers": 2,
       "is_external": true
@@ -4326,14 +4312,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4575257",
-      "name": "Hanyang University",
-      "country": "KR",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4210149256",
       "name": "Zhangzhou Vocational and Technical College",
       "country": "CN",
@@ -4345,6 +4323,14 @@
       "id": "https://openalex.org/I103320735",
       "name": "Università Cattolica del Sacro Cuore",
       "country": "IT",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I84470341",
+      "name": "Catholic University of America",
+      "country": "US",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4446,6 +4432,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4575257",
+      "name": "Hanyang University",
+      "country": "KR",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I146824383",
       "name": "Hallym University",
       "country": "KR",
@@ -4487,9 +4481,9 @@
     }
   ],
   "country_counts": {
-    "KR": 405,
+    "KR": 406,
     "CN": 142,
-    "US": 67,
+    "US": 60,
     "TH": 32,
     "VN": 24,
     "BD": 4,
@@ -4952,20 +4946,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4220868673",
-      "year": 2022,
-      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
-      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5101949861",
-        "https://openalex.org/A5069089381",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5059446452"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4290989580",
       "year": 2022,
       "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
@@ -5026,23 +5006,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4225164660",
-      "year": 2022,
-      "title": "Pheophorbide A and SN38 conjugated hyaluronan nanoparticles for photodynamic- and cascadic chemotherapy of cancer stem-like ovarian cancer",
-      "doi": "https://doi.org/10.1016/j.carbpol.2022.119455",
-      "venue": "Carbohydrate Polymers",
-      "co_author_ids": [
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5060318754",
-        "https://openalex.org/A5015062816",
-        "https://openalex.org/A5100366818",
-        "https://openalex.org/A5075061660"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4312226757",
       "year": 2022,
       "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
@@ -5051,20 +5014,6 @@
       "co_author_ids": [
         "https://openalex.org/A5052510031",
         "https://openalex.org/A5052029602"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3188096147",
-      "year": 2021,
-      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
-      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
-      "venue": "Biomacromolecules",
-      "co_author_ids": [
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5000212121",
-        "https://openalex.org/A5100776694",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5038803466"
       ]
     },
     {
@@ -5123,31 +5072,6 @@
         "https://openalex.org/A5056376298",
         "https://openalex.org/A5091275236",
         "https://openalex.org/A5014280112"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2079945583",
-      "year": 2012,
-      "title": "Inclusion complex effect on the bioavailability of clotrimazole from poloxamer-based solid suppository",
-      "doi": "https://doi.org/10.1007/s12272-012-0707-5",
-      "venue": "Archives of Pharmacal Research",
-      "co_author_ids": [
-        "https://openalex.org/A5103094220",
-        "https://openalex.org/A5057853707",
-        "https://openalex.org/A5086925583",
-        "https://openalex.org/A5110155990",
-        "https://openalex.org/A5108101906",
-        "https://openalex.org/A5034418015"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4401419630",
-      "year": 2024,
-      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
-      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
-      "venue": "Journal of Pharmaceutical Investigation",
-      "co_author_ids": [
-        "https://openalex.org/A5073364524"
       ]
     },
     {
@@ -5277,6 +5201,51 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4220868673",
+      "year": 2022,
+      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
+      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5101949861",
+        "https://openalex.org/A5069089381",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5059446452"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4225164660",
+      "year": 2022,
+      "title": "Pheophorbide A and SN38 conjugated hyaluronan nanoparticles for photodynamic- and cascadic chemotherapy of cancer stem-like ovarian cancer",
+      "doi": "https://doi.org/10.1016/j.carbpol.2022.119455",
+      "venue": "Carbohydrate Polymers",
+      "co_author_ids": [
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5060318754",
+        "https://openalex.org/A5015062816",
+        "https://openalex.org/A5100366818",
+        "https://openalex.org/A5075061660"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3188096147",
+      "year": 2021,
+      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
+      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
+      "venue": "Biomacromolecules",
+      "co_author_ids": [
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5000212121",
+        "https://openalex.org/A5100776694",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5038803466"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2013150522",
       "year": 2013,
       "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
@@ -5289,18 +5258,6 @@
         "https://openalex.org/A5006370183",
         "https://openalex.org/A5087822868",
         "https://openalex.org/A5063446251",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2046556369",
-      "year": 2013,
-      "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
-      "doi": "https://doi.org/10.5625/lar.2013.29.2.96",
-      "venue": "Laboratory Animal Research",
-      "co_author_ids": [
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5044181109",
         "https://openalex.org/A5072803749"
       ]
     },
@@ -5365,18 +5322,13 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4292239815",
-      "year": 2022,
-      "title": "Tumor-mediated 4-1BB induces tumor proliferation and metastasis in the colorectal cancer cells",
-      "doi": "https://doi.org/10.1016/j.lfs.2022.120899",
-      "venue": "Life Sciences",
+      "id": "https://openalex.org/W4401419630",
+      "year": 2024,
+      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
+      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
+      "venue": "Journal of Pharmaceutical Investigation",
       "co_author_ids": [
-        "https://openalex.org/A5100776690",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5067551723",
-        "https://openalex.org/A5069089381",
-        "https://openalex.org/A5051742735",
-        "https://openalex.org/A5070792652"
+        "https://openalex.org/A5073364524"
       ]
     },
     {
@@ -5434,6 +5386,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2046556369",
+      "year": 2013,
+      "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
+      "doi": "https://doi.org/10.5625/lar.2013.29.2.96",
+      "venue": "Laboratory Animal Research",
+      "co_author_ids": [
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5044181109",
+        "https://openalex.org/A5072803749"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2751049512",
       "year": 2017,
       "title": "Calcium-Triggered Pulsatile Delivery of Parathyroid Hormone from Microbeads for Osteoporosis Treatment",
@@ -5444,6 +5408,21 @@
         "https://openalex.org/A5075034585",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5101949861"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2079945583",
+      "year": 2012,
+      "title": "Inclusion complex effect on the bioavailability of clotrimazole from poloxamer-based solid suppository",
+      "doi": "https://doi.org/10.1007/s12272-012-0707-5",
+      "venue": "Archives of Pharmacal Research",
+      "co_author_ids": [
+        "https://openalex.org/A5103094220",
+        "https://openalex.org/A5057853707",
+        "https://openalex.org/A5086925583",
+        "https://openalex.org/A5110155990",
+        "https://openalex.org/A5108101906",
+        "https://openalex.org/A5034418015"
       ]
     },
     {
@@ -5478,6 +5457,21 @@
         "https://openalex.org/A5069836237",
         "https://openalex.org/A5059446452",
         "https://openalex.org/A5076820793"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4292239815",
+      "year": 2022,
+      "title": "Tumor-mediated 4-1BB induces tumor proliferation and metastasis in the colorectal cancer cells",
+      "doi": "https://doi.org/10.1016/j.lfs.2022.120899",
+      "venue": "Life Sciences",
+      "co_author_ids": [
+        "https://openalex.org/A5100776690",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5067551723",
+        "https://openalex.org/A5069089381",
+        "https://openalex.org/A5051742735",
+        "https://openalex.org/A5070792652"
       ]
     },
     {

@@ -1,29 +1,29 @@
 {
-  "total_citations": 4495,
-  "y5_citations": 2549,
+  "total_citations": 4502,
+  "y5_citations": 2551,
   "h_index": 35,
   "y5_h_index": 26,
   "i10_index": 75,
   "y5_i10_index": 59,
   "cites_per_year": {
     "2009": 31,
-    "2010": 60,
-    "2011": 104,
+    "2010": 61,
+    "2011": 103,
     "2012": 106,
-    "2013": 135,
-    "2014": 174,
-    "2015": 160,
-    "2016": 157,
-    "2017": 197,
-    "2018": 188,
-    "2019": 225,
-    "2020": 314,
-    "2021": 339,
-    "2022": 411,
-    "2023": 422,
-    "2024": 535,
-    "2025": 559,
-    "2026": 279
+    "2013": 136,
+    "2014": 173,
+    "2015": 162,
+    "2016": 158,
+    "2017": 196,
+    "2018": 189,
+    "2019": 230,
+    "2020": 310,
+    "2021": 334,
+    "2022": 413,
+    "2023": 424,
+    "2024": 533,
+    "2025": 558,
+    "2026": 285
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 669,
+        "value": 672,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -83,7 +83,7 @@
       "year": "2015"
     },
     {
-      "title": "Lung\u2010specific delivery of paclitaxel by chitosan\u2010modified PLGA nanoparticles via transient formation of microaggregates",
+      "title": "Lung-specific delivery of paclitaxel by chitosan-modified PLGA nanoparticles via transient formation of microaggregates",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:UebtZRa9Y70C",
       "citation_id": "X1B7JX8AAAAJ:UebtZRa9Y70C",
       "authors": "R Yang, SG Yang, WS Shim, F Cui, G Cheng, IW Kim, DD Kim, SJ Chung, ...",
@@ -103,12 +103,26 @@
       "authors": "D Ling, W Park, YI Park, N Lee, F Li, C Song, SG Yang, SH Choi, K Na, ...",
       "publication": "Angewandte Chemie International Edition 50 (48), 11360-11365, 2011",
       "cited_by": {
-        "value": 160,
+        "value": 161,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6728160248075841230",
         "serpapi_link": "https://serpapi.com/search.json?cites=6728160248075841230&engine=google_scholar&hl=en",
         "cites_id": "6728160248075841230"
       },
       "year": "2011"
+    },
+    {
+      "title": "The effects of real and simulated microgravity on cellular mitochondrial function",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:HoB7MX3m0LUC",
+      "citation_id": "X1B7JX8AAAAJ:HoB7MX3m0LUC",
+      "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
+      "publication": "npj Microgravity 7 (1), 44, 2021",
+      "cited_by": {
+        "value": 137,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
+        "cites_id": "15700195494764375335"
+      },
+      "year": "2021"
     },
     {
       "title": "A novel strategy for surface modification of superparamagnetic iron oxide nanoparticles for lung cancer imaging",
@@ -123,20 +137,6 @@
         "cites_id": "18137633855902214834"
       },
       "year": "2009"
-    },
-    {
-      "title": "The effects of real and simulated microgravity on cellular mitochondrial function",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:HoB7MX3m0LUC",
-      "citation_id": "X1B7JX8AAAAJ:HoB7MX3m0LUC",
-      "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
-      "publication": "npj Microgravity 7 (1), 44, 2021",
-      "cited_by": {
-        "value": 135,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
-        "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
-        "cites_id": "15700195494764375335"
-      },
-      "year": "2021"
     },
     {
       "title": "In vivo off-resonance saturation magnetic resonance imaging of \u03b1v\u03b23-targeted superparamagnetic nanoparticles",
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 113,
+        "value": 114,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -307,7 +307,7 @@
       "year": "2012"
     }
   ],
-  "fetched_at": "2026-07-20T11:49:15.854992+00:00",
+  "fetched_at": "2026-07-27T12:28:53.347999+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }
