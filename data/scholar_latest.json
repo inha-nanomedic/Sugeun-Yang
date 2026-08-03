@@ -1,29 +1,29 @@
 {
-  "total_citations": 4502,
-  "y5_citations": 2551,
+  "total_citations": 4467,
+  "y5_citations": 2528,
   "h_index": 35,
-  "y5_h_index": 26,
+  "y5_h_index": 25,
   "i10_index": 75,
-  "y5_i10_index": 59,
+  "y5_i10_index": 60,
   "cites_per_year": {
-    "2009": 31,
-    "2010": 61,
+    "2009": 32,
+    "2010": 60,
     "2011": 103,
-    "2012": 106,
+    "2012": 109,
     "2013": 136,
-    "2014": 173,
-    "2015": 162,
-    "2016": 158,
+    "2014": 174,
+    "2015": 160,
+    "2016": 155,
     "2017": 196,
-    "2018": 189,
-    "2019": 230,
+    "2018": 185,
+    "2019": 220,
     "2020": 310,
     "2021": 334,
-    "2022": 413,
-    "2023": 424,
-    "2024": 533,
-    "2025": 558,
-    "2026": 285
+    "2022": 406,
+    "2023": 420,
+    "2024": 531,
+    "2025": 546,
+    "2026": 288
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 672,
+        "value": 669,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -47,7 +47,7 @@
       "authors": "JS Guthi, SG Yang, G Huang, S Li, C Khemtong, CW Kessinger, M Peyton, ...",
       "publication": "Molecular pharmaceutics 7 (1), 32-40, 2010",
       "cited_by": {
-        "value": 263,
+        "value": 265,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3435560212659049934",
         "serpapi_link": "https://serpapi.com/search.json?cites=3435560212659049934&engine=google_scholar&hl=en",
         "cites_id": "3435560212659049934"
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 191,
+        "value": 194,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -83,7 +83,7 @@
       "year": "2015"
     },
     {
-      "title": "Lung-specific delivery of paclitaxel by chitosan-modified PLGA nanoparticles via transient formation of microaggregates",
+      "title": "Lung\u2010specific delivery of paclitaxel by chitosan\u2010modified PLGA nanoparticles via transient formation of microaggregates",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:UebtZRa9Y70C",
       "citation_id": "X1B7JX8AAAAJ:UebtZRa9Y70C",
       "authors": "R Yang, SG Yang, WS Shim, F Cui, G Cheng, IW Kim, DD Kim, SJ Chung, ...",
@@ -101,9 +101,9 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:_FxGoFyzp5QC",
       "citation_id": "X1B7JX8AAAAJ:_FxGoFyzp5QC",
       "authors": "D Ling, W Park, YI Park, N Lee, F Li, C Song, SG Yang, SH Choi, K Na, ...",
-      "publication": "Angewandte Chemie International Edition 50 (48), 11360-11365, 2011",
+      "publication": "Angewandte Chemie 123 (48), 11562-11567, 2011",
       "cited_by": {
-        "value": 161,
+        "value": 160,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6728160248075841230",
         "serpapi_link": "https://serpapi.com/search.json?cites=6728160248075841230&engine=google_scholar&hl=en",
         "cites_id": "6728160248075841230"
@@ -145,7 +145,7 @@
       "authors": "C Khemtong, CW Kessinger, J Ren, EA Bey, SG Yang, JS Guthi, ...",
       "publication": "Cancer research 69 (4), 1651-1658, 2009",
       "cited_by": {
-        "value": 132,
+        "value": 133,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10798784040368407827",
         "serpapi_link": "https://serpapi.com/search.json?cites=10798784040368407827&engine=google_scholar&hl=en",
         "cites_id": "10798784040368407827"
@@ -153,16 +153,16 @@
       "year": "2009"
     },
     {
-      "title": "Silymarin suppresses hepatic stellate cell activation in a dietary rat model of non-alcoholic steatohepatitis: \u0391nalysis of isolated hepatic stellate cells",
+      "title": "Silymarin suppresses hepatic stellate cell activation in a dietary rat model of non-alcoholic steatohepatitis: analysis of isolated hepatic stellate cells",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:Wp0gIr-vW9MC",
       "citation_id": "X1B7JX8AAAAJ:Wp0gIr-vW9MC",
       "authors": "M Kim, SG Yang, JM Kim, JW Lee, YS Kim, JI Lee",
       "publication": "International journal of molecular medicine 30 (3), 473-479, 2012",
       "cited_by": {
-        "value": 121,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13484796374835337379",
-        "serpapi_link": "https://serpapi.com/search.json?cites=13484796374835337379&engine=google_scholar&hl=en",
-        "cites_id": "13484796374835337379"
+        "value": 117,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14668852102543819973",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14668852102543819973&engine=google_scholar&hl=en",
+        "cites_id": "14668852102543819973"
       },
       "year": "2012"
     },
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 114,
+        "value": 110,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -187,7 +187,7 @@
       "authors": "H Yim, SG Yang, YS Jeon, IS Park, M Kim, DH Lee, YH Bae, K Na",
       "publication": "Biomaterials 32 (22), 5187-5194, 2011",
       "cited_by": {
-        "value": 88,
+        "value": 84,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10750493468794928508",
         "serpapi_link": "https://serpapi.com/search.json?cites=10750493468794928508&engine=google_scholar&hl=en",
         "cites_id": "10750493468794928508"
@@ -201,7 +201,7 @@
       "authors": "S Moon, SG Yang, K Na",
       "publication": "Biomaterials 32 (14), 3603-3610, 2011",
       "cited_by": {
-        "value": 86,
+        "value": 83,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8913262017659069803",
         "serpapi_link": "https://serpapi.com/search.json?cites=8913262017659069803&engine=google_scholar&hl=en",
         "cites_id": "8913262017659069803"
@@ -215,7 +215,7 @@
       "authors": "L Huang, J Feng, J Zhu, J Yang, W Xiong, X Lu, S Chen, S Yang, Y Li, ...",
       "publication": "Advanced healthcare materials 12 (18), 2203362, 2023",
       "cited_by": {
-        "value": 80,
+        "value": 76,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7409885569168661484",
         "serpapi_link": "https://serpapi.com/search.json?cites=7409885569168661484&engine=google_scholar&hl=en",
         "cites_id": "7409885569168661484"
@@ -265,27 +265,13 @@
       "year": "2023"
     },
     {
-      "title": "A novel Trojan-horse targeting strategy to reduce the non-specific uptake of nanocarriers by non-cancerous cells",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:Y0pCki6q_DkC",
-      "citation_id": "X1B7JX8AAAAJ:Y0pCki6q_DkC",
-      "authors": "Z Shen, H Wu, S Yang, X Ma, Z Li, M Tan, A Wu",
-      "publication": "Biomaterials 70, 1-11, 2015",
-      "cited_by": {
-        "value": 67,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4054219187359713996",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4054219187359713996&engine=google_scholar&hl=en",
-        "cites_id": "4054219187359713996"
-      },
-      "year": "2015"
-    },
-    {
       "title": "Polymeric nanocapsules with SEDDS oil-core for the controlled and enhanced oral absorption of cyclosporine",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:4DMP91E08xMC",
       "citation_id": "X1B7JX8AAAAJ:4DMP91E08xMC",
       "authors": "MJ Park, P Balakrishnan, SG Yang",
       "publication": "International journal of pharmaceutics 441 (1-2), 757-764, 2013",
       "cited_by": {
-        "value": 67,
+        "value": 66,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13409661150445378498",
         "serpapi_link": "https://serpapi.com/search.json?cites=13409661150445378498&engine=google_scholar&hl=en",
         "cites_id": "13409661150445378498"
@@ -299,15 +285,29 @@
       "authors": "SI Jang, JH Kim, M Kim, S Yang, EA Jo, JW Lee, K Na, JM Kim, S Jeong, ...",
       "publication": "Endoscopy 44 (09), 825-831, 2012",
       "cited_by": {
-        "value": 67,
+        "value": 66,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=760808377809737404",
         "serpapi_link": "https://serpapi.com/search.json?cites=760808377809737404&engine=google_scholar&hl=en",
         "cites_id": "760808377809737404"
       },
       "year": "2012"
+    },
+    {
+      "title": "A novel Trojan-horse targeting strategy to reduce the non-specific uptake of nanocarriers by non-cancerous cells",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:Y0pCki6q_DkC",
+      "citation_id": "X1B7JX8AAAAJ:Y0pCki6q_DkC",
+      "authors": "Z Shen, H Wu, S Yang, X Ma, Z Li, M Tan, A Wu",
+      "publication": "Biomaterials 70, 1-11, 2015",
+      "cited_by": {
+        "value": 65,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4054219187359713996",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4054219187359713996&engine=google_scholar&hl=en",
+        "cites_id": "4054219187359713996"
+      },
+      "year": "2015"
     }
   ],
-  "fetched_at": "2026-07-27T12:28:53.347999+00:00",
+  "fetched_at": "2026-08-03T12:29:36.222835+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }

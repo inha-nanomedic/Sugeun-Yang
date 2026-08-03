@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T12:28:52.096739+00:00",
+  "fetched_at": "2026-08-03T12:29:35.570028+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -1011,10 +1011,11 @@
       "first_year": 2022,
       "last_year": 2023,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210103346",
         "https://openalex.org/I58200834"
       ],
-      "is_external": true
+      "is_external": false
     },
     {
       "id": "https://openalex.org/A5100366818",
@@ -3924,7 +3925,7 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 195,
+      "papers": 196,
       "is_external": false
     },
     {
@@ -4481,7 +4482,7 @@
     }
   ],
   "country_counts": {
-    "KR": 406,
+    "KR": 407,
     "CN": 142,
     "US": 60,
     "TH": 32,
@@ -5017,6 +5018,25 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4403734307",
+      "year": 2024,
+      "title": "Synthesis of Silver Nanoparticles and Gold Nanoparticles Used as Biosensors for the Detection of Human Serum Albumin-Diagnosed Kidney Disease",
+      "doi": "https://doi.org/10.3390/ph17111421",
+      "venue": "Pharmaceuticals",
+      "co_author_ids": [
+        "https://openalex.org/A5114395769",
+        "https://openalex.org/A5114395770",
+        "https://openalex.org/A5070954170",
+        "https://openalex.org/A5076292212",
+        "https://openalex.org/A5040852795",
+        "https://openalex.org/A5072739029",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5063227694",
+        "https://openalex.org/A5086734944",
+        "https://openalex.org/A5041020388"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4324278770",
       "year": 2023,
       "title": "Novel histone deacetylase 6 inhibitors using benzimidazole as caps for cancer treatment",
@@ -5034,25 +5054,6 @@
         "https://openalex.org/A5112901048",
         "https://openalex.org/A5068478889",
         "https://openalex.org/A5090977989"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403734307",
-      "year": 2024,
-      "title": "Synthesis of Silver Nanoparticles and Gold Nanoparticles Used as Biosensors for the Detection of Human Serum Albumin-Diagnosed Kidney Disease",
-      "doi": "https://doi.org/10.3390/ph17111421",
-      "venue": "Pharmaceuticals",
-      "co_author_ids": [
-        "https://openalex.org/A5114395769",
-        "https://openalex.org/A5114395770",
-        "https://openalex.org/A5070954170",
-        "https://openalex.org/A5076292212",
-        "https://openalex.org/A5040852795",
-        "https://openalex.org/A5072739029",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5063227694",
-        "https://openalex.org/A5086734944",
-        "https://openalex.org/A5041020388"
       ]
     },
     {
