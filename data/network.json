@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T12:29:35.570028+00:00",
+  "fetched_at": "2026-08-10T10:20:46.486091+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -8,8 +8,8 @@
   "totals": {
     "works": 100,
     "co_authors": 320,
-    "institutions": 70,
-    "countries": 14
+    "institutions": 72,
+    "countries": 15
   },
   "co_authors": [
     {
@@ -254,7 +254,8 @@
       "last_year": 2012,
       "institution_ids": [
         "https://openalex.org/I12832649",
-        "https://openalex.org/I139264467"
+        "https://openalex.org/I139264467",
+        "https://openalex.org/I2802457231"
       ],
       "is_external": true
     },
@@ -2985,7 +2986,9 @@
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
-      "institution_ids": [],
+      "institution_ids": [
+        "https://openalex.org/I89015989"
+      ],
       "is_external": true
     },
     {
@@ -4129,6 +4132,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I12832649",
+      "name": "Gachon University",
+      "country": "KR",
+      "type": "education",
+      "papers": 3,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I4210086342",
       "name": "Songdo Hospital",
       "country": "KR",
@@ -4205,14 +4216,6 @@
       "name": "Taewoong Medical (South Korea)",
       "country": "KR",
       "type": "company",
-      "papers": 2,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I12832649",
-      "name": "Gachon University",
-      "country": "KR",
-      "type": "education",
       "papers": 2,
       "is_external": true
     },
@@ -4465,6 +4468,22 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I89015989",
+      "name": "Dankook University",
+      "country": "KR",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I2802457231",
+      "name": "New Generation University College",
+      "country": "ET",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I155781252",
       "name": "University of South Carolina",
       "country": "US",
@@ -4482,7 +4501,7 @@
     }
   ],
   "country_counts": {
-    "KR": 407,
+    "KR": 409,
     "CN": 142,
     "US": 60,
     "TH": 32,
@@ -4495,7 +4514,8 @@
     "JP": 1,
     "BE": 1,
     "IN": 1,
-    "MY": 1
+    "MY": 1,
+    "ET": 1
   },
   "papers": [
     {
@@ -4947,6 +4967,20 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4220868673",
+      "year": 2022,
+      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
+      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5101949861",
+        "https://openalex.org/A5069089381",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5059446452"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4290989580",
       "year": 2022,
       "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
@@ -5199,20 +5233,6 @@
         "https://openalex.org/A5006402804",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5048790280"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4220868673",
-      "year": 2022,
-      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
-      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5101949861",
-        "https://openalex.org/A5069089381",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5059446452"
       ]
     },
     {
