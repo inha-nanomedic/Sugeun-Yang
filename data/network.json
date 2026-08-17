@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T10:20:46.486091+00:00",
+  "fetched_at": "2026-08-17T09:47:42.670817+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4316,14 +4316,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210149256",
-      "name": "Zhangzhou Vocational and Technical College",
-      "country": "CN",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I103320735",
       "name": "Università Cattolica del Sacro Cuore",
       "country": "IT",
@@ -4416,6 +4408,14 @@
       "name": "Vajira Hospital",
       "country": "TH",
       "type": "healthcare",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210149256",
+      "name": "Zhangzhou Vocational and Technical College",
+      "country": "CN",
+      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -5022,6 +5022,17 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4312226757",
+      "year": 2022,
+      "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
+      "doi": "https://doi.org/10.3390/bios13010041",
+      "venue": "Biosensors",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5052029602"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4388894188",
       "year": 2023,
       "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a <i>T</i><sub>1</sub>‐Weighted Contrast Agent for Magnetic Resonance Imaging",
@@ -5038,17 +5049,6 @@
         "https://openalex.org/A5101891723",
         "https://openalex.org/A5023469305",
         "https://openalex.org/A5056376298"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4312226757",
-      "year": 2022,
-      "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
-      "doi": "https://doi.org/10.3390/bios13010041",
-      "venue": "Biosensors",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -5107,19 +5107,6 @@
         "https://openalex.org/A5056376298",
         "https://openalex.org/A5091275236",
         "https://openalex.org/A5014280112"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4411966593",
-      "year": 2025,
-      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
-      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
-      "venue": "Acta Pharmaceutica Sinica B",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5314,19 +5301,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3186147107",
-      "year": 2021,
-      "title": "Retinoic acid‐conjugated chitosan/manganese porphyrin ionic‐complex nanoparticles for improved <scp>T<sub>1</sub></scp> contrast <scp>MR</scp> imaging of hepatic fibrosis",
-      "doi": "https://doi.org/10.1002/jbm.b.34914",
-      "venue": "Journal of Biomedical Materials Research Part B Applied Biomaterials",
-      "co_author_ids": [
-        "https://openalex.org/A5017426286",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5104108897",
-        "https://openalex.org/A5038803466"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4394821614",
       "year": 2024,
       "title": "The Induction of Combined Hyperthermal Ablation Effect of Irreversible Electroporation with Polydopamine Nanoparticle-Coated Electrodes",
@@ -5343,6 +5317,19 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3186147107",
+      "year": 2021,
+      "title": "Retinoic acid‐conjugated chitosan/manganese porphyrin ionic‐complex nanoparticles for improved <scp>T<sub>1</sub></scp> contrast <scp>MR</scp> imaging of hepatic fibrosis",
+      "doi": "https://doi.org/10.1002/jbm.b.34914",
+      "venue": "Journal of Biomedical Materials Research Part B Applied Biomaterials",
+      "co_author_ids": [
+        "https://openalex.org/A5017426286",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5104108897",
+        "https://openalex.org/A5038803466"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4401419630",
       "year": 2024,
       "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
@@ -5350,6 +5337,19 @@
       "venue": "Journal of Pharmaceutical Investigation",
       "co_author_ids": [
         "https://openalex.org/A5073364524"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4411966593",
+      "year": 2025,
+      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
+      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
+      "venue": "Acta Pharmaceutica Sinica B",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5520,6 +5520,25 @@
       "venue": "Metabolites",
       "co_author_ids": [
         "https://openalex.org/A5090977989"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413138024",
+      "year": 2025,
+      "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
+      "doi": "https://doi.org/10.1016/j.actbio.2025.08.023",
+      "venue": "Acta Biomaterialia",
+      "co_author_ids": [
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5100607746",
+        "https://openalex.org/A5101314641",
+        "https://openalex.org/A5108906866",
+        "https://openalex.org/A5029641606",
+        "https://openalex.org/A5075061660",
+        "https://openalex.org/A5109342497",
+        "https://openalex.org/A5108405380",
+        "https://openalex.org/A5090977989",
+        "https://openalex.org/A5027658078"
       ]
     },
     {
@@ -5957,25 +5976,6 @@
         "https://openalex.org/A5105789795",
         "https://openalex.org/A5016606481",
         "https://openalex.org/A5013512783"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413138024",
-      "year": 2025,
-      "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
-      "doi": "https://doi.org/10.1016/j.actbio.2025.08.023",
-      "venue": "Acta Biomaterialia",
-      "co_author_ids": [
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5100607746",
-        "https://openalex.org/A5101314641",
-        "https://openalex.org/A5108906866",
-        "https://openalex.org/A5029641606",
-        "https://openalex.org/A5075061660",
-        "https://openalex.org/A5109342497",
-        "https://openalex.org/A5108405380",
-        "https://openalex.org/A5090977989",
-        "https://openalex.org/A5027658078"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "total_citations": 4486,
-  "y5_citations": 2547,
+  "total_citations": 4495,
+  "y5_citations": 2556,
   "h_index": 35,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -18,12 +18,12 @@
     "2018": 185,
     "2019": 220,
     "2020": 310,
-    "2021": 337,
-    "2022": 407,
-    "2023": 421,
-    "2024": 529,
-    "2025": 547,
-    "2026": 302
+    "2021": 336,
+    "2022": 409,
+    "2023": 420,
+    "2024": 530,
+    "2025": 546,
+    "2026": 312
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 673,
+        "value": 675,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -117,7 +117,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 137,
+        "value": 138,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -215,7 +215,7 @@
       "authors": "L Huang, J Feng, J Zhu, J Yang, W Xiong, X Lu, S Chen, S Yang, Y Li, ...",
       "publication": "Advanced healthcare materials 12 (18), 2203362, 2023",
       "cited_by": {
-        "value": 77,
+        "value": 79,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7409885569168661484",
         "serpapi_link": "https://serpapi.com/search.json?cites=7409885569168661484&engine=google_scholar&hl=en",
         "cites_id": "7409885569168661484"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-08-10T10:20:48.131657+00:00",
+  "fetched_at": "2026-08-17T09:47:43.741783+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }
