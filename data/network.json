@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T09:47:42.670817+00:00",
+  "fetched_at": "2026-08-24T09:52:34.444215+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -7,7 +7,7 @@
   },
   "totals": {
     "works": 100,
-    "co_authors": 320,
+    "co_authors": 321,
     "institutions": 72,
     "countries": 15
   },
@@ -3281,6 +3281,18 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5001773000",
+      "name": "Seungheon Shin",
+      "orcid": "https://orcid.org/0000-0001-9357-166X",
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I39534123"
+      ],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5101775769",
       "name": "Seunghyeon Lee",
       "orcid": "https://orcid.org/0000-0002-2454-2686",
@@ -3968,7 +3980,7 @@
       "name": "Gwangju Institute of Science and Technology",
       "country": "KR",
       "type": "education",
-      "papers": 25,
+      "papers": 26,
       "is_external": true
     },
     {
@@ -4396,6 +4408,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4210153049",
+      "name": "Vidyasirimedhi Institute of Science and Technology",
+      "country": "TH",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I279583474",
       "name": "Navamindradhiraj University",
       "country": "TH",
@@ -4423,14 +4443,6 @@
       "id": "https://openalex.org/I4210148737",
       "name": "CHA University",
       "country": "KR",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210153049",
-      "name": "Vidyasirimedhi Institute of Science and Technology",
-      "country": "TH",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4501,7 +4513,7 @@
     }
   ],
   "country_counts": {
-    "KR": 409,
+    "KR": 410,
     "CN": 142,
     "US": 60,
     "TH": 32,
@@ -4628,7 +4640,7 @@
     {
       "id": "https://openalex.org/W4385997153",
       "year": 2023,
-      "title": "Exceedingly Small Magnetic Iron Oxide Nanoparticles for <i>T</i><sub>1</sub>‐Weighted Magnetic Resonance Imaging and Imaging‐Guided Therapy of Tumors",
+      "title": "Exceedingly Small Magnetic Iron Oxide Nanoparticles for T1‐Weighted Magnetic Resonance Imaging and Imaging‐Guided Therapy of Tumors",
       "doi": "https://doi.org/10.1002/smll.202302856",
       "venue": "Small",
       "co_author_ids": [
@@ -4665,7 +4677,7 @@
     {
       "id": "https://openalex.org/W4309094761",
       "year": 2022,
-      "title": "Facile Synthesis of Weakly Ferromagnetic Organogadolinium Macrochelates‐Based T<sub>1</sub>‐Weighted Magnetic Resonance Imaging Contrast Agents",
+      "title": "Facile Synthesis of Weakly Ferromagnetic Organogadolinium Macrochelates‐Based T1‐Weighted Magnetic Resonance Imaging Contrast Agents",
       "doi": "https://doi.org/10.1002/advs.202205109",
       "venue": "Advanced Science",
       "co_author_ids": [
@@ -4684,27 +4696,9 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4307986173",
-      "year": 2022,
-      "title": "Cycloacceleration of ferroptosis and calcicoptosis for magnetic resonance imaging-guided colorectal cancer therapy",
-      "doi": "https://doi.org/10.1016/j.nantod.2022.101663",
-      "venue": "Nano Today",
-      "co_author_ids": [
-        "https://openalex.org/A5101838862",
-        "https://openalex.org/A5033483823",
-        "https://openalex.org/A5027421966",
-        "https://openalex.org/A5037587827",
-        "https://openalex.org/A5100697694",
-        "https://openalex.org/A5080928023",
-        "https://openalex.org/A5101891724",
-        "https://openalex.org/A5021213624",
-        "https://openalex.org/A5056376298"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4386989004",
       "year": 2023,
-      "title": "Ultrasmall Self-Cascade AuNP@FeS Nanozyme for H<sub>2</sub>S-Amplified Ferroptosis Therapy",
+      "title": "Ultrasmall Self-Cascade AuNP@FeS Nanozyme for H2S-Amplified Ferroptosis Therapy",
       "doi": "https://doi.org/10.1021/acsami.3c09066",
       "venue": "ACS Applied Materials & Interfaces",
       "co_author_ids": [
@@ -4860,6 +4854,24 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4307986173",
+      "year": 2022,
+      "title": "Cycloacceleration of ferroptosis and calcicoptosis for magnetic resonance imaging-guided colorectal cancer therapy",
+      "doi": "https://doi.org/10.1016/j.nantod.2022.101663",
+      "venue": "Nano Today",
+      "co_author_ids": [
+        "https://openalex.org/A5101838862",
+        "https://openalex.org/A5033483823",
+        "https://openalex.org/A5027421966",
+        "https://openalex.org/A5037587827",
+        "https://openalex.org/A5100697694",
+        "https://openalex.org/A5080928023",
+        "https://openalex.org/A5101891724",
+        "https://openalex.org/A5021213624",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2945845468",
       "year": 2019,
       "title": "NIR-responsive ROS generating core and ROS-triggered 5′-Deoxy-5-fluorocytidine releasing shell structured water-swelling microgel for locoregional combination cancer therapy",
@@ -4931,20 +4943,6 @@
         "https://openalex.org/A5112483953",
         "https://openalex.org/A5075061660",
         "https://openalex.org/A5112599360"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2863449651",
-      "year": 2018,
-      "title": "Tumor-suppressing miR-141 gene complex-loaded tissue-adhesive glue for the locoregional treatment of hepatocellular carcinoma",
-      "doi": "https://doi.org/10.7150/thno.24056",
-      "venue": "Theranostics",
-      "co_author_ids": [
-        "https://openalex.org/A5100699915",
-        "https://openalex.org/A5070792652",
-        "https://openalex.org/A5057853707",
-        "https://openalex.org/A5000379559",
-        "https://openalex.org/A5067551723"
       ]
     },
     {
@@ -5035,7 +5033,7 @@
     {
       "id": "https://openalex.org/W4388894188",
       "year": 2023,
-      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a <i>T</i><sub>1</sub>‐Weighted Contrast Agent for Magnetic Resonance Imaging",
+      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
       "doi": "https://doi.org/10.1002/smll.202308547",
       "venue": "Small",
       "co_author_ids": [
@@ -5193,6 +5191,20 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2863449651",
+      "year": 2018,
+      "title": "Tumor-suppressing miR-141 gene complex-loaded tissue-adhesive glue for the locoregional treatment of hepatocellular carcinoma",
+      "doi": "https://doi.org/10.7150/thno.24056",
+      "venue": "Theranostics",
+      "co_author_ids": [
+        "https://openalex.org/A5100699915",
+        "https://openalex.org/A5070792652",
+        "https://openalex.org/A5057853707",
+        "https://openalex.org/A5000379559",
+        "https://openalex.org/A5067551723"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2518963812",
       "year": 2016,
       "title": "Bone morphogenetic protein-9 is a potent growth inhibitor of hepatocellular carcinoma and reduces the liver cancer stem cells population",
@@ -5207,6 +5219,18 @@
         "https://openalex.org/A5100776687",
         "https://openalex.org/A5105779519",
         "https://openalex.org/A5071651766"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2563908675",
+      "year": 2016,
+      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
+      "doi": "https://doi.org/10.1021/acsami.6b08994",
+      "venue": "ACS Applied Materials & Interfaces",
+      "co_author_ids": [
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -5254,38 +5278,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2013150522",
-      "year": 2013,
-      "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
-      "doi": "https://doi.org/10.1177/0885328213499948",
-      "venue": "Journal of Biomaterials Applications",
-      "co_author_ids": [
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5043141932",
-        "https://openalex.org/A5054404752",
-        "https://openalex.org/A5006370183",
-        "https://openalex.org/A5087822868",
-        "https://openalex.org/A5063446251",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3009427308",
-      "year": 2020,
-      "title": "Effect of expanding nanocellulose sponge on nasal mucosal defects in an animal model",
-      "doi": "https://doi.org/10.1093/rb/rbz054",
-      "venue": "Regenerative Biomaterials",
-      "co_author_ids": [
-        "https://openalex.org/A5100359904",
-        "https://openalex.org/A5042185698",
-        "https://openalex.org/A5039008388",
-        "https://openalex.org/A5052296256",
-        "https://openalex.org/A5101634566",
-        "https://openalex.org/A5080095186",
-        "https://openalex.org/A5055385392"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4387630748",
       "year": 2023,
       "title": "Facile synthesis of multi-stimuli responsive biocompatible trimethyl chitosan-based nanogel as potential nanocarrier for photothermal chemotherapy",
@@ -5319,7 +5311,7 @@
     {
       "id": "https://openalex.org/W3186147107",
       "year": 2021,
-      "title": "Retinoic acid‐conjugated chitosan/manganese porphyrin ionic‐complex nanoparticles for improved <scp>T<sub>1</sub></scp> contrast <scp>MR</scp> imaging of hepatic fibrosis",
+      "title": "Retinoic acid‐conjugated chitosan/manganese porphyrin ionic‐complex nanoparticles for improved T1 contrast MR imaging of hepatic fibrosis",
       "doi": "https://doi.org/10.1002/jbm.b.34914",
       "venue": "Journal of Biomedical Materials Research Part B Applied Biomaterials",
       "co_author_ids": [
@@ -5353,6 +5345,25 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4413138024",
+      "year": 2025,
+      "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
+      "doi": "https://doi.org/10.1016/j.actbio.2025.08.023",
+      "venue": "Acta Biomaterialia",
+      "co_author_ids": [
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5100607746",
+        "https://openalex.org/A5101314641",
+        "https://openalex.org/A5108906866",
+        "https://openalex.org/A5029641606",
+        "https://openalex.org/A5075061660",
+        "https://openalex.org/A5109342497",
+        "https://openalex.org/A5108405380",
+        "https://openalex.org/A5090977989",
+        "https://openalex.org/A5027658078"
+      ]
+    },
+    {
       "id": "https://openalex.org/W327060654",
       "year": 2001,
       "title": "Once-a-Day Oral Dosing Regimen of Cyclosporin A: Combined Therapy of Cyclosporin A Premicroemulsion Concentrates and Enteric Coated Solid-State Premicroemulsion Concentrates",
@@ -5363,18 +5374,6 @@
         "https://openalex.org/A5112499147",
         "https://openalex.org/A5100368589",
         "https://openalex.org/A5014332786"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2563908675",
-      "year": 2016,
-      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic-<i>co</i>-glycolic Acid)/Poly(styrene-<i>alt</i>-maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
-      "doi": "https://doi.org/10.1021/acsami.6b08994",
-      "venue": "ACS Applied Materials & Interfaces",
-      "co_author_ids": [
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -5407,6 +5406,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2013150522",
+      "year": 2013,
+      "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
+      "doi": "https://doi.org/10.1177/0885328213499948",
+      "venue": "Journal of Biomaterials Applications",
+      "co_author_ids": [
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5043141932",
+        "https://openalex.org/A5054404752",
+        "https://openalex.org/A5006370183",
+        "https://openalex.org/A5087822868",
+        "https://openalex.org/A5063446251",
+        "https://openalex.org/A5072803749"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2046556369",
       "year": 2013,
       "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
@@ -5416,6 +5431,22 @@
         "https://openalex.org/A5053188549",
         "https://openalex.org/A5044181109",
         "https://openalex.org/A5072803749"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3009427308",
+      "year": 2020,
+      "title": "Effect of expanding nanocellulose sponge on nasal mucosal defects in an animal model",
+      "doi": "https://doi.org/10.1093/rb/rbz054",
+      "venue": "Regenerative Biomaterials",
+      "co_author_ids": [
+        "https://openalex.org/A5100359904",
+        "https://openalex.org/A5042185698",
+        "https://openalex.org/A5039008388",
+        "https://openalex.org/A5052296256",
+        "https://openalex.org/A5101634566",
+        "https://openalex.org/A5080095186",
+        "https://openalex.org/A5055385392"
       ]
     },
     {
@@ -5523,25 +5554,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4413138024",
-      "year": 2025,
-      "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
-      "doi": "https://doi.org/10.1016/j.actbio.2025.08.023",
-      "venue": "Acta Biomaterialia",
-      "co_author_ids": [
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5100607746",
-        "https://openalex.org/A5101314641",
-        "https://openalex.org/A5108906866",
-        "https://openalex.org/A5029641606",
-        "https://openalex.org/A5075061660",
-        "https://openalex.org/A5109342497",
-        "https://openalex.org/A5108405380",
-        "https://openalex.org/A5090977989",
-        "https://openalex.org/A5027658078"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2021375032",
       "year": 2015,
       "title": "Molecular Mechanism of Local Drug Delivery with Paclitaxel-Eluting Membranes in Biliary and Pancreatic Cancer: New Application for an Old Drug",
@@ -5640,7 +5652,7 @@
     {
       "id": "https://openalex.org/W4403536337",
       "year": 2024,
-      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
+      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
       "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
       "venue": "Heliyon",
       "co_author_ids": [
@@ -5813,7 +5825,7 @@
     {
       "id": "https://openalex.org/W4361243871",
       "year": 2023,
-      "title": "Data from &lt;i&gt;In vivo&lt;/i&gt; Off-Resonance Saturation Magnetic Resonance Imaging of α&lt;sub&gt;v&lt;/sub&gt;β&lt;sub&gt;3&lt;/sub&gt;-Targeted Superparamagnetic Nanoparticles",
+      "title": "Data from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
       "doi": "https://doi.org/10.1158/0008-5472.c.6499412",
       "venue": "",
       "co_author_ids": [
@@ -5830,7 +5842,7 @@
     {
       "id": "https://openalex.org/W4361244300",
       "year": 2023,
-      "title": "Data from &lt;i&gt;In vivo&lt;/i&gt; Off-Resonance Saturation Magnetic Resonance Imaging of α&lt;sub&gt;v&lt;/sub&gt;β&lt;sub&gt;3&lt;/sub&gt;-Targeted Superparamagnetic Nanoparticles",
+      "title": "Data from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
       "doi": "https://doi.org/10.1158/0008-5472.c.6499412.v1",
       "venue": "",
       "co_author_ids": [
@@ -5847,7 +5859,7 @@
     {
       "id": "https://openalex.org/W4361244333",
       "year": 2023,
-      "title": "Supplementary Methods and Materials from &lt;i&gt;In vivo&lt;/i&gt; Off-Resonance Saturation Magnetic Resonance Imaging of α&lt;sub&gt;v&lt;/sub&gt;β&lt;sub&gt;3&lt;/sub&gt;-Targeted Superparamagnetic Nanoparticles",
+      "title": "Supplementary Methods and Materials from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
       "doi": "https://doi.org/10.1158/0008-5472.22379987.v1",
       "venue": "",
       "co_author_ids": [
@@ -5864,7 +5876,7 @@
     {
       "id": "https://openalex.org/W4361261936",
       "year": 2023,
-      "title": "Supplementary Methods and Materials from &lt;i&gt;In vivo&lt;/i&gt; Off-Resonance Saturation Magnetic Resonance Imaging of α&lt;sub&gt;v&lt;/sub&gt;β&lt;sub&gt;3&lt;/sub&gt;-Targeted Superparamagnetic Nanoparticles",
+      "title": "Supplementary Methods and Materials from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
       "doi": "https://doi.org/10.1158/0008-5472.22379987",
       "venue": "",
       "co_author_ids": [
@@ -5988,6 +6000,7 @@
         "https://openalex.org/A5063796292",
         "https://openalex.org/A5128588458",
         "https://openalex.org/A5037996658",
+        "https://openalex.org/A5001773000",
         "https://openalex.org/A5078506216",
         "https://openalex.org/A5036197835",
         "https://openalex.org/A5042950353",
