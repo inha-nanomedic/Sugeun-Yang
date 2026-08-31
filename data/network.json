@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T09:52:34.444215+00:00",
+  "fetched_at": "2026-08-31T16:55:21.016231+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4232,14 +4232,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4400600942",
-      "name": "Yonsei University College of Dentistry",
-      "country": "",
-      "type": "education",
-      "papers": 2,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I155671955",
       "name": "Korea Atomic Energy Research Institute",
       "country": "KR",
@@ -4259,6 +4251,14 @@
       "id": "https://openalex.org/I36258959",
       "name": "University of California San Diego",
       "country": "US",
+      "type": "education",
+      "papers": 2,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4400600942",
+      "name": "Yonsei University College of Dentistry",
+      "country": "",
       "type": "education",
       "papers": 2,
       "is_external": true
@@ -4392,6 +4392,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4210153049",
+      "name": "Vidyasirimedhi Institute of Science and Technology",
+      "country": "TH",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I4210091204",
       "name": "Joint Center for Structural Genomics",
       "country": "US",
@@ -4408,9 +4416,17 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210153049",
-      "name": "Vidyasirimedhi Institute of Science and Technology",
-      "country": "TH",
+      "id": "https://openalex.org/I4210149256",
+      "name": "Zhangzhou Vocational and Technical College",
+      "country": "CN",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210148737",
+      "name": "CHA University",
+      "country": "KR",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4428,22 +4444,6 @@
       "name": "Vajira Hospital",
       "country": "TH",
       "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210149256",
-      "name": "Zhangzhou Vocational and Technical College",
-      "country": "CN",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210148737",
-      "name": "CHA University",
-      "country": "KR",
-      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4965,20 +4965,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4220868673",
-      "year": 2022,
-      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
-      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
-      "venue": "Biomaterials Research",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5101949861",
-        "https://openalex.org/A5069089381",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5059446452"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4290989580",
       "year": 2022,
       "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
@@ -4999,27 +4985,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4307182951",
-      "year": 2022,
-      "title": "Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells",
-      "doi": "https://doi.org/10.1016/j.bbamcr.2022.119384",
-      "venue": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
-      "co_author_ids": [
-        "https://openalex.org/A5101584982",
-        "https://openalex.org/A5071024563",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5044202632",
-        "https://openalex.org/A5048216686",
-        "https://openalex.org/A5057848428",
-        "https://openalex.org/A5076999994",
-        "https://openalex.org/A5035968290",
-        "https://openalex.org/A5054617653",
-        "https://openalex.org/A5038422196",
-        "https://openalex.org/A5075061660"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4312226757",
       "year": 2022,
       "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
@@ -5028,25 +4993,6 @@
       "co_author_ids": [
         "https://openalex.org/A5052510031",
         "https://openalex.org/A5052029602"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4388894188",
-      "year": 2023,
-      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
-      "doi": "https://doi.org/10.1002/smll.202308547",
-      "venue": "Small",
-      "co_author_ids": [
-        "https://openalex.org/A5113173370",
-        "https://openalex.org/A5080928023",
-        "https://openalex.org/A5038168122",
-        "https://openalex.org/A5012497435",
-        "https://openalex.org/A5065762239",
-        "https://openalex.org/A5027421966",
-        "https://openalex.org/A5100672809",
-        "https://openalex.org/A5101891723",
-        "https://openalex.org/A5023469305",
-        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5205,6 +5151,18 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2563908675",
+      "year": 2016,
+      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
+      "doi": "https://doi.org/10.1021/acsami.6b08994",
+      "venue": "ACS Applied Materials & Interfaces",
+      "co_author_ids": [
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5052029602"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2518963812",
       "year": 2016,
       "title": "Bone morphogenetic protein-9 is a potent growth inhibitor of hepatocellular carcinoma and reduces the liver cancer stem cells population",
@@ -5222,18 +5180,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2563908675",
-      "year": 2016,
-      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
-      "doi": "https://doi.org/10.1021/acsami.6b08994",
-      "venue": "ACS Applied Materials & Interfaces",
-      "co_author_ids": [
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5052029602"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2301131860",
       "year": 2016,
       "title": "Capillary microfluidics-derived doxorubicin-containing human serum albumin microbeads for transarterial chemoembolization of hepatic cancer",
@@ -5244,6 +5190,60 @@
         "https://openalex.org/A5006402804",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5048790280"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4220868673",
+      "year": 2022,
+      "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
+      "doi": "https://doi.org/10.1186/s40824-022-00255-9",
+      "venue": "Biomaterials Research",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5101949861",
+        "https://openalex.org/A5069089381",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5059446452"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4307182951",
+      "year": 2022,
+      "title": "Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells",
+      "doi": "https://doi.org/10.1016/j.bbamcr.2022.119384",
+      "venue": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+      "co_author_ids": [
+        "https://openalex.org/A5101584982",
+        "https://openalex.org/A5071024563",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5044202632",
+        "https://openalex.org/A5048216686",
+        "https://openalex.org/A5057848428",
+        "https://openalex.org/A5076999994",
+        "https://openalex.org/A5035968290",
+        "https://openalex.org/A5054617653",
+        "https://openalex.org/A5038422196",
+        "https://openalex.org/A5075061660"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4388894188",
+      "year": 2023,
+      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
+      "doi": "https://doi.org/10.1002/smll.202308547",
+      "venue": "Small",
+      "co_author_ids": [
+        "https://openalex.org/A5113173370",
+        "https://openalex.org/A5080928023",
+        "https://openalex.org/A5038168122",
+        "https://openalex.org/A5012497435",
+        "https://openalex.org/A5065762239",
+        "https://openalex.org/A5027421966",
+        "https://openalex.org/A5100672809",
+        "https://openalex.org/A5101891723",
+        "https://openalex.org/A5023469305",
+        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5278,21 +5278,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4387630748",
-      "year": 2023,
-      "title": "Facile synthesis of multi-stimuli responsive biocompatible trimethyl chitosan-based nanogel as potential nanocarrier for photothermal chemotherapy",
-      "doi": "https://doi.org/10.1016/j.scp.2023.101290",
-      "venue": "Sustainable Chemistry and Pharmacy",
-      "co_author_ids": [
-        "https://openalex.org/A5079783706",
-        "https://openalex.org/A5044550703",
-        "https://openalex.org/A5061019019",
-        "https://openalex.org/A5053010588",
-        "https://openalex.org/A5112419946",
-        "https://openalex.org/A5052029602"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4394821614",
       "year": 2024,
       "title": "The Induction of Combined Hyperthermal Ablation Effect of Irreversible Electroporation with Polydopamine Nanoparticle-Coated Electrodes",
@@ -5306,19 +5291,6 @@
         "https://openalex.org/A5086734944",
         "https://openalex.org/A5076820793",
         "https://openalex.org/A5090977989"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3186147107",
-      "year": 2021,
-      "title": "Retinoic acid‐conjugated chitosan/manganese porphyrin ionic‐complex nanoparticles for improved T1 contrast MR imaging of hepatic fibrosis",
-      "doi": "https://doi.org/10.1002/jbm.b.34914",
-      "venue": "Journal of Biomedical Materials Research Part B Applied Biomaterials",
-      "co_author_ids": [
-        "https://openalex.org/A5017426286",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5104108897",
-        "https://openalex.org/A5038803466"
       ]
     },
     {
@@ -5450,6 +5422,21 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4387630748",
+      "year": 2023,
+      "title": "Facile synthesis of multi-stimuli responsive biocompatible trimethyl chitosan-based nanogel as potential nanocarrier for photothermal chemotherapy",
+      "doi": "https://doi.org/10.1016/j.scp.2023.101290",
+      "venue": "Sustainable Chemistry and Pharmacy",
+      "co_author_ids": [
+        "https://openalex.org/A5079783706",
+        "https://openalex.org/A5044550703",
+        "https://openalex.org/A5061019019",
+        "https://openalex.org/A5053010588",
+        "https://openalex.org/A5112419946",
+        "https://openalex.org/A5052029602"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2751049512",
       "year": 2017,
       "title": "Calcium-Triggered Pulsatile Delivery of Parathyroid Hormone from Microbeads for Osteoporosis Treatment",
@@ -5475,6 +5462,19 @@
         "https://openalex.org/A5110155990",
         "https://openalex.org/A5108101906",
         "https://openalex.org/A5034418015"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3186147107",
+      "year": 2021,
+      "title": "Retinoic acid‐conjugated chitosan/manganese porphyrin ionic‐complex nanoparticles for improved T1 contrast MR imaging of hepatic fibrosis",
+      "doi": "https://doi.org/10.1002/jbm.b.34914",
+      "venue": "Journal of Biomedical Materials Research Part B Applied Biomaterials",
+      "co_author_ids": [
+        "https://openalex.org/A5017426286",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5104108897",
+        "https://openalex.org/A5038803466"
       ]
     },
     {
@@ -5650,20 +5650,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4403536337",
-      "year": 2024,
-      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
-      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
-      "venue": "Heliyon",
-      "co_author_ids": [
-        "https://openalex.org/A5050868678",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5101431040",
-        "https://openalex.org/A5090977989"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2006717766",
       "year": 2006,
       "title": "A Simple HPLC Method for the Determination of Cyclosporin A in Human Whole Blood",
@@ -5710,6 +5696,20 @@
         "https://openalex.org/A5013326948",
         "https://openalex.org/A5101433548",
         "https://openalex.org/A5048790280"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403536337",
+      "year": 2024,
+      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
+      "venue": "Heliyon",
+      "co_author_ids": [
+        "https://openalex.org/A5050868678",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5101431040",
+        "https://openalex.org/A5090977989"
       ]
     },
     {
