@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T16:55:21.016231+00:00",
+  "fetched_at": "2026-09-07T14:56:02.305694+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4985,6 +4985,25 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4388894188",
+      "year": 2023,
+      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
+      "doi": "https://doi.org/10.1002/smll.202308547",
+      "venue": "Small",
+      "co_author_ids": [
+        "https://openalex.org/A5113173370",
+        "https://openalex.org/A5080928023",
+        "https://openalex.org/A5038168122",
+        "https://openalex.org/A5012497435",
+        "https://openalex.org/A5065762239",
+        "https://openalex.org/A5027421966",
+        "https://openalex.org/A5100672809",
+        "https://openalex.org/A5101891723",
+        "https://openalex.org/A5023469305",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4312226757",
       "year": 2022,
       "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
@@ -5228,25 +5247,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4388894188",
-      "year": 2023,
-      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
-      "doi": "https://doi.org/10.1002/smll.202308547",
-      "venue": "Small",
-      "co_author_ids": [
-        "https://openalex.org/A5113173370",
-        "https://openalex.org/A5080928023",
-        "https://openalex.org/A5038168122",
-        "https://openalex.org/A5012497435",
-        "https://openalex.org/A5065762239",
-        "https://openalex.org/A5027421966",
-        "https://openalex.org/A5100672809",
-        "https://openalex.org/A5101891723",
-        "https://openalex.org/A5023469305",
-        "https://openalex.org/A5056376298"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4225164660",
       "year": 2022,
       "title": "Pheophorbide A and SN38 conjugated hyaluronan nanoparticles for photodynamic- and cascadic chemotherapy of cancer stem-like ovarian cancer",
@@ -5390,18 +5390,6 @@
         "https://openalex.org/A5006370183",
         "https://openalex.org/A5087822868",
         "https://openalex.org/A5063446251",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2046556369",
-      "year": 2013,
-      "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
-      "doi": "https://doi.org/10.5625/lar.2013.29.2.96",
-      "venue": "Laboratory Animal Research",
-      "co_author_ids": [
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5044181109",
         "https://openalex.org/A5072803749"
       ]
     },
@@ -5584,6 +5572,18 @@
         "https://openalex.org/A5000436607",
         "https://openalex.org/A5048790280",
         "https://openalex.org/A5075061660"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2046556369",
+      "year": 2013,
+      "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
+      "doi": "https://doi.org/10.5625/lar.2013.29.2.96",
+      "venue": "Laboratory Animal Research",
+      "co_author_ids": [
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5044181109",
+        "https://openalex.org/A5072803749"
       ]
     },
     {
