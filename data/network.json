@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T14:56:02.305694+00:00",
+  "fetched_at": "2026-09-14T15:47:52.708891+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4900,21 +4900,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3093381001",
-      "year": 2020,
-      "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
-      "doi": "https://doi.org/10.3390/biomedicines8100417",
-      "venue": "Biomedicines",
-      "co_author_ids": [
-        "https://openalex.org/A5022690335",
-        "https://openalex.org/A5000379559",
-        "https://openalex.org/A5052464008",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5038803466",
-        "https://openalex.org/A5080095186"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4312223600",
       "year": 2022,
       "title": "Improved cancer immunotherapy strategies by nanomedicine",
@@ -4927,6 +4912,21 @@
         "https://openalex.org/A5035108718",
         "https://openalex.org/A5101891722",
         "https://openalex.org/A5056376298"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3093381001",
+      "year": 2020,
+      "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
+      "doi": "https://doi.org/10.3390/biomedicines8100417",
+      "venue": "Biomedicines",
+      "co_author_ids": [
+        "https://openalex.org/A5022690335",
+        "https://openalex.org/A5000379559",
+        "https://openalex.org/A5052464008",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5038803466",
+        "https://openalex.org/A5080095186"
       ]
     },
     {
@@ -5515,23 +5515,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4413271926",
-      "year": 2025,
-      "title": "Cholesterol-Conjugated Polyion Complex Nanoparticles for Combination Delivery of Hydrophobic Paclitaxel and Hydrophilic miR-34a for Colon Cancer Therapy",
-      "doi": "https://doi.org/10.3390/ijms26167965",
-      "venue": "International Journal of Molecular Sciences",
-      "co_author_ids": [
-        "https://openalex.org/A5085277476",
-        "https://openalex.org/A5090977989",
-        "https://openalex.org/A5051742735",
-        "https://openalex.org/A5041020388",
-        "https://openalex.org/A5086734944",
-        "https://openalex.org/A5044987510",
-        "https://openalex.org/A5076820793",
-        "https://openalex.org/A5101949860"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4409535635",
       "year": 2025,
       "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
@@ -5637,6 +5620,23 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4413271926",
+      "year": 2025,
+      "title": "Cholesterol-Conjugated Polyion Complex Nanoparticles for Combination Delivery of Hydrophobic Paclitaxel and Hydrophilic miR-34a for Colon Cancer Therapy",
+      "doi": "https://doi.org/10.3390/ijms26167965",
+      "venue": "International Journal of Molecular Sciences",
+      "co_author_ids": [
+        "https://openalex.org/A5085277476",
+        "https://openalex.org/A5090977989",
+        "https://openalex.org/A5051742735",
+        "https://openalex.org/A5041020388",
+        "https://openalex.org/A5086734944",
+        "https://openalex.org/A5044987510",
+        "https://openalex.org/A5076820793",
+        "https://openalex.org/A5101949860"
+      ]
+    },
+    {
       "id": "https://openalex.org/W142941425",
       "year": 2015,
       "title": "Hemostatic action of EGF-endospray on mucosectomy-induced ulcer bleeding animal models",
@@ -5647,6 +5647,20 @@
         "https://openalex.org/A5053188549",
         "https://openalex.org/A5100776690",
         "https://openalex.org/A5072803749"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403536337",
+      "year": 2024,
+      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
+      "venue": "Heliyon",
+      "co_author_ids": [
+        "https://openalex.org/A5050868678",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5101431040",
+        "https://openalex.org/A5090977989"
       ]
     },
     {
@@ -5696,20 +5710,6 @@
         "https://openalex.org/A5013326948",
         "https://openalex.org/A5101433548",
         "https://openalex.org/A5048790280"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403536337",
-      "year": 2024,
-      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
-      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
-      "venue": "Heliyon",
-      "co_author_ids": [
-        "https://openalex.org/A5050868678",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5101431040",
-        "https://openalex.org/A5090977989"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
-  "total_citations": 4534,
-  "y5_citations": 2591,
+  "total_citations": 4546,
+  "y5_citations": 2601,
   "h_index": 36,
   "y5_h_index": 25,
   "i10_index": 75,
@@ -17,13 +17,13 @@
     "2017": 195,
     "2018": 185,
     "2019": 220,
-    "2020": 312,
+    "2020": 313,
     "2021": 336,
-    "2022": 410,
+    "2022": 411,
     "2023": 423,
     "2024": 532,
     "2025": 549,
-    "2026": 338
+    "2026": 347
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 681,
+        "value": 683,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 111,
+        "value": 112,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -229,7 +229,7 @@
       "authors": "J Yang, J Feng, S Yang, Y Xu, Z Shen",
       "publication": "Small 19 (49), 2302856, 2023",
       "cited_by": {
-        "value": 73,
+        "value": 74,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474365134918622444",
         "serpapi_link": "https://serpapi.com/search.json?cites=7474365134918622444&engine=google_scholar&hl=en",
         "cites_id": "7474365134918622444"
@@ -285,7 +285,7 @@
       "authors": "SI Jang, JH Kim, M Kim, S Yang, EA Jo, JW Lee, K Na, JM Kim, S Jeong, ...",
       "publication": "Endoscopy 44 (09), 825-831, 2012",
       "cited_by": {
-        "value": 66,
+        "value": 67,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=760808377809737404",
         "serpapi_link": "https://serpapi.com/search.json?cites=760808377809737404&engine=google_scholar&hl=en",
         "cites_id": "760808377809737404"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-09-07T14:56:05.195995+00:00",
+  "fetched_at": "2026-09-14T15:47:54.056758+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }
