@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T15:47:52.708891+00:00",
+  "fetched_at": "2026-09-21T15:46:56.884853+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -534,7 +534,7 @@
     {
       "id": "https://openalex.org/A5041020388",
       "name": "Chiravoot Pechyen",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0001-6034-6597",
       "papers": 3,
       "first_year": 2024,
       "last_year": 2025,
@@ -801,7 +801,7 @@
     {
       "id": "https://openalex.org/A5038168122",
       "name": "Yudie Lu",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0002-8221-9323",
       "papers": 3,
       "first_year": 2022,
       "last_year": 2023,
@@ -851,7 +851,7 @@
     {
       "id": "https://openalex.org/A5060729105",
       "name": "Dahee Ryu",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0000-3437-0956",
       "papers": 2,
       "first_year": 2025,
       "last_year": 2025,
@@ -1120,7 +1120,7 @@
     {
       "id": "https://openalex.org/A5060318754",
       "name": "Min Hye Kim",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0009-0129-0111",
       "papers": 2,
       "first_year": 2021,
       "last_year": 2022,
@@ -1144,7 +1144,7 @@
     {
       "id": "https://openalex.org/A5069836237",
       "name": "Ngoc-Thuan Truong",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0001-7568-2091",
       "papers": 2,
       "first_year": 2023,
       "last_year": 2026,
@@ -1738,7 +1738,7 @@
     {
       "id": "https://openalex.org/A5128434767",
       "name": "Daeho Park",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-2824-490X",
       "papers": 1,
       "first_year": 2026,
       "last_year": 2026,
@@ -2397,7 +2397,7 @@
     {
       "id": "https://openalex.org/A5076999994",
       "name": "Ji Su Sun",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0005-6370-9740",
       "papers": 1,
       "first_year": 2022,
       "last_year": 2022,
@@ -3019,7 +3019,7 @@
     {
       "id": "https://openalex.org/A5050868678",
       "name": "Nattha Suwanprakorn",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0009-3660-3325",
       "papers": 1,
       "first_year": 2024,
       "last_year": 2024,
@@ -3283,7 +3283,7 @@
     {
       "id": "https://openalex.org/A5001773000",
       "name": "Seungheon Shin",
-      "orcid": "https://orcid.org/0000-0001-9357-166X",
+      "orcid": "https://orcid.org/0000-0001-9193-6178",
       "papers": 1,
       "first_year": 2026,
       "last_year": 2026,
@@ -3695,7 +3695,7 @@
     {
       "id": "https://openalex.org/A5063227694",
       "name": "Yardnapar Parcharoen",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-5086-3846",
       "papers": 1,
       "first_year": 2024,
       "last_year": 2024,
@@ -3730,7 +3730,7 @@
     {
       "id": "https://openalex.org/A5101207450",
       "name": "Yikai Xu",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0001-2519-3123",
       "papers": 1,
       "first_year": 2023,
       "last_year": 2023,
@@ -4176,6 +4176,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I73616290",
+      "name": "Korea Research Institute of Bioscience and Biotechnology",
+      "country": "KR",
+      "type": "facility",
+      "papers": 3,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I47141704",
       "name": "Daewoong Pharmaceutical (South Korea)",
       "country": "KR",
@@ -4188,14 +4196,6 @@
       "name": "Yeungnam University",
       "country": "KR",
       "type": "education",
-      "papers": 3,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I73616290",
-      "name": "Korea Research Institute of Bioscience and Biotechnology",
-      "country": "KR",
-      "type": "facility",
       "papers": 3,
       "is_external": true
     },
@@ -4448,14 +4448,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4575257",
-      "name": "Hanyang University",
-      "country": "KR",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I146824383",
       "name": "Hallym University",
       "country": "KR",
@@ -4476,6 +4468,14 @@
       "name": "Korea Polar Research Institute",
       "country": "KR",
       "type": "facility",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4575257",
+      "name": "Hanyang University",
+      "country": "KR",
+      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4965,6 +4965,25 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4388894188",
+      "year": 2023,
+      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
+      "doi": "https://doi.org/10.1002/smll.202308547",
+      "venue": "Small",
+      "co_author_ids": [
+        "https://openalex.org/A5113173370",
+        "https://openalex.org/A5080928023",
+        "https://openalex.org/A5038168122",
+        "https://openalex.org/A5012497435",
+        "https://openalex.org/A5065762239",
+        "https://openalex.org/A5027421966",
+        "https://openalex.org/A5100672809",
+        "https://openalex.org/A5101891723",
+        "https://openalex.org/A5023469305",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4290989580",
       "year": 2022,
       "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
@@ -4982,25 +5001,6 @@
         "https://openalex.org/A5064657974",
         "https://openalex.org/A5024433704",
         "https://openalex.org/A5017936915"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4388894188",
-      "year": 2023,
-      "title": "Kilogram‐Scale Synthesis of Extremely Small Gadolinium Oxide Nanoparticles as a T1‐Weighted Contrast Agent for Magnetic Resonance Imaging",
-      "doi": "https://doi.org/10.1002/smll.202308547",
-      "venue": "Small",
-      "co_author_ids": [
-        "https://openalex.org/A5113173370",
-        "https://openalex.org/A5080928023",
-        "https://openalex.org/A5038168122",
-        "https://openalex.org/A5012497435",
-        "https://openalex.org/A5065762239",
-        "https://openalex.org/A5027421966",
-        "https://openalex.org/A5100672809",
-        "https://openalex.org/A5101891723",
-        "https://openalex.org/A5023469305",
-        "https://openalex.org/A5056376298"
       ]
     },
     {
@@ -5378,38 +5378,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2013150522",
-      "year": 2013,
-      "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
-      "doi": "https://doi.org/10.1177/0885328213499948",
-      "venue": "Journal of Biomaterials Applications",
-      "co_author_ids": [
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5043141932",
-        "https://openalex.org/A5054404752",
-        "https://openalex.org/A5006370183",
-        "https://openalex.org/A5087822868",
-        "https://openalex.org/A5063446251",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3009427308",
-      "year": 2020,
-      "title": "Effect of expanding nanocellulose sponge on nasal mucosal defects in an animal model",
-      "doi": "https://doi.org/10.1093/rb/rbz054",
-      "venue": "Regenerative Biomaterials",
-      "co_author_ids": [
-        "https://openalex.org/A5100359904",
-        "https://openalex.org/A5042185698",
-        "https://openalex.org/A5039008388",
-        "https://openalex.org/A5052296256",
-        "https://openalex.org/A5101634566",
-        "https://openalex.org/A5080095186",
-        "https://openalex.org/A5055385392"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4387630748",
       "year": 2023,
       "title": "Facile synthesis of multi-stimuli responsive biocompatible trimethyl chitosan-based nanogel as potential nanocarrier for photothermal chemotherapy",
@@ -5435,21 +5403,6 @@
         "https://openalex.org/A5075034585",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5101949861"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2079945583",
-      "year": 2012,
-      "title": "Inclusion complex effect on the bioavailability of clotrimazole from poloxamer-based solid suppository",
-      "doi": "https://doi.org/10.1007/s12272-012-0707-5",
-      "venue": "Archives of Pharmacal Research",
-      "co_author_ids": [
-        "https://openalex.org/A5103094220",
-        "https://openalex.org/A5057853707",
-        "https://openalex.org/A5086925583",
-        "https://openalex.org/A5110155990",
-        "https://openalex.org/A5108101906",
-        "https://openalex.org/A5034418015"
       ]
     },
     {
@@ -5500,31 +5453,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4292239815",
-      "year": 2022,
-      "title": "Tumor-mediated 4-1BB induces tumor proliferation and metastasis in the colorectal cancer cells",
-      "doi": "https://doi.org/10.1016/j.lfs.2022.120899",
-      "venue": "Life Sciences",
-      "co_author_ids": [
-        "https://openalex.org/A5100776690",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5067551723",
-        "https://openalex.org/A5069089381",
-        "https://openalex.org/A5051742735",
-        "https://openalex.org/A5070792652"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4409535635",
-      "year": 2025,
-      "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
-      "doi": "https://doi.org/10.3390/metabo15040279",
-      "venue": "Metabolites",
-      "co_author_ids": [
-        "https://openalex.org/A5090977989"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2021375032",
       "year": 2015,
       "title": "Molecular Mechanism of Local Drug Delivery with Paclitaxel-Eluting Membranes in Biliary and Pancreatic Cancer: New Application for an Old Drug",
@@ -5558,6 +5486,22 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2013150522",
+      "year": 2013,
+      "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
+      "doi": "https://doi.org/10.1177/0885328213499948",
+      "venue": "Journal of Biomaterials Applications",
+      "co_author_ids": [
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5043141932",
+        "https://openalex.org/A5054404752",
+        "https://openalex.org/A5006370183",
+        "https://openalex.org/A5087822868",
+        "https://openalex.org/A5063446251",
+        "https://openalex.org/A5072803749"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2046556369",
       "year": 2013,
       "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
@@ -5582,6 +5526,37 @@
         "https://openalex.org/A5100335492",
         "https://openalex.org/A5052510031",
         "https://openalex.org/A5080530170"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3009427308",
+      "year": 2020,
+      "title": "Effect of expanding nanocellulose sponge on nasal mucosal defects in an animal model",
+      "doi": "https://doi.org/10.1093/rb/rbz054",
+      "venue": "Regenerative Biomaterials",
+      "co_author_ids": [
+        "https://openalex.org/A5100359904",
+        "https://openalex.org/A5042185698",
+        "https://openalex.org/A5039008388",
+        "https://openalex.org/A5052296256",
+        "https://openalex.org/A5101634566",
+        "https://openalex.org/A5080095186",
+        "https://openalex.org/A5055385392"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2079945583",
+      "year": 2012,
+      "title": "Inclusion complex effect on the bioavailability of clotrimazole from poloxamer-based solid suppository",
+      "doi": "https://doi.org/10.1007/s12272-012-0707-5",
+      "venue": "Archives of Pharmacal Research",
+      "co_author_ids": [
+        "https://openalex.org/A5103094220",
+        "https://openalex.org/A5057853707",
+        "https://openalex.org/A5086925583",
+        "https://openalex.org/A5110155990",
+        "https://openalex.org/A5108101906",
+        "https://openalex.org/A5034418015"
       ]
     },
     {
@@ -5620,6 +5595,21 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4292239815",
+      "year": 2022,
+      "title": "Tumor-mediated 4-1BB induces tumor proliferation and metastasis in the colorectal cancer cells",
+      "doi": "https://doi.org/10.1016/j.lfs.2022.120899",
+      "venue": "Life Sciences",
+      "co_author_ids": [
+        "https://openalex.org/A5100776690",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5067551723",
+        "https://openalex.org/A5069089381",
+        "https://openalex.org/A5051742735",
+        "https://openalex.org/A5070792652"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4413271926",
       "year": 2025,
       "title": "Cholesterol-Conjugated Polyion Complex Nanoparticles for Combination Delivery of Hydrophobic Paclitaxel and Hydrophilic miR-34a for Colon Cancer Therapy",
@@ -5637,29 +5627,12 @@
       ]
     },
     {
-      "id": "https://openalex.org/W142941425",
-      "year": 2015,
-      "title": "Hemostatic action of EGF-endospray on mucosectomy-induced ulcer bleeding animal models",
-      "doi": "https://doi.org/10.3233/bme-141236",
-      "venue": "Bio-Medical Materials and Engineering",
+      "id": "https://openalex.org/W4409535635",
+      "year": 2025,
+      "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
+      "doi": "https://doi.org/10.3390/metabo15040279",
+      "venue": "Metabolites",
       "co_author_ids": [
-        "https://openalex.org/A5011304851",
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5100776690",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4403536337",
-      "year": 2024,
-      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
-      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
-      "venue": "Heliyon",
-      "co_author_ids": [
-        "https://openalex.org/A5050868678",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5101431040",
         "https://openalex.org/A5090977989"
       ]
     },
@@ -5674,6 +5647,19 @@
         "https://openalex.org/A5078895940",
         "https://openalex.org/A5012894904",
         "https://openalex.org/A5091547688"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W142941425",
+      "year": 2015,
+      "title": "Hemostatic action of EGF-endospray on mucosectomy-induced ulcer bleeding animal models",
+      "doi": "https://doi.org/10.3233/bme-141236",
+      "venue": "Bio-Medical Materials and Engineering",
+      "co_author_ids": [
+        "https://openalex.org/A5011304851",
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5100776690",
+        "https://openalex.org/A5072803749"
       ]
     },
     {
@@ -5697,6 +5683,20 @@
       "venue": "Journal of Pharmaceutical Investigation",
       "co_author_ids": [
         "https://openalex.org/A5112499147"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4403536337",
+      "year": 2024,
+      "title": "Transcriptomic analysis of embryonic mouse hypothalamic N38 cells exposed to high-energy protons and/or simulated microgravity",
+      "doi": "https://doi.org/10.1016/j.heliyon.2024.e39533",
+      "venue": "Heliyon",
+      "co_author_ids": [
+        "https://openalex.org/A5050868678",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5101431040",
+        "https://openalex.org/A5090977989"
       ]
     },
     {
