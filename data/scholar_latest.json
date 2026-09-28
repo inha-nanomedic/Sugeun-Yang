@@ -1,29 +1,29 @@
 {
-  "total_citations": 4556,
-  "y5_citations": 2610,
+  "total_citations": 4566,
+  "y5_citations": 2619,
   "h_index": 36,
   "y5_h_index": 26,
   "i10_index": 75,
-  "y5_i10_index": 60,
+  "y5_i10_index": 61,
   "cites_per_year": {
-    "2009": 32,
+    "2009": 33,
     "2010": 60,
     "2011": 103,
-    "2012": 109,
+    "2012": 108,
     "2013": 136,
-    "2014": 174,
-    "2015": 161,
+    "2014": 172,
+    "2015": 163,
     "2016": 157,
     "2017": 195,
     "2018": 185,
-    "2019": 220,
+    "2019": 222,
     "2020": 314,
-    "2021": 336,
-    "2022": 410,
+    "2021": 337,
+    "2022": 409,
     "2023": 423,
     "2024": 532,
     "2025": 549,
-    "2026": 357
+    "2026": 366
   },
   "articles": [
     {
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 194,
+        "value": 195,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -145,7 +145,7 @@
       "authors": "C Khemtong, CW Kessinger, J Ren, EA Bey, SG Yang, JS Guthi, ...",
       "publication": "Cancer research 69 (4), 1651-1658, 2009",
       "cited_by": {
-        "value": 133,
+        "value": 134,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10798784040368407827",
         "serpapi_link": "https://serpapi.com/search.json?cites=10798784040368407827&engine=google_scholar&hl=en",
         "cites_id": "10798784040368407827"
@@ -181,6 +181,20 @@
       "year": "2021"
     },
     {
+      "title": "An acetylated polysaccharide-PTFE membrane-covered stent for the delivery of gemcitabine for treatment of gastrointestinal cancer and related stenosis",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:0EnyYjriUFMC",
+      "citation_id": "X1B7JX8AAAAJ:0EnyYjriUFMC",
+      "authors": "S Moon, SG Yang, K Na",
+      "publication": "Biomaterials 32 (14), 3603-3610, 2011",
+      "cited_by": {
+        "value": 86,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8913262017659069803",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8913262017659069803&engine=google_scholar&hl=en",
+        "cites_id": "8913262017659069803"
+      },
+      "year": "2011"
+    },
+    {
       "title": "The performance of gadolinium diethylene triamine pentaacetate-pullulan hepatocyte-specific T1 contrast agent for MRI",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:ULOm3_A8WrAC",
       "citation_id": "X1B7JX8AAAAJ:ULOm3_A8WrAC",
@@ -191,20 +205,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10750493468794928508",
         "serpapi_link": "https://serpapi.com/search.json?cites=10750493468794928508&engine=google_scholar&hl=en",
         "cites_id": "10750493468794928508"
-      },
-      "year": "2011"
-    },
-    {
-      "title": "An acetylated polysaccharide-PTFE membrane-covered stent for the delivery of gemcitabine for treatment of gastrointestinal cancer and related stenosis",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:0EnyYjriUFMC",
-      "citation_id": "X1B7JX8AAAAJ:0EnyYjriUFMC",
-      "authors": "S Moon, SG Yang, K Na",
-      "publication": "Biomaterials 32 (14), 3603-3610, 2011",
-      "cited_by": {
-        "value": 83,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8913262017659069803",
-        "serpapi_link": "https://serpapi.com/search.json?cites=8913262017659069803&engine=google_scholar&hl=en",
-        "cites_id": "8913262017659069803"
       },
       "year": "2011"
     },
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-09-21T15:46:59.511858+00:00",
+  "fetched_at": "2026-09-28T17:30:00.179932+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }

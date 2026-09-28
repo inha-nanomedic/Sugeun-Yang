@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T15:46:56.884853+00:00",
+  "fetched_at": "2026-09-28T17:29:58.647951+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -7,9 +7,9 @@
   },
   "totals": {
     "works": 100,
-    "co_authors": 321,
-    "institutions": 72,
-    "countries": 15
+    "co_authors": 317,
+    "institutions": 63,
+    "countries": 11
   },
   "co_authors": [
     {
@@ -51,8 +51,6 @@
       "institution_ids": [
         "https://openalex.org/I139264467",
         "https://openalex.org/I191879574",
-        "https://openalex.org/I4210133166",
-        "https://openalex.org/I50583767",
         "https://openalex.org/I87111246"
       ],
       "is_external": false
@@ -94,8 +92,8 @@
       "last_year": 2025,
       "institution_ids": [
         "https://openalex.org/I191879574",
-        "https://openalex.org/I4210149256",
-        "https://openalex.org/I4210153373"
+        "https://openalex.org/I4210153373",
+        "https://openalex.org/I4405280323"
       ],
       "is_external": false
     },
@@ -107,8 +105,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -121,8 +118,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -135,8 +131,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -149,8 +144,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -163,8 +157,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -228,13 +221,14 @@
       "first_year": 2015,
       "last_year": 2022,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
     {
       "id": "https://openalex.org/A5076820793",
-      "name": "Seok Jeong",
+      "name": "Seok Won Jeong",
       "orcid": "https://orcid.org/0000-0001-6178-8338",
       "papers": 6,
       "first_year": 2012,
@@ -254,8 +248,7 @@
       "last_year": 2012,
       "institution_ids": [
         "https://openalex.org/I12832649",
-        "https://openalex.org/I139264467",
-        "https://openalex.org/I2802457231"
+        "https://openalex.org/I139264467"
       ],
       "is_external": true
     },
@@ -266,23 +259,8 @@
       "papers": 5,
       "first_year": 2013,
       "last_year": 2015,
-      "institution_ids": [
-        "https://openalex.org/I4210090951"
-      ],
+      "institution_ids": [],
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5101949860",
-      "name": "Jung-Han Lee",
-      "orcid": "https://orcid.org/0000-0002-3582-251X",
-      "papers": 5,
-      "first_year": 2016,
-      "last_year": 2025,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
     },
     {
       "id": "https://openalex.org/A5000379559",
@@ -292,7 +270,8 @@
       "first_year": 2018,
       "last_year": 2020,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -304,8 +283,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -319,7 +297,8 @@
       "last_year": 2018,
       "institution_ids": [
         "https://openalex.org/I139264467",
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -364,8 +343,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
@@ -388,40 +366,27 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210096815",
-        "https://openalex.org/I4210145671",
+        "https://openalex.org/I4390039370",
         "https://openalex.org/I867280407"
       ],
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5038803466",
-      "name": "Jungjoo Kim",
-      "orcid": "https://orcid.org/0000-0002-4003-1966",
+      "id": "https://openalex.org/A5101949860",
+      "name": "Jung-Han Lee",
+      "orcid": "https://orcid.org/0000-0002-3582-251X",
       "papers": 4,
-      "first_year": 2020,
-      "last_year": 2021,
+      "first_year": 2019,
+      "last_year": 2025,
       "institution_ids": [
-        "https://openalex.org/I146429904",
-        "https://openalex.org/I191879574"
-      ],
-      "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5101949861",
-      "name": "Jung‐Han Lee",
-      "orcid": "https://orcid.org/0000-0002-7679-3946",
-      "papers": 4,
-      "first_year": 2017,
-      "last_year": 2022,
-      "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
     {
       "id": "https://openalex.org/A5058048785",
-      "name": "Kevin Carnevale",
+      "name": "Kevin A. Carnevale",
       "orcid": "https://orcid.org/0000-0003-1750-788X",
       "papers": 4,
       "first_year": 2023,
@@ -445,7 +410,7 @@
     },
     {
       "id": "https://openalex.org/A5048216686",
-      "name": "Quang De Tran",
+      "name": "Quang Luc Tran",
       "orcid": "https://orcid.org/0000-0002-5381-0686",
       "papers": 4,
       "first_year": 2022,
@@ -483,7 +448,7 @@
     },
     {
       "id": "https://openalex.org/A5021213624",
-      "name": "Aiguo Wu",
+      "name": "Aiguo G. Wu",
       "orcid": "https://orcid.org/0000-0001-7200-8923",
       "papers": 3,
       "first_year": 2015,
@@ -527,6 +492,7 @@
       "first_year": 2013,
       "last_year": 2015,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -576,7 +542,6 @@
       "last_year": 2016,
       "institution_ids": [
         "https://openalex.org/I191879574",
-        "https://openalex.org/I4210086342",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -591,9 +556,9 @@
       "institution_ids": [
         "https://openalex.org/I191879574",
         "https://openalex.org/I193775966",
-        "https://openalex.org/I4210133166",
         "https://openalex.org/I4210144108",
-        "https://openalex.org/I4210153373"
+        "https://openalex.org/I4210153373",
+        "https://openalex.org/I87111246"
       ],
       "is_external": false
     },
@@ -672,28 +637,13 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5080530170",
-      "name": "Junghan Lee",
-      "orcid": "https://orcid.org/0000-0002-2367-867X",
-      "papers": 3,
-      "first_year": 2018,
-      "last_year": 2019,
-      "institution_ids": [
-        "https://openalex.org/I191879574"
-      ],
-      "is_external": false
-    },
-    {
       "id": "https://openalex.org/A5054404752",
       "name": "Jung‐Ju Kim",
       "orcid": "https://orcid.org/0000-0002-8819-6858",
       "papers": 3,
       "first_year": 2013,
       "last_year": 2014,
-      "institution_ids": [
-        "https://openalex.org/I4210090248",
-        "https://openalex.org/I4210094804"
-      ],
+      "institution_ids": [],
       "is_external": true
     },
     {
@@ -811,6 +761,19 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5033483823",
+      "name": "Zongheng Li",
+      "orcid": "https://orcid.org/0009-0003-4358-9599",
+      "papers": 3,
+      "first_year": 2022,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4210103346",
+        "https://openalex.org/I58200834"
+      ],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5078615245",
       "name": "Bùi Thị Bửu Huê",
       "orcid": "https://orcid.org/0000-0002-4635-933X",
@@ -836,7 +799,7 @@
     },
     {
       "id": "https://openalex.org/A5009690203",
-      "name": "D. Lee",
+      "name": "Dae Hyung Lee",
       "orcid": "https://orcid.org/0000-0003-2171-4128",
       "papers": 2,
       "first_year": 2012,
@@ -844,7 +807,8 @@
       "institution_ids": [
         "https://openalex.org/I191879574",
         "https://openalex.org/I193775966",
-        "https://openalex.org/I4210144108"
+        "https://openalex.org/I4210144108",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -880,6 +844,7 @@
       "first_year": 2023,
       "last_year": 2026,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -891,9 +856,7 @@
       "papers": 2,
       "first_year": 2013,
       "last_year": 2013,
-      "institution_ids": [
-        "https://openalex.org/I4210090951"
-      ],
+      "institution_ids": [],
       "is_external": true
     },
     {
@@ -933,26 +896,15 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5036197835",
-      "name": "Francisco D. Yanqui-Rivera",
-      "orcid": null,
-      "papers": 2,
-      "first_year": 2023,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I39534123"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5075034585",
       "name": "Ha Neul Lee",
-      "orcid": "https://orcid.org/0000-0002-2284-4947",
+      "orcid": "https://orcid.org/0009-0007-8352-4182",
       "papers": 2,
       "first_year": 2014,
       "last_year": 2017,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -971,6 +923,18 @@
     {
       "id": "https://openalex.org/A5078506216",
       "name": "Hye Seung Nam",
+      "orcid": "https://orcid.org/0000-0002-9556-8920",
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I39534123"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5076965588",
+      "name": "Hyeon Seung Yoon",
       "orcid": null,
       "papers": 2,
       "first_year": 2023,
@@ -988,7 +952,8 @@
       "first_year": 2017,
       "last_year": 2020,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -1058,13 +1023,38 @@
     {
       "id": "https://openalex.org/A5008782184",
       "name": "Jung Yeon Ghee",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-5817-237X",
       "papers": 2,
       "first_year": 2016,
       "last_year": 2016,
       "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5038803466",
+      "name": "Jungjoo Kim",
+      "orcid": "https://orcid.org/0000-0002-4003-1966",
+      "papers": 2,
+      "first_year": 2021,
+      "last_year": 2021,
+      "institution_ids": [
+        "https://openalex.org/I146429904",
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5101949861",
+      "name": "Jung‐Han Lee",
+      "orcid": "https://orcid.org/0000-0002-7679-3946",
+      "papers": 2,
+      "first_year": 2017,
+      "last_year": 2021,
+      "institution_ids": [
         "https://openalex.org/I191879574",
-        "https://openalex.org/I4210086342"
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -1232,7 +1222,7 @@
       "first_year": 2022,
       "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I4210093057",
+        "https://openalex.org/I4405269321",
         "https://openalex.org/I70349855"
       ],
       "is_external": true
@@ -1318,6 +1308,7 @@
       "first_year": 2011,
       "last_year": 2011,
       "institution_ids": [
+        "https://openalex.org/I139264467",
         "https://openalex.org/I2802835388"
       ],
       "is_external": true
@@ -1382,7 +1373,6 @@
       "last_year": 2011,
       "institution_ids": [
         "https://openalex.org/I139264467",
-        "https://openalex.org/I50583767",
         "https://openalex.org/I87111246"
       ],
       "is_external": true
@@ -1482,21 +1472,10 @@
       "first_year": 2017,
       "last_year": 2020,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5074901381",
-      "name": "Zongheng Li",
-      "orcid": "https://orcid.org/0009-0003-4358-9599",
-      "papers": 2,
-      "first_year": 2022,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I58200834"
-      ],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5076469940",
@@ -1525,7 +1504,7 @@
     {
       "id": "https://openalex.org/A5052464008",
       "name": "Buşra Özlü",
-      "orcid": "https://orcid.org/0000-0002-1304-5756",
+      "orcid": "https://orcid.org/0000-0002-4812-9431",
       "papers": 1,
       "first_year": 2020,
       "last_year": 2020,
@@ -1630,9 +1609,9 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5108101906",
+      "id": "https://openalex.org/A5086090575",
       "name": "Chul Soon Yong",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0002-9242-2117",
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
@@ -1688,18 +1667,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5080126709",
-      "name": "D. Nageshwar Reddy",
-      "orcid": "https://orcid.org/0000-0002-5992-1678",
-      "papers": 1,
-      "first_year": 2014,
-      "last_year": 2014,
-      "institution_ids": [
-        "https://openalex.org/I4210137328"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5139939756",
       "name": "Da-hee Ryu",
       "orcid": null,
@@ -1714,7 +1681,7 @@
     {
       "id": "https://openalex.org/A5110155990",
       "name": "Dae Duk Kim",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0003-0093-3874",
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
@@ -1829,8 +1796,8 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5061132235",
-      "name": "Dong-Sun Shin",
+      "id": "https://openalex.org/A5103980169",
+      "name": "Dong‐Sun Shin",
       "orcid": null,
       "papers": 1,
       "first_year": 1994,
@@ -1839,14 +1806,14 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5017685264",
-      "name": "Dongyoon Han",
-      "orcid": "https://orcid.org/0000-0002-9130-8195",
+      "id": "https://openalex.org/A5080126709",
+      "name": "Duvuur Nageshwar Reddy",
+      "orcid": "https://orcid.org/0000-0002-5992-1678",
       "papers": 1,
-      "first_year": 2000,
-      "last_year": 2000,
+      "first_year": 2014,
+      "last_year": 2014,
       "institution_ids": [
-        "https://openalex.org/I139264467"
+        "https://openalex.org/I4210137328"
       ],
       "is_external": true
     },
@@ -1871,6 +1838,30 @@
       "last_year": 2015,
       "institution_ids": [
         "https://openalex.org/I4210101755"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5036197835",
+      "name": "Francisco D. Yanqui-Rivera",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I39534123"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5011457874",
+      "name": "Francisco Yanqui-Rivera",
+      "orcid": "https://orcid.org/0000-0001-6493-5284",
+      "papers": 1,
+      "first_year": 2026,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I39534123"
       ],
       "is_external": true
     },
@@ -1918,8 +1909,7 @@
       "first_year": 2014,
       "last_year": 2014,
       "institution_ids": [
-        "https://openalex.org/I103320735",
-        "https://openalex.org/I84470341"
+        "https://openalex.org/I103320735"
       ],
       "is_external": true
     },
@@ -1943,7 +1933,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "institution_ids": [
-        "https://openalex.org/I193775966"
+        "https://openalex.org/I193775966",
+        "https://openalex.org/I4405258769"
       ],
       "is_external": true
     },
@@ -2090,33 +2081,10 @@
       "first_year": 2021,
       "last_year": 2021,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5076965588",
-      "name": "Hyeon Seung Yoon",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I39534123"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5128588458",
-      "name": "Hyeon-Seung Yoon",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2026,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I39534123"
-      ],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5102114218",
@@ -2143,18 +2111,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5037996658",
-      "name": "Hyun-Su An",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2026,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I39534123"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5085029096",
       "name": "Hyung Gil Kim",
       "orcid": null,
@@ -2162,6 +2118,7 @@
       "first_year": 2013,
       "last_year": 2013,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -2222,7 +2179,8 @@
       "first_year": 2017,
       "last_year": 2017,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2240,7 +2198,7 @@
     },
     {
       "id": "https://openalex.org/A5103178513",
-      "name": "Jacques Devière",
+      "name": "Jacques M.E. Deviere",
       "orcid": "https://orcid.org/0000-0003-1889-1924",
       "papers": 1,
       "first_year": 2014,
@@ -2306,6 +2264,7 @@
       "first_year": 2026,
       "last_year": 2026,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -2318,6 +2277,7 @@
       "first_year": 2023,
       "last_year": 2023,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -2342,7 +2302,8 @@
       "first_year": 2020,
       "last_year": 2020,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2366,7 +2327,8 @@
       "first_year": 2017,
       "last_year": 2017,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2415,7 +2377,8 @@
       "first_year": 2020,
       "last_year": 2020,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2499,7 +2462,8 @@
       "first_year": 2012,
       "last_year": 2012,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2523,7 +2487,8 @@
       "first_year": 2017,
       "last_year": 2017,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2559,6 +2524,7 @@
       "first_year": 2014,
       "last_year": 2014,
       "institution_ids": [
+        "https://openalex.org/I191879574",
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
@@ -2571,7 +2537,8 @@
       "first_year": 2012,
       "last_year": 2012,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2607,7 +2574,8 @@
       "first_year": 2012,
       "last_year": 2012,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2618,22 +2586,18 @@
       "papers": 1,
       "first_year": 2013,
       "last_year": 2013,
-      "institution_ids": [
-        "https://openalex.org/I4210090248"
-      ],
+      "institution_ids": [],
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5100754251",
-      "name": "Jungsoo Kim",
-      "orcid": "https://orcid.org/0000-0003-4012-1600",
+      "id": "https://openalex.org/A5080530170",
+      "name": "Junghan Lee",
+      "orcid": "https://orcid.org/0000-0002-2367-867X",
       "papers": 1,
-      "first_year": 2012,
-      "last_year": 2012,
+      "first_year": 2018,
+      "last_year": 2018,
       "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I193775966",
-        "https://openalex.org/I4210144108"
+        "https://openalex.org/I191879574"
       ],
       "is_external": false
     },
@@ -2657,7 +2621,7 @@
       "first_year": 2012,
       "last_year": 2012,
       "institution_ids": [
-        "https://openalex.org/I4210133166"
+        "https://openalex.org/I87111246"
       ],
       "is_external": true
     },
@@ -2838,8 +2802,10 @@
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
-      "institution_ids": [],
-      "is_external": true
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
     },
     {
       "id": "https://openalex.org/A5071651766",
@@ -2849,14 +2815,13 @@
       "first_year": 2016,
       "last_year": 2016,
       "institution_ids": [
-        "https://openalex.org/I36258959",
-        "https://openalex.org/I4210095672"
+        "https://openalex.org/I36258959"
       ],
       "is_external": true
     },
     {
       "id": "https://openalex.org/A5012497435",
-      "name": "Meng Shi",
+      "name": "Meng Qiong Shi",
       "orcid": "https://orcid.org/0000-0002-5412-7977",
       "papers": 1,
       "first_year": 2023,
@@ -2874,7 +2839,8 @@
       "first_year": 2020,
       "last_year": 2020,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2947,13 +2913,14 @@
     },
     {
       "id": "https://openalex.org/A5100458100",
-      "name": "Mina Kim",
+      "name": "Mina K. Kim",
       "orcid": "https://orcid.org/0000-0002-7832-9880",
       "papers": 1,
       "first_year": 2012,
       "last_year": 2012,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2965,7 +2932,8 @@
       "first_year": 2015,
       "last_year": 2015,
       "institution_ids": [
-        "https://openalex.org/I180585399"
+        "https://openalex.org/I180585399",
+        "https://openalex.org/I19820366"
       ],
       "is_external": true
     },
@@ -3011,8 +2979,7 @@
       "first_year": 2013,
       "last_year": 2013,
       "institution_ids": [
-        "https://openalex.org/I25399158",
-        "https://openalex.org/I4210086342"
+        "https://openalex.org/I25399158"
       ],
       "is_external": true
     },
@@ -3055,7 +3022,7 @@
     {
       "id": "https://openalex.org/A5022604421",
       "name": "Nguyễn Trọng Tuân",
-      "orcid": "https://orcid.org/0000-0002-5626-5660",
+      "orcid": "https://orcid.org/0000-0003-2132-113X",
       "papers": 1,
       "first_year": 2022,
       "last_year": 2022,
@@ -3134,6 +3101,7 @@
       "last_year": 2022,
       "institution_ids": [
         "https://openalex.org/I4389425394",
+        "https://openalex.org/I4405269321",
         "https://openalex.org/I70349855"
       ],
       "is_external": true
@@ -3253,15 +3221,14 @@
       "first_year": 2016,
       "last_year": 2016,
       "institution_ids": [
-        "https://openalex.org/I36258959",
-        "https://openalex.org/I4210091204"
+        "https://openalex.org/I36258959"
       ],
       "is_external": true
     },
     {
       "id": "https://openalex.org/A5108906866",
       "name": "Seonghun Mun",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0009-7248-5522",
       "papers": 1,
       "first_year": 2025,
       "last_year": 2025,
@@ -3341,7 +3308,7 @@
     {
       "id": "https://openalex.org/A5103759935",
       "name": "Songhee Jeong",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0008-2797-2308",
       "papers": 1,
       "first_year": 2016,
       "last_year": 2016,
@@ -3415,7 +3382,7 @@
     {
       "id": "https://openalex.org/A5104314127",
       "name": "Subin Kim",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0002-7324-5837",
       "papers": 1,
       "first_year": 2016,
       "last_year": 2016,
@@ -3580,12 +3547,12 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5100359246",
-      "name": "Wei Xiong",
-      "orcid": "https://orcid.org/0000-0002-4854-8281",
+      "id": "https://openalex.org/A5037587827",
+      "name": "Wei Guo Xiong",
+      "orcid": "https://orcid.org/0000-0003-2126-8535",
       "papers": 1,
-      "first_year": 2023,
-      "last_year": 2023,
+      "first_year": 2022,
+      "last_year": 2022,
       "institution_ids": [
         "https://openalex.org/I4210103346",
         "https://openalex.org/I58200834"
@@ -3593,12 +3560,12 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5037587827",
+      "id": "https://openalex.org/A5100359246",
       "name": "Wei Xiong",
-      "orcid": "https://orcid.org/0000-0003-2126-8535",
+      "orcid": "https://orcid.org/0000-0002-4854-8281",
       "papers": 1,
-      "first_year": 2022,
-      "last_year": 2022,
+      "first_year": 2023,
+      "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I4210103346",
         "https://openalex.org/I58200834"
@@ -3634,7 +3601,7 @@
     {
       "id": "https://openalex.org/A5112483953",
       "name": "Xiaoxia Wu",
-      "orcid": null,
+      "orcid": "https://orcid.org/0009-0000-1523-4828",
       "papers": 1,
       "first_year": 2016,
       "last_year": 2016,
@@ -3646,7 +3613,7 @@
     },
     {
       "id": "https://openalex.org/A5100636551",
-      "name": "Xiaoyuan Chen",
+      "name": "Xiaoyuan Shawn Chen",
       "orcid": "https://orcid.org/0000-0002-9622-0870",
       "papers": 1,
       "first_year": 2022,
@@ -3717,7 +3684,7 @@
     {
       "id": "https://openalex.org/A5110642890",
       "name": "Yi-Yong Baek",
-      "orcid": null,
+      "orcid": "https://orcid.org/0000-0001-8708-2624",
       "papers": 1,
       "first_year": 2015,
       "last_year": 2015,
@@ -3804,9 +3771,9 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5046700190",
-      "name": "You-han Bae",
-      "orcid": null,
+      "id": "https://openalex.org/A5017364365",
+      "name": "You Han Bae",
+      "orcid": "https://orcid.org/0000-0002-1488-1924",
       "papers": 1,
       "first_year": 2011,
       "last_year": 2011,
@@ -3833,7 +3800,8 @@
       "first_year": 2012,
       "last_year": 2012,
       "institution_ids": [
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -3919,19 +3887,6 @@
         "https://openalex.org/I4210165339"
       ],
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5033483823",
-      "name": "Zongheng Li",
-      "orcid": "https://orcid.org/0000-0001-8906-2563",
-      "papers": 1,
-      "first_year": 2022,
-      "last_year": 2022,
-      "institution_ids": [
-        "https://openalex.org/I4210103346",
-        "https://openalex.org/I58200834"
-      ],
-      "is_external": true
     }
   ],
   "institutions": [
@@ -3940,7 +3895,15 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 196,
+      "papers": 210,
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/I4210153373",
+      "name": "Inha University Hospital",
+      "country": "KR",
+      "type": "healthcare",
+      "papers": 74,
       "is_external": false
     },
     {
@@ -3956,16 +3919,8 @@
       "name": "Seoul National University",
       "country": "KR",
       "type": "education",
-      "papers": 42,
+      "papers": 44,
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210153373",
-      "name": "Inha University Hospital",
-      "country": "KR",
-      "type": "healthcare",
-      "papers": 38,
-      "is_external": false
     },
     {
       "id": "https://openalex.org/I4210103346",
@@ -3976,19 +3931,19 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I39534123",
-      "name": "Gwangju Institute of Science and Technology",
+      "id": "https://openalex.org/I87111246",
+      "name": "Catholic University of Korea",
       "country": "KR",
       "type": "education",
       "papers": 26,
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I87111246",
-      "name": "Catholic University of Korea",
+      "id": "https://openalex.org/I39534123",
+      "name": "Gwangju Institute of Science and Technology",
       "country": "KR",
       "type": "education",
-      "papers": 23,
+      "papers": 25,
       "is_external": true
     },
     {
@@ -3997,6 +3952,14 @@
       "country": "VN",
       "type": "education",
       "papers": 19,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4390039370",
+      "name": "Harold C. Simmons Comprehensive Cancer Center",
+      "country": "",
+      "type": "healthcare",
+      "papers": 18,
       "is_external": true
     },
     {
@@ -4012,31 +3975,7 @@
       "name": "Chinese Academy of Sciences",
       "country": "CN",
       "type": "government",
-      "papers": 16,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I193775966",
-      "name": "Yonsei University",
-      "country": "KR",
-      "type": "education",
-      "papers": 16,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210096815",
-      "name": "Southwestern Medical Center",
-      "country": "US",
-      "type": "healthcare",
-      "papers": 16,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210145671",
-      "name": "Advanced Imaging Research (United States)",
-      "country": "US",
-      "type": "company",
-      "papers": 16,
+      "papers": 17,
       "is_external": true
     },
     {
@@ -4048,11 +3987,19 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I193775966",
+      "name": "Yonsei University",
+      "country": "KR",
+      "type": "education",
+      "papers": 15,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I4210144108",
       "name": "Gangnam Severance Hospital",
       "country": "KR",
       "type": "healthcare",
-      "papers": 13,
+      "papers": 12,
       "is_external": true
     },
     {
@@ -4096,30 +4043,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210090248",
-      "name": "Chong Kun Dang Bio (South Korea)",
-      "country": "KR",
-      "type": "company",
-      "papers": 5,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I50583767",
-      "name": "World University of Bangladesh",
-      "country": "BD",
-      "type": "education",
-      "papers": 4,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210133166",
-      "name": "The Catholic University of Korea Bucheon St. Mary's Hospital",
-      "country": "KR",
-      "type": "healthcare",
-      "papers": 4,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I69094615",
       "name": "Universidad San Francisco de Quito",
       "country": "EC",
@@ -4152,10 +4075,10 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210086342",
-      "name": "Songdo Hospital",
-      "country": "KR",
-      "type": "healthcare",
+      "id": "https://openalex.org/I4405269321",
+      "name": "Graduate University of Science and Technology",
+      "country": "VN",
+      "type": "education",
       "papers": 3,
       "is_external": true
     },
@@ -4172,6 +4095,14 @@
       "name": "Korea Research Institute of Chemical Technology",
       "country": "KR",
       "type": "facility",
+      "papers": 3,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210090248",
+      "name": "Chong Kun Dang Bio (South Korea)",
+      "country": "KR",
+      "type": "company",
       "papers": 3,
       "is_external": true
     },
@@ -4240,14 +4171,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210090951",
-      "name": "Advanced Pharma",
-      "country": "US",
-      "type": "facility",
-      "papers": 2,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I36258959",
       "name": "University of California San Diego",
       "country": "US",
@@ -4296,14 +4219,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210093057",
-      "name": "Faculty (United Kingdom)",
-      "country": "GB",
-      "type": "company",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4389425394",
       "name": "Institute for Tropical Technology",
       "country": "",
@@ -4331,14 +4246,6 @@
       "id": "https://openalex.org/I103320735",
       "name": "Università Cattolica del Sacro Cuore",
       "country": "IT",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I84470341",
-      "name": "Catholic University of America",
-      "country": "US",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4384,14 +4291,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210094804",
-      "name": "Bioalpha (Malaysia)",
-      "country": "MY",
-      "type": "company",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4210153049",
       "name": "Vidyasirimedhi Institute of Science and Technology",
       "country": "TH",
@@ -4400,25 +4299,17 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210091204",
-      "name": "Joint Center for Structural Genomics",
-      "country": "US",
-      "type": "other",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210095672",
-      "name": "Polaris (United States)",
-      "country": "US",
-      "type": "company",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210149256",
-      "name": "Zhangzhou Vocational and Technical College",
+      "id": "https://openalex.org/I4405280323",
+      "name": "Zhangzhou Health Vocational College",
       "country": "CN",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4405258769",
+      "name": "Yonsei University Mirae Campus",
+      "country": "KR",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4488,14 +4379,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I2802457231",
-      "name": "New Generation University College",
-      "country": "ET",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I155781252",
       "name": "University of South Carolina",
       "country": "US",
@@ -4513,21 +4396,17 @@
     }
   ],
   "country_counts": {
-    "KR": 410,
-    "CN": 142,
-    "US": 60,
+    "KR": 454,
+    "CN": 143,
     "TH": 32,
-    "VN": 24,
-    "BD": 4,
+    "VN": 27,
+    "US": 23,
     "EC": 4,
     "SG": 1,
-    "GB": 1,
     "IT": 1,
     "JP": 1,
     "BE": 1,
-    "IN": 1,
-    "MY": 1,
-    "ET": 1
+    "IN": 1
   },
   "papers": [
     {
@@ -4664,7 +4543,7 @@
         "https://openalex.org/A5109634028",
         "https://openalex.org/A5040585312",
         "https://openalex.org/A5100349116",
-        "https://openalex.org/A5074901381",
+        "https://openalex.org/A5033483823",
         "https://openalex.org/A5100378741",
         "https://openalex.org/A5101866830",
         "https://openalex.org/A5076898060",
@@ -4807,7 +4686,6 @@
         "https://openalex.org/A5109360824",
         "https://openalex.org/A5074471138",
         "https://openalex.org/A5035300994",
-        "https://openalex.org/A5100754251",
         "https://openalex.org/A5076820793",
         "https://openalex.org/A5009690203",
         "https://openalex.org/A5009690203"
@@ -4825,20 +4703,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2899859864",
-      "year": 2018,
-      "title": "Dopa-Empowered Schiff Base Forming Alginate Hydrogel Glue for Rapid Hemostatic Control",
-      "doi": "https://doi.org/10.1007/s13233-019-7026-3",
-      "venue": "Macromolecular Research",
-      "co_author_ids": [
-        "https://openalex.org/A5057853707",
-        "https://openalex.org/A5100776690",
-        "https://openalex.org/A5080530170",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5000379559"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2553377298",
       "year": 2016,
       "title": "Lipase‐Sensitive Transfersomes Based on Photosensitizer/Polymerizable Lipid Conjugate for Selective Antimicrobial Photodynamic Therapy of Acne",
@@ -4851,6 +4715,19 @@
         "https://openalex.org/A5058898207",
         "https://openalex.org/A5100776690",
         "https://openalex.org/A5067328906"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2899859864",
+      "year": 2018,
+      "title": "Dopa-Empowered Schiff Base Forming Alginate Hydrogel Glue for Rapid Hemostatic Control",
+      "doi": "https://doi.org/10.1007/s13233-019-7026-3",
+      "venue": "Macromolecular Research",
+      "co_author_ids": [
+        "https://openalex.org/A5057853707",
+        "https://openalex.org/A5100776690",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5000379559"
       ]
     },
     {
@@ -4908,7 +4785,7 @@
       "co_author_ids": [
         "https://openalex.org/A5065762239",
         "https://openalex.org/A5027421966",
-        "https://openalex.org/A5074901381",
+        "https://openalex.org/A5033483823",
         "https://openalex.org/A5035108718",
         "https://openalex.org/A5101891722",
         "https://openalex.org/A5056376298"
@@ -4925,24 +4802,7 @@
         "https://openalex.org/A5000379559",
         "https://openalex.org/A5052464008",
         "https://openalex.org/A5042100124",
-        "https://openalex.org/A5038803466",
         "https://openalex.org/A5080095186"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2227446639",
-      "year": 2016,
-      "title": "Enhanced conjugation stability and blood circulation time of macromolecular gadolinium-DTPA contrast agent",
-      "doi": "https://doi.org/10.1016/j.msec.2016.01.008",
-      "venue": "Materials Science and Engineering C",
-      "co_author_ids": [
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5067328906",
-        "https://openalex.org/A5008782184",
-        "https://openalex.org/A5056376298",
-        "https://openalex.org/A5112483953",
-        "https://openalex.org/A5075061660",
-        "https://openalex.org/A5112599360"
       ]
     },
     {
@@ -5156,6 +5016,33 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2227446639",
+      "year": 2016,
+      "title": "Enhanced conjugation stability and blood circulation time of macromolecular gadolinium-DTPA contrast agent",
+      "doi": "https://doi.org/10.1016/j.msec.2016.01.008",
+      "venue": "Materials Science and Engineering C",
+      "co_author_ids": [
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5067328906",
+        "https://openalex.org/A5008782184",
+        "https://openalex.org/A5056376298",
+        "https://openalex.org/A5112483953",
+        "https://openalex.org/A5075061660",
+        "https://openalex.org/A5112599360"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2563908675",
+      "year": 2016,
+      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
+      "doi": "https://doi.org/10.1021/acsami.6b08994",
+      "venue": "ACS Applied Materials & Interfaces",
+      "co_author_ids": [
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052029602"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2863449651",
       "year": 2018,
       "title": "Tumor-suppressing miR-141 gene complex-loaded tissue-adhesive glue for the locoregional treatment of hepatocellular carcinoma",
@@ -5167,18 +5054,6 @@
         "https://openalex.org/A5057853707",
         "https://openalex.org/A5000379559",
         "https://openalex.org/A5067551723"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2563908675",
-      "year": 2016,
-      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
-      "doi": "https://doi.org/10.1021/acsami.6b08994",
-      "venue": "ACS Applied Materials & Interfaces",
-      "co_author_ids": [
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -5219,7 +5094,6 @@
       "venue": "Biomaterials Research",
       "co_author_ids": [
         "https://openalex.org/A5052510031",
-        "https://openalex.org/A5101949861",
         "https://openalex.org/A5069089381",
         "https://openalex.org/A5042100124",
         "https://openalex.org/A5059446452"
@@ -5414,8 +5288,7 @@
       "co_author_ids": [
         "https://openalex.org/A5017426286",
         "https://openalex.org/A5052510031",
-        "https://openalex.org/A5104108897",
-        "https://openalex.org/A5038803466"
+        "https://openalex.org/A5104108897"
       ]
     },
     {
@@ -5524,8 +5397,7 @@
         "https://openalex.org/A5035057550",
         "https://openalex.org/A5042100124",
         "https://openalex.org/A5100335492",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5080530170"
+        "https://openalex.org/A5052510031"
       ]
     },
     {
@@ -5555,7 +5427,7 @@
         "https://openalex.org/A5057853707",
         "https://openalex.org/A5086925583",
         "https://openalex.org/A5110155990",
-        "https://openalex.org/A5108101906",
+        "https://openalex.org/A5086090575",
         "https://openalex.org/A5034418015"
       ]
     },
@@ -5722,8 +5594,7 @@
         "https://openalex.org/A5077782262",
         "https://openalex.org/A5107518829",
         "https://openalex.org/A5101719933",
-        "https://openalex.org/A5083935222",
-        "https://openalex.org/A5017685264"
+        "https://openalex.org/A5083935222"
       ]
     },
     {
@@ -5763,7 +5634,7 @@
         "https://openalex.org/A5082007935",
         "https://openalex.org/A5005240204",
         "https://openalex.org/A5100458101",
-        "https://openalex.org/A5046700190",
+        "https://openalex.org/A5017364365",
         "https://openalex.org/A5027788092"
       ]
     },
@@ -5817,7 +5688,6 @@
       "venue": "Research Square",
       "co_author_ids": [
         "https://openalex.org/A5052510031",
-        "https://openalex.org/A5101949861",
         "https://openalex.org/A5101533807",
         "https://openalex.org/A5059446452"
       ]
@@ -5998,11 +5868,10 @@
       "venue": "Oncogene",
       "co_author_ids": [
         "https://openalex.org/A5063796292",
-        "https://openalex.org/A5128588458",
-        "https://openalex.org/A5037996658",
+        "https://openalex.org/A5076965588",
         "https://openalex.org/A5001773000",
         "https://openalex.org/A5078506216",
-        "https://openalex.org/A5036197835",
+        "https://openalex.org/A5011457874",
         "https://openalex.org/A5042950353",
         "https://openalex.org/A5066216202",
         "https://openalex.org/A5039621912",
@@ -6052,7 +5921,7 @@
       "venue": "Journal of Pharmaceutical Investigation",
       "co_author_ids": [
         "https://openalex.org/A5077868485",
-        "https://openalex.org/A5061132235",
+        "https://openalex.org/A5103980169",
         "https://openalex.org/A5112713262",
         "https://openalex.org/A5103294885"
       ]
