@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T17:29:58.647951+00:00",
+  "fetched_at": "2026-10-05T18:10:26.854945+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -7,7 +7,7 @@
   },
   "totals": {
     "works": 100,
-    "co_authors": 317,
+    "co_authors": 310,
     "institutions": 63,
     "countries": 11
   },
@@ -409,19 +409,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5048216686",
-      "name": "Quang Luc Tran",
-      "orcid": "https://orcid.org/0000-0002-5381-0686",
-      "papers": 4,
-      "first_year": 2022,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I177733328",
-        "https://openalex.org/I191879574"
-      ],
-      "is_external": false
-    },
-    {
       "id": "https://openalex.org/A5105789795",
       "name": "William G. Bornmann",
       "orcid": null,
@@ -448,7 +435,7 @@
     },
     {
       "id": "https://openalex.org/A5021213624",
-      "name": "Aiguo G. Wu",
+      "name": "Aiguo Wu",
       "orcid": "https://orcid.org/0000-0001-7200-8923",
       "papers": 3,
       "first_year": 2015,
@@ -658,6 +645,18 @@
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5048216686",
+      "name": "Quang De Tran",
+      "orcid": "https://orcid.org/0000-0002-5381-0686",
+      "papers": 3,
+      "first_year": 2022,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I177733328"
+      ],
+      "is_external": true
     },
     {
       "id": "https://openalex.org/A5065762239",
@@ -1504,7 +1503,7 @@
     {
       "id": "https://openalex.org/A5052464008",
       "name": "Buşra Özlü",
-      "orcid": "https://orcid.org/0000-0002-4812-9431",
+      "orcid": "https://orcid.org/0000-0002-1304-5756",
       "papers": 1,
       "first_year": 2020,
       "last_year": 2020,
@@ -1727,16 +1726,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5101433548",
-      "name": "Do Hun Kim",
-      "orcid": "https://orcid.org/0000-0003-4573-9565",
-      "papers": 1,
-      "first_year": 2020,
-      "last_year": 2020,
-      "institution_ids": [],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5100755765",
       "name": "Dohun Kim",
       "orcid": "https://orcid.org/0000-0001-8304-0232",
@@ -1793,16 +1782,6 @@
       "institution_ids": [
         "https://openalex.org/I2801680663"
       ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5103980169",
-      "name": "Dong‐Sun Shin",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 1994,
-      "last_year": 1994,
-      "institution_ids": [],
       "is_external": true
     },
     {
@@ -1965,18 +1944,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5042916049",
-      "name": "Hieu Trong Le",
-      "orcid": null,
-      "papers": 1,
-      "first_year": 2022,
-      "last_year": 2022,
-      "institution_ids": [
-        "https://openalex.org/I177733328"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5073049896",
       "name": "Hiroyuki Isayama",
       "orcid": "https://orcid.org/0000-0002-3308-9326",
@@ -2048,18 +2015,6 @@
         "https://openalex.org/I177733328"
       ],
       "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5073364524",
-      "name": "Hye Jin Yoo",
-      "orcid": "https://orcid.org/0000-0002-9704-7870",
-      "papers": 1,
-      "first_year": 2024,
-      "last_year": 2024,
-      "institution_ids": [
-        "https://openalex.org/I191879574"
-      ],
-      "is_external": false
     },
     {
       "id": "https://openalex.org/A5139108936",
@@ -2703,7 +2658,7 @@
     {
       "id": "https://openalex.org/A5063446251",
       "name": "Kyung Hyun Min",
-      "orcid": "https://orcid.org/0000-0001-7398-0423",
+      "orcid": "https://orcid.org/0000-0002-6705-5028",
       "papers": 1,
       "first_year": 2013,
       "last_year": 2013,
@@ -2723,16 +2678,6 @@
         "https://openalex.org/I191879574"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5003778490",
-      "name": "Kyunghyun Min",
-      "orcid": "https://orcid.org/0000-0002-7807-0143",
-      "papers": 1,
-      "first_year": 2014,
-      "last_year": 2014,
-      "institution_ids": [],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5001108337",
@@ -3284,18 +3229,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5107518829",
-      "name": "Shin Hye Chung",
-      "orcid": "https://orcid.org/0000-0002-9037-1950",
-      "papers": 1,
-      "first_year": 2000,
-      "last_year": 2000,
-      "institution_ids": [
-        "https://openalex.org/I139264467"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5102168451",
       "name": "So-Mi Yoon",
       "orcid": null,
@@ -3326,18 +3259,6 @@
       "last_year": 2015,
       "institution_ids": [
         "https://openalex.org/I73616290"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5083935222",
-      "name": "Soo Young Moon",
-      "orcid": "https://orcid.org/0000-0003-2708-5035",
-      "papers": 1,
-      "first_year": 2000,
-      "last_year": 2000,
-      "institution_ids": [
-        "https://openalex.org/I139264467"
       ],
       "is_external": true
     },
@@ -3895,7 +3816,7 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 210,
+      "papers": 208,
       "is_external": false
     },
     {
@@ -3919,7 +3840,7 @@
       "name": "Seoul National University",
       "country": "KR",
       "type": "education",
-      "papers": 44,
+      "papers": 42,
       "is_external": true
     },
     {
@@ -3951,7 +3872,7 @@
       "name": "Can Tho University",
       "country": "VN",
       "type": "education",
-      "papers": 19,
+      "papers": 18,
       "is_external": true
     },
     {
@@ -4299,22 +4220,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4405280323",
-      "name": "Zhangzhou Health Vocational College",
-      "country": "CN",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4405258769",
-      "name": "Yonsei University Mirae Campus",
-      "country": "KR",
-      "type": "education",
-      "papers": 1,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I4210148737",
       "name": "CHA University",
       "country": "KR",
@@ -4335,6 +4240,22 @@
       "name": "Vajira Hospital",
       "country": "TH",
       "type": "healthcare",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4405280323",
+      "name": "Zhangzhou Health Vocational College",
+      "country": "CN",
+      "type": "education",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4405258769",
+      "name": "Yonsei University Mirae Campus",
+      "country": "KR",
+      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4396,10 +4317,10 @@
     }
   ],
   "country_counts": {
-    "KR": 454,
+    "KR": 450,
     "CN": 143,
     "TH": 32,
-    "VN": 27,
+    "VN": 26,
     "US": 23,
     "EC": 4,
     "SG": 1,
@@ -4820,8 +4741,7 @@
         "https://openalex.org/A5051742735",
         "https://openalex.org/A5052840490",
         "https://openalex.org/A5100658917",
-        "https://openalex.org/A5002490298",
-        "https://openalex.org/A5042916049"
+        "https://openalex.org/A5002490298"
       ]
     },
     {
@@ -4990,18 +4910,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2055701749",
-      "year": 2013,
-      "title": "Photo-cured PMMA/PEI core/shell nanoparticles surface-modified with Gd–DTPA for T1 MR imaging",
-      "doi": "https://doi.org/10.1016/j.jcis.2013.09.049",
-      "venue": "Journal of Colloid and Interface Science",
-      "co_author_ids": [
-        "https://openalex.org/A5084550600",
-        "https://openalex.org/A5112599360",
-        "https://openalex.org/A5044550703"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2778631507",
       "year": 2017,
       "title": "Prevention of tracheal inflammation and fibrosis using nitinol stent coated with doxycycline",
@@ -5013,6 +4921,18 @@
         "https://openalex.org/A5100462865",
         "https://openalex.org/A5101634566",
         "https://openalex.org/A5042826784"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2055701749",
+      "year": 2013,
+      "title": "Photo-cured PMMA/PEI core/shell nanoparticles surface-modified with Gd–DTPA for T1 MR imaging",
+      "doi": "https://doi.org/10.1016/j.jcis.2013.09.049",
+      "venue": "Journal of Colloid and Interface Science",
+      "co_author_ids": [
+        "https://openalex.org/A5084550600",
+        "https://openalex.org/A5112599360",
+        "https://openalex.org/A5044550703"
       ]
     },
     {
@@ -5111,7 +5031,6 @@
         "https://openalex.org/A5059446452",
         "https://openalex.org/A5074836679",
         "https://openalex.org/A5044202632",
-        "https://openalex.org/A5048216686",
         "https://openalex.org/A5057848428",
         "https://openalex.org/A5076999994",
         "https://openalex.org/A5035968290",
@@ -5165,48 +5084,6 @@
         "https://openalex.org/A5086734944",
         "https://openalex.org/A5076820793",
         "https://openalex.org/A5090977989"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4401419630",
-      "year": 2024,
-      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
-      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
-      "venue": "Journal of Pharmaceutical Investigation",
-      "co_author_ids": [
-        "https://openalex.org/A5073364524"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4411966593",
-      "year": 2025,
-      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
-      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
-      "venue": "Acta Pharmaceutica Sinica B",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5056376298"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4413138024",
-      "year": 2025,
-      "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
-      "doi": "https://doi.org/10.1016/j.actbio.2025.08.023",
-      "venue": "Acta Biomaterialia",
-      "co_author_ids": [
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5100607746",
-        "https://openalex.org/A5101314641",
-        "https://openalex.org/A5108906866",
-        "https://openalex.org/A5029641606",
-        "https://openalex.org/A5075061660",
-        "https://openalex.org/A5109342497",
-        "https://openalex.org/A5108405380",
-        "https://openalex.org/A5090977989",
-        "https://openalex.org/A5027658078"
       ]
     },
     {
@@ -5292,6 +5169,14 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4401419630",
+      "year": 2024,
+      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
+      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
+      "venue": "Journal of Pharmaceutical Investigation",
+      "co_author_ids": []
+    },
+    {
       "id": "https://openalex.org/W4206441568",
       "year": 2011,
       "title": "Multiple‐Interaction Ligands Inspired by Mussel Adhesive Protein: Synthesis of Highly Stable and Biocompatible Nanoparticles",
@@ -5323,6 +5208,38 @@
         "https://openalex.org/A5069836237",
         "https://openalex.org/A5059446452",
         "https://openalex.org/A5076820793"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4411966593",
+      "year": 2025,
+      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
+      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
+      "venue": "Acta Pharmaceutica Sinica B",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4413138024",
+      "year": 2025,
+      "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
+      "doi": "https://doi.org/10.1016/j.actbio.2025.08.023",
+      "venue": "Acta Biomaterialia",
+      "co_author_ids": [
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5100607746",
+        "https://openalex.org/A5101314641",
+        "https://openalex.org/A5108906866",
+        "https://openalex.org/A5029641606",
+        "https://openalex.org/A5075061660",
+        "https://openalex.org/A5109342497",
+        "https://openalex.org/A5108405380",
+        "https://openalex.org/A5090977989",
+        "https://openalex.org/A5027658078"
       ]
     },
     {
@@ -5580,7 +5497,6 @@
       "co_author_ids": [
         "https://openalex.org/A5080578479",
         "https://openalex.org/A5013326948",
-        "https://openalex.org/A5101433548",
         "https://openalex.org/A5048790280"
       ]
     },
@@ -5592,9 +5508,7 @@
       "venue": "ASAIO Journal",
       "co_author_ids": [
         "https://openalex.org/A5077782262",
-        "https://openalex.org/A5107518829",
-        "https://openalex.org/A5101719933",
-        "https://openalex.org/A5083935222"
+        "https://openalex.org/A5101719933"
       ]
     },
     {
@@ -5619,7 +5533,6 @@
         "https://openalex.org/A5053188549",
         "https://openalex.org/A5011304851",
         "https://openalex.org/A5054404752",
-        "https://openalex.org/A5003778490",
         "https://openalex.org/A5083602707",
         "https://openalex.org/A5072803749"
       ]
@@ -5921,7 +5834,6 @@
       "venue": "Journal of Pharmaceutical Investigation",
       "co_author_ids": [
         "https://openalex.org/A5077868485",
-        "https://openalex.org/A5103980169",
         "https://openalex.org/A5112713262",
         "https://openalex.org/A5103294885"
       ]

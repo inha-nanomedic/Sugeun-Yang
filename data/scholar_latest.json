@@ -1,6 +1,6 @@
 {
-  "total_citations": 4566,
-  "y5_citations": 2619,
+  "total_citations": 4580,
+  "y5_citations": 2632,
   "h_index": 36,
   "y5_h_index": 26,
   "i10_index": 75,
@@ -15,15 +15,15 @@
     "2015": 163,
     "2016": 157,
     "2017": 195,
-    "2018": 185,
+    "2018": 186,
     "2019": 222,
     "2020": 314,
     "2021": 337,
-    "2022": 409,
-    "2023": 423,
-    "2024": 532,
-    "2025": 549,
-    "2026": 366
+    "2022": 411,
+    "2023": 424,
+    "2024": 531,
+    "2025": 548,
+    "2026": 378
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 684,
+        "value": 687,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 195,
+        "value": 196,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -117,7 +117,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 143,
+        "value": 145,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 114,
+        "value": 115,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -187,7 +187,7 @@
       "authors": "S Moon, SG Yang, K Na",
       "publication": "Biomaterials 32 (14), 3603-3610, 2011",
       "cited_by": {
-        "value": 86,
+        "value": 87,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8913262017659069803",
         "serpapi_link": "https://serpapi.com/search.json?cites=8913262017659069803&engine=google_scholar&hl=en",
         "cites_id": "8913262017659069803"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-09-28T17:30:00.179932+00:00",
+  "fetched_at": "2026-10-05T18:10:28.471961+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }
