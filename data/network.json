@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T16:19:58.567313+00:00",
+  "fetched_at": "2026-10-26T15:59:10.559179+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -4873,6 +4873,19 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2301131860",
+      "year": 2016,
+      "title": "Capillary microfluidics-derived doxorubicin-containing human serum albumin microbeads for transarterial chemoembolization of hepatic cancer",
+      "doi": "https://doi.org/10.1016/j.msec.2016.01.073",
+      "venue": "Materials Science and Engineering C",
+      "co_author_ids": [
+        "https://openalex.org/A5100776694",
+        "https://openalex.org/A5006402804",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5048790280"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4221101603",
       "year": 2022,
       "title": "Target Design of Novel Histone Deacetylase 6 Selective Inhibitors with 2-Mercaptoquinazolinone as the Cap Moiety",
@@ -4887,19 +4900,6 @@
         "https://openalex.org/A5052840490",
         "https://openalex.org/A5100658917",
         "https://openalex.org/A5002490298"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2301131860",
-      "year": 2016,
-      "title": "Capillary microfluidics-derived doxorubicin-containing human serum albumin microbeads for transarterial chemoembolization of hepatic cancer",
-      "doi": "https://doi.org/10.1016/j.msec.2016.01.073",
-      "venue": "Materials Science and Engineering C",
-      "co_author_ids": [
-        "https://openalex.org/A5100776694",
-        "https://openalex.org/A5006402804",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5048790280"
       ]
     },
     {
@@ -5000,6 +5000,14 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4401419630",
+      "year": 2024,
+      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
+      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
+      "venue": "Journal of Pharmaceutical Investigation",
+      "co_author_ids": []
+    },
+    {
       "id": "https://openalex.org/W327060654",
       "year": 2001,
       "title": "Once-a-Day Oral Dosing Regimen of Cyclosporin A: Combined Therapy of Cyclosporin A Premicroemulsion Concentrates and Enteric Coated Solid-State Premicroemulsion Concentrates",
@@ -5078,14 +5086,6 @@
       "co_author_ids": [
         "https://openalex.org/A5052510031"
       ]
-    },
-    {
-      "id": "https://openalex.org/W4401419630",
-      "year": 2024,
-      "title": "Enhanced oral bioavailability of megestrol acetate via polymer-hybridized solid lipid nanoparticles using ultrasonic nebulization method",
-      "doi": "https://doi.org/10.1007/s40005-024-00694-7",
-      "venue": "Journal of Pharmaceutical Investigation",
-      "co_author_ids": []
     },
     {
       "id": "https://openalex.org/W4206441568",

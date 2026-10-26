@@ -1,6 +1,6 @@
 {
-  "total_citations": 4598,
-  "y5_citations": 2649,
+  "total_citations": 4611,
+  "y5_citations": 2662,
   "h_index": 36,
   "y5_h_index": 26,
   "i10_index": 75,
@@ -12,18 +12,18 @@
     "2012": 108,
     "2013": 136,
     "2014": 172,
-    "2015": 163,
+    "2015": 162,
     "2016": 157,
     "2017": 195,
     "2018": 186,
     "2019": 223,
     "2020": 314,
-    "2021": 337,
-    "2022": 409,
+    "2021": 339,
+    "2022": 412,
     "2023": 424,
     "2024": 531,
-    "2025": 550,
-    "2026": 395
+    "2025": 549,
+    "2026": 404
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 689,
+        "value": 691,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -75,7 +75,7 @@
       "authors": "X Wu, L Luo, S Yang, X Ma, Y Li, C Dong, Y Tian, L Zhang, Z Shen, A Wu",
       "publication": "ACS applied materials & interfaces 7 (18), 9965-9971, 2015",
       "cited_by": {
-        "value": 172,
+        "value": 175,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14460042747662798991",
         "serpapi_link": "https://serpapi.com/search.json?cites=14460042747662798991&engine=google_scholar&hl=en",
         "cites_id": "14460042747662798991"
@@ -145,7 +145,7 @@
       "authors": "C Khemtong, CW Kessinger, J Ren, EA Bey, SG Yang, JS Guthi, ...",
       "publication": "Cancer research 69 (4), 1651-1658, 2009",
       "cited_by": {
-        "value": 134,
+        "value": 135,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10798784040368407827",
         "serpapi_link": "https://serpapi.com/search.json?cites=10798784040368407827&engine=google_scholar&hl=en",
         "cites_id": "10798784040368407827"
@@ -159,7 +159,7 @@
       "authors": "M Kim, SG Yang, JM Kim, JW Lee, YS Kim, JI Lee",
       "publication": "International journal of molecular medicine 30 (3), 473-479, 2012",
       "cited_by": {
-        "value": 117,
+        "value": 118,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14668852102543819973",
         "serpapi_link": "https://serpapi.com/search.json?cites=14668852102543819973&engine=google_scholar&hl=en",
         "cites_id": "14668852102543819973"
@@ -229,7 +229,7 @@
       "authors": "S Lee, T Eom, MK Kim, SG Yang, BS Shim",
       "publication": "Electrochimica Acta 313, 79-90, 2019",
       "cited_by": {
-        "value": 75,
+        "value": 77,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2704977120617069866",
         "serpapi_link": "https://serpapi.com/search.json?cites=2704977120617069866&engine=google_scholar&hl=en",
         "cites_id": "2704977120617069866"
@@ -271,7 +271,7 @@
       "authors": "SI Jang, JH Kim, M Kim, S Yang, EA Jo, JW Lee, K Na, JM Kim, S Jeong, ...",
       "publication": "Endoscopy 44 (09), 825-831, 2012",
       "cited_by": {
-        "value": 68,
+        "value": 69,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=760808377809737404",
         "serpapi_link": "https://serpapi.com/search.json?cites=760808377809737404&engine=google_scholar&hl=en",
         "cites_id": "760808377809737404"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-10-19T16:20:00.186899+00:00",
+  "fetched_at": "2026-10-26T15:59:11.846519+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 98
 }
