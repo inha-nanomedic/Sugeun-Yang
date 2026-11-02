@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T15:59:10.559179+00:00",
+  "fetched_at": "2026-11-02T19:19:49.728126+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
@@ -536,22 +536,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5074471138",
-      "name": "Dong Ki Lee",
-      "orcid": "https://orcid.org/0000-0002-0048-9112",
-      "papers": 3,
-      "first_year": 2012,
-      "last_year": 2019,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I193775966",
-        "https://openalex.org/I4210144108",
-        "https://openalex.org/I4210153373",
-        "https://openalex.org/I87111246"
-      ],
-      "is_external": false
-    },
-    {
       "id": "https://openalex.org/A5048790280",
       "name": "Don–Haeng Lee",
       "orcid": null,
@@ -812,6 +796,22 @@
         "https://openalex.org/I139264467"
       ],
       "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5074471138",
+      "name": "Dong Ki Lee",
+      "orcid": "https://orcid.org/0000-0002-0048-9112",
+      "papers": 2,
+      "first_year": 2012,
+      "last_year": 2019,
+      "institution_ids": [
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I193775966",
+        "https://openalex.org/I4210144108",
+        "https://openalex.org/I4210153373",
+        "https://openalex.org/I87111246"
+      ],
+      "is_external": false
     },
     {
       "id": "https://openalex.org/A5077899911",
@@ -3101,7 +3101,7 @@
     {
       "id": "https://openalex.org/A5001773000",
       "name": "Seungheon Shin",
-      "orcid": "https://orcid.org/0000-0001-9357-166X",
+      "orcid": "https://orcid.org/0000-0001-9193-6178",
       "papers": 1,
       "first_year": 2026,
       "last_year": 2026,
@@ -3734,7 +3734,7 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 200,
+      "papers": 199,
       "is_external": false
     },
     {
@@ -3750,7 +3750,7 @@
       "name": "Inha University Hospital",
       "country": "KR",
       "type": "healthcare",
-      "papers": 71,
+      "papers": 70,
       "is_external": false
     },
     {
@@ -3796,7 +3796,7 @@
     {
       "id": "https://openalex.org/I4390039370",
       "name": "Harold C. Simmons Comprehensive Cancer Center",
-      "country": "",
+      "country": "US",
       "type": "healthcare",
       "papers": 18,
       "is_external": true
@@ -3830,15 +3830,7 @@
       "name": "Yonsei University",
       "country": "KR",
       "type": "education",
-      "papers": 15,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4210144108",
-      "name": "Gangnam Severance Hospital",
-      "country": "KR",
-      "type": "healthcare",
-      "papers": 12,
+      "papers": 14,
       "is_external": true
     },
     {
@@ -3847,6 +3839,14 @@
       "country": "TH",
       "type": "education",
       "papers": 12,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210144108",
+      "name": "Gangnam Severance Hospital",
+      "country": "KR",
+      "type": "healthcare",
+      "papers": 11,
       "is_external": true
     },
     {
@@ -4020,7 +4020,7 @@
     {
       "id": "https://openalex.org/I4400600942",
       "name": "Yonsei University College of Dentistry",
-      "country": "",
+      "country": "KR",
       "type": "education",
       "papers": 2,
       "is_external": true
@@ -4052,7 +4052,7 @@
     {
       "id": "https://openalex.org/I4389425394",
       "name": "Institute for Tropical Technology",
-      "country": "",
+      "country": "VN",
       "type": "government",
       "papers": 1,
       "is_external": true
@@ -4235,11 +4235,11 @@
     }
   ],
   "country_counts": {
-    "KR": 439,
+    "KR": 437,
     "CN": 142,
+    "US": 41,
     "TH": 32,
-    "VN": 25,
-    "US": 23,
+    "VN": 26,
     "EC": 4,
     "SG": 1,
     "IT": 1,
@@ -4630,6 +4630,20 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3093381001",
+      "year": 2020,
+      "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
+      "doi": "https://doi.org/10.3390/biomedicines8100417",
+      "venue": "Biomedicines",
+      "co_author_ids": [
+        "https://openalex.org/A5022690335",
+        "https://openalex.org/A5000379559",
+        "https://openalex.org/A5052464008",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5080095186"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2227446639",
       "year": 2016,
       "title": "Enhanced conjugation stability and blood circulation time of macromolecular gadolinium-DTPA contrast agent",
@@ -4643,6 +4657,23 @@
         "https://openalex.org/A5112483953",
         "https://openalex.org/A5075061660",
         "https://openalex.org/A5112599360"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4221101603",
+      "year": 2022,
+      "title": "Target Design of Novel Histone Deacetylase 6 Selective Inhibitors with 2-Mercaptoquinazolinone as the Cap Moiety",
+      "doi": "https://doi.org/10.3390/molecules27072204",
+      "venue": "Molecules",
+      "co_author_ids": [
+        "https://openalex.org/A5078615245",
+        "https://openalex.org/A5100771694",
+        "https://openalex.org/A5010458646",
+        "https://openalex.org/A5048216686",
+        "https://openalex.org/A5051742735",
+        "https://openalex.org/A5052840490",
+        "https://openalex.org/A5100658917",
+        "https://openalex.org/A5002490298"
       ]
     },
     {
@@ -4808,20 +4839,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3093381001",
-      "year": 2020,
-      "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
-      "doi": "https://doi.org/10.3390/biomedicines8100417",
-      "venue": "Biomedicines",
-      "co_author_ids": [
-        "https://openalex.org/A5022690335",
-        "https://openalex.org/A5000379559",
-        "https://openalex.org/A5052464008",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5080095186"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2055701749",
       "year": 2013,
       "title": "Photo-cured PMMA/PEI core/shell nanoparticles surface-modified with Gd–DTPA for T1 MR imaging",
@@ -4883,23 +4900,6 @@
         "https://openalex.org/A5006402804",
         "https://openalex.org/A5052029602",
         "https://openalex.org/A5048790280"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4221101603",
-      "year": 2022,
-      "title": "Target Design of Novel Histone Deacetylase 6 Selective Inhibitors with 2-Mercaptoquinazolinone as the Cap Moiety",
-      "doi": "https://doi.org/10.3390/molecules27072204",
-      "venue": "Molecules",
-      "co_author_ids": [
-        "https://openalex.org/A5078615245",
-        "https://openalex.org/A5100771694",
-        "https://openalex.org/A5010458646",
-        "https://openalex.org/A5048216686",
-        "https://openalex.org/A5051742735",
-        "https://openalex.org/A5052840490",
-        "https://openalex.org/A5100658917",
-        "https://openalex.org/A5002490298"
       ]
     },
     {
@@ -5169,8 +5169,7 @@
         "https://openalex.org/A5100714319",
         "https://openalex.org/A5109209308",
         "https://openalex.org/A5067328906",
-        "https://openalex.org/A5072803749",
-        "https://openalex.org/A5074471138"
+        "https://openalex.org/A5072803749"
       ]
     },
     {
