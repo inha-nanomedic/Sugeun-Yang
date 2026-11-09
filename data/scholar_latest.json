@@ -1,6 +1,6 @@
 {
-  "total_citations": 4619,
-  "y5_citations": 2669,
+  "total_citations": 4628,
+  "y5_citations": 2678,
   "h_index": 36,
   "y5_h_index": 26,
   "i10_index": 75,
@@ -20,10 +20,10 @@
     "2020": 314,
     "2021": 339,
     "2022": 412,
-    "2023": 424,
-    "2024": 531,
-    "2025": 550,
-    "2026": 410
+    "2023": 422,
+    "2024": 532,
+    "2025": 549,
+    "2026": 420
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 694,
+        "value": 695,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 195,
+        "value": 196,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -117,7 +117,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 151,
+        "value": 152,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -173,7 +173,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 114,
+        "value": 117,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -215,7 +215,7 @@
       "authors": "L Huang, J Feng, J Zhu, J Yang, W Xiong, X Lu, S Chen, S Yang, Y Li, ...",
       "publication": "Advanced healthcare materials 12 (18), 2203362, 2023",
       "cited_by": {
-        "value": 79,
+        "value": 80,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7409885569168661484",
         "serpapi_link": "https://serpapi.com/search.json?cites=7409885569168661484&engine=google_scholar&hl=en",
         "cites_id": "7409885569168661484"
@@ -229,7 +229,7 @@
       "authors": "S Lee, T Eom, MK Kim, SG Yang, BS Shim",
       "publication": "Electrochimica Acta 313, 79-90, 2019",
       "cited_by": {
-        "value": 79,
+        "value": 80,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2704977120617069866",
         "serpapi_link": "https://serpapi.com/search.json?cites=2704977120617069866&engine=google_scholar&hl=en",
         "cites_id": "2704977120617069866"
@@ -243,7 +243,7 @@
       "authors": "J Yang, J Feng, S Yang, Y Xu, Z Shen",
       "publication": "Small 19 (49), 2302856, 2023",
       "cited_by": {
-        "value": 74,
+        "value": 76,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474365134918622444",
         "serpapi_link": "https://serpapi.com/search.json?cites=7474365134918622444&engine=google_scholar&hl=en",
         "cites_id": "7474365134918622444"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-11-02T19:19:50.952136+00:00",
+  "fetched_at": "2026-11-09T19:38:51.736027+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
-  "pub_count": 98
+  "pub_count": 99
 }

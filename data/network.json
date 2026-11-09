@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-02T19:19:49.728126+00:00",
+  "fetched_at": "2026-11-09T19:38:51.115745+00:00",
   "person": {
     "openalex_id": "A5042254280",
     "name": "Su-Geun Yang",
     "orcid": "0000-0001-5278-8723"
   },
   "totals": {
-    "works": 99,
+    "works": 95,
     "co_authors": 303,
     "institutions": 63,
     "countries": 11
@@ -56,19 +56,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5042100124",
-      "name": "Enkhzaya Davaa",
-      "orcid": null,
-      "papers": 11,
-      "first_year": 2016,
-      "last_year": 2025,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
-    },
-    {
       "id": "https://openalex.org/A5072803749",
       "name": "Don Haeng Lee",
       "orcid": "https://orcid.org/0000-0003-0397-302X",
@@ -84,10 +71,23 @@
       "is_external": false
     },
     {
+      "id": "https://openalex.org/A5042100124",
+      "name": "Enkhzaya Davaa",
+      "orcid": null,
+      "papers": 10,
+      "first_year": 2016,
+      "last_year": 2025,
+      "institution_ids": [
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
+      ],
+      "is_external": false
+    },
+    {
       "id": "https://openalex.org/A5052510031",
       "name": "Yixin Jiang",
       "orcid": "https://orcid.org/0000-0002-0883-5999",
-      "papers": 9,
+      "papers": 8,
       "first_year": 2019,
       "last_year": 2025,
       "institution_ids": [
@@ -96,96 +96,6 @@
         "https://openalex.org/I4405280323"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5045416473",
-      "name": "Chalermchai Khemtong",
-      "orcid": "https://orcid.org/0000-0003-1976-8098",
-      "papers": 8,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5061151551",
-      "name": "Chase W. Kessinger",
-      "orcid": "https://orcid.org/0000-0003-2711-0069",
-      "papers": 8,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5016606481",
-      "name": "David A. Boothman",
-      "orcid": "https://orcid.org/0000-0001-7474-9020",
-      "papers": 8,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5033059710",
-      "name": "Erik A. Bey",
-      "orcid": "https://orcid.org/0000-0003-2951-1480",
-      "papers": 8,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5071470721",
-      "name": "Jagadeesh Setti Guthi",
-      "orcid": null,
-      "papers": 8,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5013512783",
-      "name": "Jin‐Ming Gao",
-      "orcid": "https://orcid.org/0000-0003-4801-6514",
-      "papers": 8,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5075061660",
-      "name": "Steve K. Cho",
-      "orcid": "https://orcid.org/0000-0001-8547-8430",
-      "papers": 8,
-      "first_year": 2016,
-      "last_year": 2026,
-      "institution_ids": [
-        "https://openalex.org/I39534123"
-      ],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5027421966",
@@ -212,6 +122,18 @@
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5075061660",
+      "name": "Steve K. Cho",
+      "orcid": "https://orcid.org/0000-0001-8547-8430",
+      "papers": 7,
+      "first_year": 2016,
+      "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I39534123"
+      ],
+      "is_external": true
     },
     {
       "id": "https://openalex.org/A5090977989",
@@ -253,6 +175,19 @@
       "is_external": false
     },
     {
+      "id": "https://openalex.org/A5045416473",
+      "name": "Chalermchai Khemtong",
+      "orcid": "https://orcid.org/0000-0003-1976-8098",
+      "papers": 5,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
+      ],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5091547688",
       "name": "Chang‐Koo Shim",
       "orcid": null,
@@ -266,6 +201,58 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5061151551",
+      "name": "Chase W. Kessinger",
+      "orcid": "https://orcid.org/0000-0003-2711-0069",
+      "papers": 5,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5016606481",
+      "name": "David A. Boothman",
+      "orcid": "https://orcid.org/0000-0001-7474-9020",
+      "papers": 5,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5033059710",
+      "name": "Erik A. Bey",
+      "orcid": "https://orcid.org/0000-0003-2951-1480",
+      "papers": 5,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5071470721",
+      "name": "Jagadeesh Setti Guthi",
+      "orcid": null,
+      "papers": 5,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
+      ],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5053188549",
       "name": "Jin Hee Maeng",
       "orcid": "https://orcid.org/0000-0002-6513-8364",
@@ -273,6 +260,19 @@
       "first_year": 2013,
       "last_year": 2015,
       "institution_ids": [],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5013512783",
+      "name": "Jin‐Ming Gao",
+      "orcid": "https://orcid.org/0000-0003-4801-6514",
+      "papers": 5,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
+      ],
       "is_external": true
     },
     {
@@ -289,19 +289,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5039095005",
-      "name": "A. Dean Sherry",
-      "orcid": "https://orcid.org/0000-0001-7150-8301",
-      "papers": 4,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5057853707",
       "name": "Chung Kil Song",
       "orcid": "https://orcid.org/0000-0001-9012-4565",
@@ -314,16 +301,6 @@
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5086978484",
-      "name": "Elvin Blanco",
-      "orcid": "https://orcid.org/0000-0002-7683-3311",
-      "papers": 4,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5051742735",
@@ -339,29 +316,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5054929508",
-      "name": "Huabing Chen",
-      "orcid": "https://orcid.org/0000-0003-1637-2872",
-      "papers": 4,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5056713736",
-      "name": "Jimin Ren",
-      "orcid": "https://orcid.org/0000-0001-7946-8447",
-      "papers": 4,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I4390039370",
-        "https://openalex.org/I867280407"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5101949860",
       "name": "Jung-Han Lee",
       "orcid": "https://orcid.org/0000-0002-3582-251X",
@@ -373,18 +327,6 @@
         "https://openalex.org/I4210153373"
       ],
       "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5058048785",
-      "name": "Kevin A. Carnevale",
-      "orcid": "https://orcid.org/0000-0003-1750-788X",
-      "papers": 4,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I155781252"
-      ],
-      "is_external": true
     },
     {
       "id": "https://openalex.org/A5074836679",
@@ -399,18 +341,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5105789795",
-      "name": "William G. Bornmann",
-      "orcid": null,
-      "papers": 4,
-      "first_year": 2023,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I1343551460"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5080928023",
       "name": "Xuanyi Lu",
       "orcid": null,
@@ -420,6 +350,19 @@
       "institution_ids": [
         "https://openalex.org/I4210103346",
         "https://openalex.org/I58200834"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5039095005",
+      "name": "A. Dean Sherry",
+      "orcid": "https://orcid.org/0000-0001-7150-8301",
+      "papers": 3,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
       ],
       "is_external": true
     },
@@ -562,18 +505,6 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/A5015062816",
-      "name": "Hyunsu An",
-      "orcid": "https://orcid.org/0000-0003-2539-7836",
-      "papers": 3,
-      "first_year": 2021,
-      "last_year": 2023,
-      "institution_ids": [
-        "https://openalex.org/I39534123"
-      ],
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/A5061930268",
       "name": "Jiaoyang Zhu",
       "orcid": null,
@@ -582,6 +513,19 @@
       "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I58200834"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5056713736",
+      "name": "Jimin Ren",
+      "orcid": "https://orcid.org/0000-0001-7946-8447",
+      "papers": 3,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I4390039370",
+        "https://openalex.org/I867280407"
       ],
       "is_external": true
     },
@@ -827,6 +771,16 @@
       "is_external": false
     },
     {
+      "id": "https://openalex.org/A5086978484",
+      "name": "Elvin Blanco",
+      "orcid": "https://orcid.org/0000-0002-7683-3311",
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5100673990",
       "name": "Eun‐Kyoung Kim",
       "orcid": "https://orcid.org/0000-0002-0631-3660",
@@ -865,7 +819,7 @@
     {
       "id": "https://openalex.org/A5075034585",
       "name": "Ha Neul Lee",
-      "orcid": "https://orcid.org/0009-0007-8352-4182",
+      "orcid": "https://orcid.org/0000-0002-2284-4947",
       "papers": 2,
       "first_year": 2014,
       "last_year": 2017,
@@ -888,6 +842,16 @@
       "is_external": false
     },
     {
+      "id": "https://openalex.org/A5054929508",
+      "name": "Huabing Chen",
+      "orcid": "https://orcid.org/0000-0003-1637-2872",
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5078506216",
       "name": "Hye Seung Nam",
       "orcid": "https://orcid.org/0000-0002-9556-8920",
@@ -906,6 +870,18 @@
       "papers": 2,
       "first_year": 2023,
       "last_year": 2026,
+      "institution_ids": [
+        "https://openalex.org/I39534123"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5015062816",
+      "name": "Hyunsu An",
+      "orcid": "https://orcid.org/0000-0003-2539-7836",
+      "papers": 2,
+      "first_year": 2022,
+      "last_year": 2023,
       "institution_ids": [
         "https://openalex.org/I39534123"
       ],
@@ -951,19 +927,6 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5100366818",
-      "name": "Jinho Kim",
-      "orcid": "https://orcid.org/0000-0002-3592-9026",
-      "papers": 2,
-      "first_year": 2021,
-      "last_year": 2022,
-      "institution_ids": [
-        "https://openalex.org/I146429904",
-        "https://openalex.org/I191879574"
-      ],
-      "is_external": false
-    },
-    {
       "id": "https://openalex.org/A5060527892",
       "name": "Ji‐Eun Chang",
       "orcid": "https://orcid.org/0000-0002-0037-1560",
@@ -1000,30 +963,16 @@
       "is_external": false
     },
     {
-      "id": "https://openalex.org/A5038803466",
-      "name": "Jungjoo Kim",
-      "orcid": "https://orcid.org/0000-0002-4003-1966",
+      "id": "https://openalex.org/A5058048785",
+      "name": "Kevin A. Carnevale",
+      "orcid": "https://orcid.org/0000-0003-1750-788X",
       "papers": 2,
-      "first_year": 2021,
-      "last_year": 2021,
+      "first_year": 2023,
+      "last_year": 2023,
       "institution_ids": [
-        "https://openalex.org/I146429904",
-        "https://openalex.org/I191879574"
+        "https://openalex.org/I155781252"
       ],
-      "is_external": false
-    },
-    {
-      "id": "https://openalex.org/A5101949861",
-      "name": "Jung‐Han Lee",
-      "orcid": "https://orcid.org/0000-0002-7679-3946",
-      "papers": 2,
-      "first_year": 2017,
-      "last_year": 2021,
-      "institution_ids": [
-        "https://openalex.org/I191879574",
-        "https://openalex.org/I4210153373"
-      ],
-      "is_external": false
+      "is_external": true
     },
     {
       "id": "https://openalex.org/A5063796292",
@@ -1071,18 +1020,6 @@
       "last_year": 2026,
       "institution_ids": [
         "https://openalex.org/I69094615"
-      ],
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/A5060318754",
-      "name": "Min Hye Kim",
-      "orcid": null,
-      "papers": 2,
-      "first_year": 2021,
-      "last_year": 2022,
-      "institution_ids": [
-        "https://openalex.org/I146429904"
       ],
       "is_external": true
     },
@@ -1341,6 +1278,18 @@
       "institution_ids": [
         "https://openalex.org/I139264467",
         "https://openalex.org/I87111246"
+      ],
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/A5105789795",
+      "name": "William G. Bornmann",
+      "orcid": null,
+      "papers": 2,
+      "first_year": 2023,
+      "last_year": 2023,
+      "institution_ids": [
+        "https://openalex.org/I1343551460"
       ],
       "is_external": true
     },
@@ -2305,6 +2254,18 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/A5100366818",
+      "name": "Jinho Kim",
+      "orcid": "https://orcid.org/0000-0002-3592-9026",
+      "papers": 1,
+      "first_year": 2022,
+      "last_year": 2022,
+      "institution_ids": [
+        "https://openalex.org/I146429904"
+      ],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5029641606",
       "name": "Jinsik Kim",
       "orcid": "https://orcid.org/0000-0002-9121-7031",
@@ -2460,6 +2421,31 @@
       "last_year": 2018,
       "institution_ids": [
         "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5038803466",
+      "name": "Jungjoo Kim",
+      "orcid": "https://orcid.org/0000-0002-4003-1966",
+      "papers": 1,
+      "first_year": 2021,
+      "last_year": 2021,
+      "institution_ids": [
+        "https://openalex.org/I191879574"
+      ],
+      "is_external": false
+    },
+    {
+      "id": "https://openalex.org/A5101949861",
+      "name": "Jung‐Han Lee",
+      "orcid": "https://orcid.org/0000-0002-7679-3946",
+      "papers": 1,
+      "first_year": 2017,
+      "last_year": 2017,
+      "institution_ids": [
+        "https://openalex.org/I191879574",
+        "https://openalex.org/I4210153373"
       ],
       "is_external": false
     },
@@ -2710,6 +2696,18 @@
       "is_external": false
     },
     {
+      "id": "https://openalex.org/A5060318754",
+      "name": "Min Hye Kim",
+      "orcid": null,
+      "papers": 1,
+      "first_year": 2022,
+      "last_year": 2022,
+      "institution_ids": [
+        "https://openalex.org/I146429904"
+      ],
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/A5100776687",
       "name": "Min Kyoung Kim",
       "orcid": "https://orcid.org/0000-0002-1753-2674",
@@ -2874,7 +2872,7 @@
     {
       "id": "https://openalex.org/A5022604421",
       "name": "Nguyễn Trọng Tuân",
-      "orcid": "https://orcid.org/0000-0003-2132-113X",
+      "orcid": "https://orcid.org/0000-0002-5626-5660",
       "papers": 1,
       "first_year": 2022,
       "last_year": 2022,
@@ -3734,7 +3732,7 @@
       "name": "Inha University",
       "country": "KR",
       "type": "education",
-      "papers": 199,
+      "papers": 194,
       "is_external": false
     },
     {
@@ -3782,7 +3780,7 @@
       "name": "Gwangju Institute of Science and Technology",
       "country": "KR",
       "type": "education",
-      "papers": 25,
+      "papers": 23,
       "is_external": true
     },
     {
@@ -3790,22 +3788,6 @@
       "name": "Can Tho University",
       "country": "VN",
       "type": "education",
-      "papers": 18,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4390039370",
-      "name": "Harold C. Simmons Comprehensive Cancer Center",
-      "country": "US",
-      "type": "healthcare",
-      "papers": 18,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I867280407",
-      "name": "The University of Texas Southwestern Medical Center",
-      "country": "US",
-      "type": "healthcare",
       "papers": 18,
       "is_external": true
     },
@@ -3850,6 +3832,22 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4390039370",
+      "name": "Harold C. Simmons Comprehensive Cancer Center",
+      "country": "US",
+      "type": "healthcare",
+      "papers": 10,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I867280407",
+      "name": "The University of Texas Southwestern Medical Center",
+      "country": "US",
+      "type": "healthcare",
+      "papers": 10,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I158708052",
       "name": "Chulalongkorn University",
       "country": "TH",
@@ -3871,14 +3869,6 @@
       "country": "KR",
       "type": "education",
       "papers": 6,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I146429904",
-      "name": "Incheon National University",
-      "country": "KR",
-      "type": "education",
-      "papers": 5,
       "is_external": true
     },
     {
@@ -3906,10 +3896,10 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I12832649",
-      "name": "Gachon University",
+      "id": "https://openalex.org/I4210151417",
+      "name": "Korea Research Institute of Chemical Technology",
       "country": "KR",
-      "type": "education",
+      "type": "facility",
       "papers": 3,
       "is_external": true
     },
@@ -3930,10 +3920,10 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210151417",
-      "name": "Korea Research Institute of Chemical Technology",
+      "id": "https://openalex.org/I12832649",
+      "name": "Gachon University",
       "country": "KR",
-      "type": "facility",
+      "type": "education",
       "papers": 3,
       "is_external": true
     },
@@ -3994,18 +3984,18 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210101755",
-      "name": "Taewoong Medical (South Korea)",
-      "country": "KR",
-      "type": "company",
-      "papers": 2,
-      "is_external": true
-    },
-    {
       "id": "https://openalex.org/I155671955",
       "name": "Korea Atomic Energy Research Institute",
       "country": "KR",
       "type": "facility",
+      "papers": 2,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4210101755",
+      "name": "Taewoong Medical (South Korea)",
+      "country": "KR",
+      "type": "company",
       "papers": 2,
       "is_external": true
     },
@@ -4020,6 +4010,14 @@
     {
       "id": "https://openalex.org/I4400600942",
       "name": "Yonsei University College of Dentistry",
+      "country": "KR",
+      "type": "education",
+      "papers": 2,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I146429904",
+      "name": "Incheon National University",
       "country": "KR",
       "type": "education",
       "papers": 2,
@@ -4046,14 +4044,6 @@
       "name": "National Center for Genetic Engineering and Biotechnology",
       "country": "TH",
       "type": "facility",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4389425394",
-      "name": "Institute for Tropical Technology",
-      "country": "VN",
-      "type": "government",
       "papers": 1,
       "is_external": true
     },
@@ -4122,6 +4112,14 @@
       "is_external": true
     },
     {
+      "id": "https://openalex.org/I4389425394",
+      "name": "Institute for Tropical Technology",
+      "country": "VN",
+      "type": "government",
+      "papers": 1,
+      "is_external": true
+    },
+    {
       "id": "https://openalex.org/I4210153049",
       "name": "Vidyasirimedhi Institute of Science and Technology",
       "country": "TH",
@@ -4130,17 +4128,17 @@
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I170238339",
-      "name": "Duy Tan University",
-      "country": "VN",
+      "id": "https://openalex.org/I4210148737",
+      "name": "CHA University",
+      "country": "KR",
       "type": "education",
       "papers": 1,
       "is_external": true
     },
     {
-      "id": "https://openalex.org/I4210148737",
-      "name": "CHA University",
-      "country": "KR",
+      "id": "https://openalex.org/I170238339",
+      "name": "Duy Tan University",
+      "country": "VN",
       "type": "education",
       "papers": 1,
       "is_external": true
@@ -4158,14 +4156,6 @@
       "name": "Vajira Hospital",
       "country": "TH",
       "type": "healthcare",
-      "papers": 1,
-      "is_external": true
-    },
-    {
-      "id": "https://openalex.org/I4405280323",
-      "name": "Zhangzhou Health Vocational College",
-      "country": "CN",
-      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4198,6 +4188,14 @@
       "name": "Korea Polar Research Institute",
       "country": "KR",
       "type": "facility",
+      "papers": 1,
+      "is_external": true
+    },
+    {
+      "id": "https://openalex.org/I4405280323",
+      "name": "Zhangzhou Health Vocational College",
+      "country": "CN",
+      "type": "education",
       "papers": 1,
       "is_external": true
     },
@@ -4235,11 +4233,11 @@
     }
   ],
   "country_counts": {
-    "KR": 437,
+    "KR": 427,
     "CN": 142,
-    "US": 41,
     "TH": 32,
     "VN": 26,
+    "US": 25,
     "EC": 4,
     "SG": 1,
     "IT": 1,
@@ -4278,23 +4276,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2075592400",
-      "year": 2008,
-      "title": "Lung-Specific Delivery of Paclitaxel by Chitosan-Modified PLGA Nanoparticles Via Transient Formation of Microaggregates",
-      "doi": "https://doi.org/10.1002/jps.21487",
-      "venue": "Journal of Pharmaceutical Sciences",
-      "co_author_ids": [
-        "https://openalex.org/A5011346350",
-        "https://openalex.org/A5039386992",
-        "https://openalex.org/A5090843485",
-        "https://openalex.org/A5109787673",
-        "https://openalex.org/A5081852574",
-        "https://openalex.org/A5078895940",
-        "https://openalex.org/A5012894904",
-        "https://openalex.org/A5091547688"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2158419925",
       "year": 2011,
       "title": "Multiple‐Interaction Ligands Inspired by Mussel Adhesive Protein: Synthesis of Highly Stable and Biocompatible Nanoparticles",
@@ -4322,6 +4303,23 @@
         "https://openalex.org/A5101584982",
         "https://openalex.org/A5074836679",
         "https://openalex.org/A5101431040"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2075592400",
+      "year": 2008,
+      "title": "Lung-Specific Delivery of Paclitaxel by Chitosan-Modified PLGA Nanoparticles Via Transient Formation of Microaggregates",
+      "doi": "https://doi.org/10.1002/jps.21487",
+      "venue": "Journal of Pharmaceutical Sciences",
+      "co_author_ids": [
+        "https://openalex.org/A5011346350",
+        "https://openalex.org/A5039386992",
+        "https://openalex.org/A5090843485",
+        "https://openalex.org/A5109787673",
+        "https://openalex.org/A5081852574",
+        "https://openalex.org/A5078895940",
+        "https://openalex.org/A5012894904",
+        "https://openalex.org/A5091547688"
       ]
     },
     {
@@ -4430,24 +4428,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4392107834",
-      "year": 2024,
-      "title": "Optimizing protein delivery rate from silk fibroin hydrogel using silk fibroin-mimetic peptides conjugation",
-      "doi": "https://doi.org/10.1038/s41598-024-53689-7",
-      "venue": "Scientific Reports",
-      "co_author_ids": [
-        "https://openalex.org/A5010630551",
-        "https://openalex.org/A5018137563",
-        "https://openalex.org/A5013473553",
-        "https://openalex.org/A5023322040",
-        "https://openalex.org/A5076469940",
-        "https://openalex.org/A5043140700",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5044987510",
-        "https://openalex.org/A5046261041"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2091040891",
       "year": 2012,
       "title": "Silymarin suppresses hepatic stellate cell activation in a dietary rat model of non-alcoholic steatohepatitis: Analysis of isolated hepatic stellate cells",
@@ -4486,6 +4466,17 @@
       ]
     },
     {
+      "id": "https://openalex.org/W2074993966",
+      "year": 2012,
+      "title": "Polymeric nanocapsules with SEDDS oil-core for the controlled and enhanced oral absorption of cyclosporine",
+      "doi": "https://doi.org/10.1016/j.ijpharm.2012.10.018",
+      "venue": "International Journal of Pharmaceutics",
+      "co_author_ids": [
+        "https://openalex.org/A5026109191",
+        "https://openalex.org/A5103094220"
+      ]
+    },
+    {
       "id": "https://openalex.org/W1417694865",
       "year": 2015,
       "title": "A novel Trojan-horse targeting strategy to reduce the non-specific uptake of nanocarriers by non-cancerous cells",
@@ -4501,35 +4492,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2074993966",
-      "year": 2012,
-      "title": "Polymeric nanocapsules with SEDDS oil-core for the controlled and enhanced oral absorption of cyclosporine",
-      "doi": "https://doi.org/10.1016/j.ijpharm.2012.10.018",
-      "venue": "International Journal of Pharmaceutics",
-      "co_author_ids": [
-        "https://openalex.org/A5026109191",
-        "https://openalex.org/A5103094220"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W1971609024",
-      "year": 2012,
-      "title": "Porcine feasibility and safety study of a new paclitaxel-eluting biliary stent with a Pluronic-containing membrane",
-      "doi": "https://doi.org/10.1055/s-0032-1309881",
-      "venue": "Endoscopy",
-      "co_author_ids": [
-        "https://openalex.org/A5025219406",
-        "https://openalex.org/A5005358526",
-        "https://openalex.org/A5055310910",
-        "https://openalex.org/A5109360824",
-        "https://openalex.org/A5074471138",
-        "https://openalex.org/A5035300994",
-        "https://openalex.org/A5076820793",
-        "https://openalex.org/A5009690203",
-        "https://openalex.org/A5009690203"
-      ]
-    },
-    {
       "id": "https://openalex.org/W1985722085",
       "year": 2012,
       "title": "Gemcitabine-releasing polymeric films for covered self-expandable metallic stent in treatment of gastrointestinal cancer",
@@ -4537,21 +4499,6 @@
       "venue": "International Journal of Pharmaceutics",
       "co_author_ids": [
         "https://openalex.org/A5109836236",
-        "https://openalex.org/A5067328906"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2553377298",
-      "year": 2016,
-      "title": "Lipase‐Sensitive Transfersomes Based on Photosensitizer/Polymerizable Lipid Conjugate for Selective Antimicrobial Photodynamic Therapy of Acne",
-      "doi": "https://doi.org/10.1002/adhm.201600815",
-      "venue": "Advanced Healthcare Materials",
-      "co_author_ids": [
-        "https://openalex.org/A5079528835",
-        "https://openalex.org/A5100635600",
-        "https://openalex.org/A5103759935",
-        "https://openalex.org/A5058898207",
-        "https://openalex.org/A5100776690",
         "https://openalex.org/A5067328906"
       ]
     },
@@ -4599,22 +4546,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2090404923",
-      "year": 2011,
-      "title": "Liver Cancer Targeting of Doxorubicin with Reduced Distribution to the Heart Using Hematoporphyrin-Modified Albumin Nanoparticles in Rats",
-      "doi": "https://doi.org/10.1007/s11095-011-0603-6",
-      "venue": "Pharmaceutical Research",
-      "co_author_ids": [
-        "https://openalex.org/A5060527892",
-        "https://openalex.org/A5039386992",
-        "https://openalex.org/A5112242788",
-        "https://openalex.org/A5103666754",
-        "https://openalex.org/A5078895940",
-        "https://openalex.org/A5012894904",
-        "https://openalex.org/A5091547688"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4312223600",
       "year": 2022,
       "title": "Improved cancer immunotherapy strategies by nanomedicine",
@@ -4630,50 +4561,21 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3093381001",
-      "year": 2020,
-      "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
-      "doi": "https://doi.org/10.3390/biomedicines8100417",
-      "venue": "Biomedicines",
+      "id": "https://openalex.org/W4392107834",
+      "year": 2024,
+      "title": "Optimizing protein delivery rate from silk fibroin hydrogel using silk fibroin-mimetic peptides conjugation",
+      "doi": "https://doi.org/10.1038/s41598-024-53689-7",
+      "venue": "Scientific Reports",
       "co_author_ids": [
-        "https://openalex.org/A5022690335",
-        "https://openalex.org/A5000379559",
-        "https://openalex.org/A5052464008",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5080095186"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2227446639",
-      "year": 2016,
-      "title": "Enhanced conjugation stability and blood circulation time of macromolecular gadolinium-DTPA contrast agent",
-      "doi": "https://doi.org/10.1016/j.msec.2016.01.008",
-      "venue": "Materials Science and Engineering C",
-      "co_author_ids": [
+        "https://openalex.org/A5010630551",
+        "https://openalex.org/A5018137563",
+        "https://openalex.org/A5013473553",
+        "https://openalex.org/A5023322040",
+        "https://openalex.org/A5076469940",
+        "https://openalex.org/A5043140700",
         "https://openalex.org/A5052029602",
-        "https://openalex.org/A5067328906",
-        "https://openalex.org/A5008782184",
-        "https://openalex.org/A5056376298",
-        "https://openalex.org/A5112483953",
-        "https://openalex.org/A5075061660",
-        "https://openalex.org/A5112599360"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4221101603",
-      "year": 2022,
-      "title": "Target Design of Novel Histone Deacetylase 6 Selective Inhibitors with 2-Mercaptoquinazolinone as the Cap Moiety",
-      "doi": "https://doi.org/10.3390/molecules27072204",
-      "venue": "Molecules",
-      "co_author_ids": [
-        "https://openalex.org/A5078615245",
-        "https://openalex.org/A5100771694",
-        "https://openalex.org/A5010458646",
-        "https://openalex.org/A5048216686",
-        "https://openalex.org/A5051742735",
-        "https://openalex.org/A5052840490",
-        "https://openalex.org/A5100658917",
-        "https://openalex.org/A5002490298"
+        "https://openalex.org/A5044987510",
+        "https://openalex.org/A5046261041"
       ]
     },
     {
@@ -4693,36 +4595,6 @@
         "https://openalex.org/A5101891723",
         "https://openalex.org/A5023469305",
         "https://openalex.org/A5056376298"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4290989580",
-      "year": 2022,
-      "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
-      "doi": "https://doi.org/10.1039/d2ra01969h",
-      "venue": "RSC Advances",
-      "co_author_ids": [
-        "https://openalex.org/A5027387390",
-        "https://openalex.org/A5048216686",
-        "https://openalex.org/A5100658917",
-        "https://openalex.org/A5077807093",
-        "https://openalex.org/A5006085063",
-        "https://openalex.org/A5078615245",
-        "https://openalex.org/A5022604421",
-        "https://openalex.org/A5064657974",
-        "https://openalex.org/A5024433704",
-        "https://openalex.org/A5017936915"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4312226757",
-      "year": 2022,
-      "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
-      "doi": "https://doi.org/10.3390/bios13010041",
-      "venue": "Biosensors",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -4797,6 +4669,47 @@
       ]
     },
     {
+      "id": "https://openalex.org/W1971609024",
+      "year": 2012,
+      "title": "Porcine feasibility and safety study of a new paclitaxel-eluting biliary stent with a Pluronic-containing membrane",
+      "doi": "https://doi.org/10.1055/s-0032-1309881",
+      "venue": "Endoscopy",
+      "co_author_ids": [
+        "https://openalex.org/A5025219406",
+        "https://openalex.org/A5005358526",
+        "https://openalex.org/A5055310910",
+        "https://openalex.org/A5109360824",
+        "https://openalex.org/A5074471138",
+        "https://openalex.org/A5035300994",
+        "https://openalex.org/A5076820793",
+        "https://openalex.org/A5009690203",
+        "https://openalex.org/A5009690203"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2553377298",
+      "year": 2016,
+      "title": "Lipase‐Sensitive Transfersomes Based on Photosensitizer/Polymerizable Lipid Conjugate for Selective Antimicrobial Photodynamic Therapy of Acne",
+      "doi": "https://doi.org/10.1002/adhm.201600815",
+      "venue": "Advanced Healthcare Materials",
+      "co_author_ids": [
+        "https://openalex.org/A5079528835",
+        "https://openalex.org/A5100635600",
+        "https://openalex.org/A5103759935",
+        "https://openalex.org/A5058898207",
+        "https://openalex.org/A5100776690",
+        "https://openalex.org/A5067328906"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W1976448220",
+      "year": 2010,
+      "title": "Biowaiver extension potential and IVIVC for BCS Class II drugs by formulation design: Case study for cyclosporine self-microemulsifying formulation",
+      "doi": "https://doi.org/10.1007/s12272-010-1116-2",
+      "venue": "Archives of Pharmacal Research",
+      "co_author_ids": []
+    },
+    {
       "id": "https://openalex.org/W2036545683",
       "year": 2014,
       "title": "Polymeric photosensitizer-embedded self-expanding metal stent for repeatable endoscopic photodynamic therapy of cholangiocarcinoma",
@@ -4817,12 +4730,20 @@
       ]
     },
     {
-      "id": "https://openalex.org/W1976448220",
-      "year": 2010,
-      "title": "Biowaiver extension potential and IVIVC for BCS Class II drugs by formulation design: Case study for cyclosporine self-microemulsifying formulation",
-      "doi": "https://doi.org/10.1007/s12272-010-1116-2",
-      "venue": "Archives of Pharmacal Research",
-      "co_author_ids": []
+      "id": "https://openalex.org/W2090404923",
+      "year": 2011,
+      "title": "Liver Cancer Targeting of Doxorubicin with Reduced Distribution to the Heart Using Hematoporphyrin-Modified Albumin Nanoparticles in Rats",
+      "doi": "https://doi.org/10.1007/s11095-011-0603-6",
+      "venue": "Pharmaceutical Research",
+      "co_author_ids": [
+        "https://openalex.org/A5060527892",
+        "https://openalex.org/A5039386992",
+        "https://openalex.org/A5112242788",
+        "https://openalex.org/A5103666754",
+        "https://openalex.org/A5078895940",
+        "https://openalex.org/A5012894904",
+        "https://openalex.org/A5091547688"
+      ]
     },
     {
       "id": "https://openalex.org/W2007530036",
@@ -4839,6 +4760,20 @@
       ]
     },
     {
+      "id": "https://openalex.org/W3093381001",
+      "year": 2020,
+      "title": "T1-Positive Mn2+-Doped Multi-Stimuli Responsive poly(L-DOPA) Nanoparticles for Photothermal and Photodynamic Combination Cancer Therapy",
+      "doi": "https://doi.org/10.3390/biomedicines8100417",
+      "venue": "Biomedicines",
+      "co_author_ids": [
+        "https://openalex.org/A5022690335",
+        "https://openalex.org/A5000379559",
+        "https://openalex.org/A5052464008",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5080095186"
+      ]
+    },
+    {
       "id": "https://openalex.org/W2055701749",
       "year": 2013,
       "title": "Photo-cured PMMA/PEI core/shell nanoparticles surface-modified with Gd–DTPA for T1 MR imaging",
@@ -4851,28 +4786,19 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2778631507",
-      "year": 2017,
-      "title": "Prevention of tracheal inflammation and fibrosis using nitinol stent coated with doxycycline",
-      "doi": "https://doi.org/10.1002/lary.27028",
-      "venue": "The Laryngoscope",
-      "co_author_ids": [
-        "https://openalex.org/A5055385392",
-        "https://openalex.org/A5025181344",
-        "https://openalex.org/A5100462865",
-        "https://openalex.org/A5101634566",
-        "https://openalex.org/A5042826784"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W2563908675",
+      "id": "https://openalex.org/W2227446639",
       "year": 2016,
-      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
-      "doi": "https://doi.org/10.1021/acsami.6b08994",
-      "venue": "ACS Applied Materials & Interfaces",
+      "title": "Enhanced conjugation stability and blood circulation time of macromolecular gadolinium-DTPA contrast agent",
+      "doi": "https://doi.org/10.1016/j.msec.2016.01.008",
+      "venue": "Materials Science and Engineering C",
       "co_author_ids": [
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5052029602"
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5067328906",
+        "https://openalex.org/A5008782184",
+        "https://openalex.org/A5056376298",
+        "https://openalex.org/A5112483953",
+        "https://openalex.org/A5075061660",
+        "https://openalex.org/A5112599360"
       ]
     },
     {
@@ -4920,6 +4846,23 @@
       ]
     },
     {
+      "id": "https://openalex.org/W4221101603",
+      "year": 2022,
+      "title": "Target Design of Novel Histone Deacetylase 6 Selective Inhibitors with 2-Mercaptoquinazolinone as the Cap Moiety",
+      "doi": "https://doi.org/10.3390/molecules27072204",
+      "venue": "Molecules",
+      "co_author_ids": [
+        "https://openalex.org/A5078615245",
+        "https://openalex.org/A5100771694",
+        "https://openalex.org/A5010458646",
+        "https://openalex.org/A5048216686",
+        "https://openalex.org/A5051742735",
+        "https://openalex.org/A5052840490",
+        "https://openalex.org/A5100658917",
+        "https://openalex.org/A5002490298"
+      ]
+    },
+    {
       "id": "https://openalex.org/W4220868673",
       "year": 2022,
       "title": "Enhanced thermodynamic, pharmacokinetic and theranostic properties of polymeric micelles via hydrophobic core-clustering of superparamagnetic iron oxide nanoparticles",
@@ -4933,54 +4876,33 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4307182951",
+      "id": "https://openalex.org/W4290989580",
       "year": 2022,
-      "title": "Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells",
-      "doi": "https://doi.org/10.1016/j.bbamcr.2022.119384",
-      "venue": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
+      "title": "Anti-multiple myeloma potential of resynthesized belinostat derivatives: an experimental study on cytotoxic activity, drug combination, and docking studies",
+      "doi": "https://doi.org/10.1039/d2ra01969h",
+      "venue": "RSC Advances",
       "co_author_ids": [
-        "https://openalex.org/A5101584982",
-        "https://openalex.org/A5071024563",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5074836679",
-        "https://openalex.org/A5044202632",
-        "https://openalex.org/A5057848428",
-        "https://openalex.org/A5076999994",
-        "https://openalex.org/A5035968290",
-        "https://openalex.org/A5054617653",
-        "https://openalex.org/A5038422196",
-        "https://openalex.org/A5075061660"
+        "https://openalex.org/A5027387390",
+        "https://openalex.org/A5048216686",
+        "https://openalex.org/A5100658917",
+        "https://openalex.org/A5077807093",
+        "https://openalex.org/A5006085063",
+        "https://openalex.org/A5078615245",
+        "https://openalex.org/A5022604421",
+        "https://openalex.org/A5064657974",
+        "https://openalex.org/A5024433704",
+        "https://openalex.org/A5017936915"
       ]
     },
     {
-      "id": "https://openalex.org/W4225164660",
+      "id": "https://openalex.org/W4312226757",
       "year": 2022,
-      "title": "Pheophorbide A and SN38 conjugated hyaluronan nanoparticles for photodynamic- and cascadic chemotherapy of cancer stem-like ovarian cancer",
-      "doi": "https://doi.org/10.1016/j.carbpol.2022.119455",
-      "venue": "Carbohydrate Polymers",
+      "title": "Enhanced Therapeutic Potential of Irreversible Electroporation under Combination with Gold-Doped Mesoporous Silica Nanoparticles against EMT-6 Breast Cancer Cells",
+      "doi": "https://doi.org/10.3390/bios13010041",
+      "venue": "Biosensors",
       "co_author_ids": [
-        "https://openalex.org/A5101949860",
-        "https://openalex.org/A5042100124",
         "https://openalex.org/A5052510031",
-        "https://openalex.org/A5059446452",
-        "https://openalex.org/A5060318754",
-        "https://openalex.org/A5015062816",
-        "https://openalex.org/A5100366818",
-        "https://openalex.org/A5075061660"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3188096147",
-      "year": 2021,
-      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
-      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
-      "venue": "Biomacromolecules",
-      "co_author_ids": [
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5000212121",
-        "https://openalex.org/A5100776694",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5038803466"
+        "https://openalex.org/A5052029602"
       ]
     },
     {
@@ -5008,6 +4930,31 @@
       "co_author_ids": []
     },
     {
+      "id": "https://openalex.org/W2778631507",
+      "year": 2017,
+      "title": "Prevention of tracheal inflammation and fibrosis using nitinol stent coated with doxycycline",
+      "doi": "https://doi.org/10.1002/lary.27028",
+      "venue": "The Laryngoscope",
+      "co_author_ids": [
+        "https://openalex.org/A5055385392",
+        "https://openalex.org/A5025181344",
+        "https://openalex.org/A5100462865",
+        "https://openalex.org/A5101634566",
+        "https://openalex.org/A5042826784"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2563908675",
+      "year": 2016,
+      "title": "MT1-MMP Responsive Doxorubicin Conjugated Poly(lactic- co -glycolic Acid)/Poly(styrene- alt -maleic Anhydride) Core/Shell Microparticles for Intrahepatic Arterial Chemotherapy of Hepatic Cancer",
+      "doi": "https://doi.org/10.1021/acsami.6b08994",
+      "venue": "ACS Applied Materials & Interfaces",
+      "co_author_ids": [
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052029602"
+      ]
+    },
+    {
       "id": "https://openalex.org/W327060654",
       "year": 2001,
       "title": "Once-a-Day Oral Dosing Regimen of Cyclosporin A: Combined Therapy of Cyclosporin A Premicroemulsion Concentrates and Enteric Coated Solid-State Premicroemulsion Concentrates",
@@ -5021,17 +4968,23 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2929385389",
-      "year": 2019,
-      "title": "Safety Evaluation of Paclitaxel-Eluting Biliary Metal Stent with Sodium Caprate in Porcine Biliary Tract",
-      "doi": "https://doi.org/10.5009/gnl18454",
-      "venue": "Gut and Liver",
+      "id": "https://openalex.org/W4307182951",
+      "year": 2022,
+      "title": "Protective effect of TPP-Niacin on microgravity-induced oxidative stress and mitochondrial dysfunction of retinal epithelial cells",
+      "doi": "https://doi.org/10.1016/j.bbamcr.2022.119384",
+      "venue": "Biochimica et Biophysica Acta (BBA) - Molecular Cell Research",
       "co_author_ids": [
-        "https://openalex.org/A5025219406",
-        "https://openalex.org/A5076820793",
-        "https://openalex.org/A5072803749",
-        "https://openalex.org/A5067328906",
-        "https://openalex.org/A5074471138"
+        "https://openalex.org/A5101584982",
+        "https://openalex.org/A5071024563",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5074836679",
+        "https://openalex.org/A5044202632",
+        "https://openalex.org/A5057848428",
+        "https://openalex.org/A5076999994",
+        "https://openalex.org/A5035968290",
+        "https://openalex.org/A5054617653",
+        "https://openalex.org/A5038422196",
+        "https://openalex.org/A5075061660"
       ]
     },
     {
@@ -5047,6 +5000,37 @@
         "https://openalex.org/A5102114218",
         "https://openalex.org/A5082007935",
         "https://openalex.org/A5072803749"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W3188096147",
+      "year": 2021,
+      "title": "Bisphosphonate-Conjugated Photo-Crosslinking Polyanionic Hyaluronic Acid Microbeads for Controlled BMP2 Delivery and Enhanced Bone Formation Efficacy",
+      "doi": "https://doi.org/10.1021/acs.biomac.1c00610",
+      "venue": "Biomacromolecules",
+      "co_author_ids": [
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5000212121",
+        "https://openalex.org/A5100776694",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5038803466"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4225164660",
+      "year": 2022,
+      "title": "Pheophorbide A and SN38 conjugated hyaluronan nanoparticles for photodynamic- and cascadic chemotherapy of cancer stem-like ovarian cancer",
+      "doi": "https://doi.org/10.1016/j.carbpol.2022.119455",
+      "venue": "Carbohydrate Polymers",
+      "co_author_ids": [
+        "https://openalex.org/A5101949860",
+        "https://openalex.org/A5042100124",
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5059446452",
+        "https://openalex.org/A5060318754",
+        "https://openalex.org/A5015062816",
+        "https://openalex.org/A5100366818",
+        "https://openalex.org/A5075061660"
       ]
     },
     {
@@ -5122,19 +5106,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4411966593",
-      "year": 2025,
-      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
-      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
-      "venue": "Acta Pharmaceutica Sinica B",
-      "co_author_ids": [
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5060729105",
-        "https://openalex.org/A5056376298"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4413138024",
       "year": 2025,
       "title": "Cellular changes in an in vitro neural circuit system under simulated microgravity",
@@ -5151,6 +5122,20 @@
         "https://openalex.org/A5108405380",
         "https://openalex.org/A5090977989",
         "https://openalex.org/A5027658078"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2929385389",
+      "year": 2019,
+      "title": "Safety Evaluation of Paclitaxel-Eluting Biliary Metal Stent with Sodium Caprate in Porcine Biliary Tract",
+      "doi": "https://doi.org/10.5009/gnl18454",
+      "venue": "Gut and Liver",
+      "co_author_ids": [
+        "https://openalex.org/A5025219406",
+        "https://openalex.org/A5076820793",
+        "https://openalex.org/A5072803749",
+        "https://openalex.org/A5067328906",
+        "https://openalex.org/A5074471138"
       ]
     },
     {
@@ -5186,22 +5171,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2013150522",
-      "year": 2013,
-      "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
-      "doi": "https://doi.org/10.1177/0885328213499948",
-      "venue": "Journal of Biomaterials Applications",
-      "co_author_ids": [
-        "https://openalex.org/A5053188549",
-        "https://openalex.org/A5043141932",
-        "https://openalex.org/A5054404752",
-        "https://openalex.org/A5006370183",
-        "https://openalex.org/A5087822868",
-        "https://openalex.org/A5063446251",
-        "https://openalex.org/A5072803749"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2046556369",
       "year": 2013,
       "title": "Rabbit gastric ulcer models: comparison and evaluation of acetic acid-induced ulcer and mucosectomy-induced ulcer",
@@ -5224,6 +5193,57 @@
         "https://openalex.org/A5042100124",
         "https://openalex.org/A5100335492",
         "https://openalex.org/A5052510031"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2314280523",
+      "year": 2015,
+      "title": "Recent trend in applications of polymer materials to stents",
+      "doi": "https://doi.org/10.18528/gii150022",
+      "venue": "International Journal of Gastrointestinal Intervention",
+      "co_author_ids": [
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5057667001",
+        "https://openalex.org/A5067328906"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4409535635",
+      "year": 2025,
+      "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
+      "doi": "https://doi.org/10.3390/metabo15040279",
+      "venue": "Metabolites",
+      "co_author_ids": [
+        "https://openalex.org/A5090977989"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W4411966593",
+      "year": 2025,
+      "title": "KRAS mutant colon cancer-targeted induction of ferroptosis via photocatalytic activation of BiVO4-embedded silica nano with cascadic downregulation of GPX4/xCT axis",
+      "doi": "https://doi.org/10.1016/j.apsb.2025.06.024",
+      "venue": "Acta Pharmaceutica Sinica B",
+      "co_author_ids": [
+        "https://openalex.org/A5052510031",
+        "https://openalex.org/A5052029602",
+        "https://openalex.org/A5060729105",
+        "https://openalex.org/A5056376298"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2013150522",
+      "year": 2013,
+      "title": "rhEGF-containing thermosensitive and mucoadhesive polymeric sol–gel for endoscopic treatment of gastric ulcer and bleeding",
+      "doi": "https://doi.org/10.1177/0885328213499948",
+      "venue": "Journal of Biomaterials Applications",
+      "co_author_ids": [
+        "https://openalex.org/A5053188549",
+        "https://openalex.org/A5043141932",
+        "https://openalex.org/A5054404752",
+        "https://openalex.org/A5006370183",
+        "https://openalex.org/A5087822868",
+        "https://openalex.org/A5063446251",
+        "https://openalex.org/A5072803749"
       ]
     },
     {
@@ -5271,18 +5291,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2314280523",
-      "year": 2015,
-      "title": "Recent trend in applications of polymer materials to stents",
-      "doi": "https://doi.org/10.18528/gii150022",
-      "venue": "International Journal of Gastrointestinal Intervention",
-      "co_author_ids": [
-        "https://openalex.org/A5052029602",
-        "https://openalex.org/A5057667001",
-        "https://openalex.org/A5067328906"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2744779623",
       "year": 2017,
       "title": "Current drugs, targets, and drug delivery systems for the treatment of dyslipidemia",
@@ -5325,16 +5333,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W4409535635",
-      "year": 2025,
-      "title": "A Scoring Model Using Multi-Metabolites Based on Untargeted Metabolomics for Assessing Dyslipidemia in Korean Individuals with Obesity",
-      "doi": "https://doi.org/10.3390/metabo15040279",
-      "venue": "Metabolites",
-      "co_author_ids": [
-        "https://openalex.org/A5090977989"
-      ]
-    },
-    {
       "id": "https://openalex.org/W2006717766",
       "year": 2006,
       "title": "A Simple HPLC Method for the Determination of Cyclosporin A in Human Whole Blood",
@@ -5345,6 +5343,16 @@
         "https://openalex.org/A5078895940",
         "https://openalex.org/A5012894904",
         "https://openalex.org/A5091547688"
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2049820231",
+      "year": 2010,
+      "title": "The Functional Behaviors of Cosurfactant in Design of Self-nanoemulsifying Drug Delivery Systems",
+      "doi": "https://doi.org/10.4333/kps.2010.40.5.263",
+      "venue": "Journal of Pharmaceutical Investigation",
+      "co_author_ids": [
+        "https://openalex.org/A5112499147"
       ]
     },
     {
@@ -5374,13 +5382,15 @@
       ]
     },
     {
-      "id": "https://openalex.org/W2049820231",
-      "year": 2010,
-      "title": "The Functional Behaviors of Cosurfactant in Design of Self-nanoemulsifying Drug Delivery Systems",
-      "doi": "https://doi.org/10.4333/kps.2010.40.5.263",
-      "venue": "Journal of Pharmaceutical Investigation",
+      "id": "https://openalex.org/W3088862467",
+      "year": 2020,
+      "title": "Nrf2/HO-1-inductive Preventive Effect of 3,5-dicaffeoylquinic Acid, Antioxidant Compound from Green Coffee Beans, on Dimethylnitrosamine-induced Liver Fibrosis in Rats",
+      "doi": "https://doi.org/10.12691/jfnr-8-9-9",
+      "venue": "Journal of Food and Nutrition Research",
       "co_author_ids": [
-        "https://openalex.org/A5112499147"
+        "https://openalex.org/A5080578479",
+        "https://openalex.org/A5013326948",
+        "https://openalex.org/A5048790280"
       ]
     },
     {
@@ -5395,18 +5405,6 @@
         "https://openalex.org/A5074836679",
         "https://openalex.org/A5101431040",
         "https://openalex.org/A5090977989"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W3088862467",
-      "year": 2020,
-      "title": "Nrf2/HO-1-inductive Preventive Effect of 3,5-dicaffeoylquinic Acid, Antioxidant Compound from Green Coffee Beans, on Dimethylnitrosamine-induced Liver Fibrosis in Rats",
-      "doi": "https://doi.org/10.12691/jfnr-8-9-9",
-      "venue": "Journal of Food and Nutrition Research",
-      "co_author_ids": [
-        "https://openalex.org/A5080578479",
-        "https://openalex.org/A5013326948",
-        "https://openalex.org/A5048790280"
       ]
     },
     {
@@ -5486,23 +5484,6 @@
       ]
     },
     {
-      "id": "https://openalex.org/W3178489726",
-      "year": 2021,
-      "title": "Therapeutic Overcoming of Cancer Stem Cell-Featured Chemo-Resistant Ovarian Cancer via Photodynamic Therapy and Cascadic Chemotherapy Combined Hyaluronan Nanoparticles",
-      "doi": "https://doi.org/10.2139/ssrn.3873675",
-      "venue": "SSRN Electronic Journal",
-      "co_author_ids": [
-        "https://openalex.org/A5101949861",
-        "https://openalex.org/A5042100124",
-        "https://openalex.org/A5052510031",
-        "https://openalex.org/A5038803466",
-        "https://openalex.org/A5060318754",
-        "https://openalex.org/A5015062816",
-        "https://openalex.org/A5100366818",
-        "https://openalex.org/A5075061660"
-      ]
-    },
-    {
       "id": "https://openalex.org/W4361243871",
       "year": 2023,
       "title": "Data from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
@@ -5540,23 +5521,6 @@
       "id": "https://openalex.org/W4361244333",
       "year": 2023,
       "title": "Supplementary Methods and Materials from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
-      "doi": "https://doi.org/10.1158/0008-5472.22379987.v1",
-      "venue": "",
-      "co_author_ids": [
-        "https://openalex.org/A5045416473",
-        "https://openalex.org/A5061151551",
-        "https://openalex.org/A5056713736",
-        "https://openalex.org/A5033059710",
-        "https://openalex.org/A5071470721",
-        "https://openalex.org/A5016606481",
-        "https://openalex.org/A5039095005",
-        "https://openalex.org/A5013512783"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4361261936",
-      "year": 2023,
-      "title": "Supplementary Methods and Materials from In vivo Off-Resonance Saturation Magnetic Resonance Imaging of αvβ3-Targeted Superparamagnetic Nanoparticles",
       "doi": "https://doi.org/10.1158/0008-5472.22379987",
       "venue": "",
       "co_author_ids": [
@@ -5574,7 +5538,7 @@
       "id": "https://openalex.org/W4361822289",
       "year": 2023,
       "title": "Data from β-Lapachone Micellar Nanotherapeutics for Non–Small Cell Lung Cancer Therapy",
-      "doi": "https://doi.org/10.1158/0008-5472.c.6500043.v1",
+      "doi": "https://doi.org/10.1158/0008-5472.c.6500043",
       "venue": "",
       "co_author_ids": [
         "https://openalex.org/A5086978484",
@@ -5591,25 +5555,6 @@
     },
     {
       "id": "https://openalex.org/W4361842484",
-      "year": 2023,
-      "title": "Supplementary Table 1, Figures 1-3 from β-Lapachone Micellar Nanotherapeutics for Non–Small Cell Lung Cancer Therapy",
-      "doi": "https://doi.org/10.1158/0008-5472.22381950.v1",
-      "venue": "",
-      "co_author_ids": [
-        "https://openalex.org/A5086978484",
-        "https://openalex.org/A5033059710",
-        "https://openalex.org/A5045416473",
-        "https://openalex.org/A5071470721",
-        "https://openalex.org/A5054929508",
-        "https://openalex.org/A5061151551",
-        "https://openalex.org/A5058048785",
-        "https://openalex.org/A5105789795",
-        "https://openalex.org/A5016606481",
-        "https://openalex.org/A5013512783"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4361870429",
       "year": 2023,
       "title": "Supplementary Table 1, Figures 1-3 from β-Lapachone Micellar Nanotherapeutics for Non–Small Cell Lung Cancer Therapy",
       "doi": "https://doi.org/10.1158/0008-5472.22381950",
@@ -5649,25 +5594,6 @@
         "https://openalex.org/A5088811678",
         "https://openalex.org/A5031635205",
         "https://openalex.org/A5075061660"
-      ]
-    },
-    {
-      "id": "https://openalex.org/W4392684158",
-      "year": 2023,
-      "title": "Data from β-Lapachone Micellar Nanotherapeutics for Non–Small Cell Lung Cancer Therapy",
-      "doi": "https://doi.org/10.1158/0008-5472.c.6500043",
-      "venue": "",
-      "co_author_ids": [
-        "https://openalex.org/A5086978484",
-        "https://openalex.org/A5033059710",
-        "https://openalex.org/A5045416473",
-        "https://openalex.org/A5071470721",
-        "https://openalex.org/A5054929508",
-        "https://openalex.org/A5061151551",
-        "https://openalex.org/A5058048785",
-        "https://openalex.org/A5105789795",
-        "https://openalex.org/A5016606481",
-        "https://openalex.org/A5013512783"
       ]
     },
     {
@@ -5746,23 +5672,52 @@
         },
         {
           "name": "Lanthanide and Transition Metal Complexes",
-          "weight": 52
+          "weight": 63
         },
         {
           "name": "Polymer Surface Interaction Studies",
-          "weight": 16
+          "weight": 20
+        },
+        {
+          "name": "Hydrogels: synthesis, properties, applications",
+          "weight": 15
         },
         {
           "name": "Electrospun Nanofibers in Biomedical Applications",
-          "weight": 9
+          "weight": 11
         },
         {
           "name": "Silk-based biomaterials and applications",
-          "weight": 9
+          "weight": 11
+        }
+      ]
+    },
+    {
+      "field": "Biochemistry, Genetics and Molecular Biology",
+      "topics": [
+        {
+          "name": "Microbial Inactivation Methods",
+          "weight": 100
         },
         {
-          "name": "Gold and Silver Nanoparticles Synthesis and Applications",
-          "weight": 9
+          "name": "Photodynamic Therapy Research Studies",
+          "weight": 79
+        },
+        {
+          "name": "Histone Deacetylase Inhibitors Research",
+          "weight": 76
+        },
+        {
+          "name": "RNA Interference and Gene Delivery",
+          "weight": 42
+        },
+        {
+          "name": "Prostate Cancer Treatment and Research",
+          "weight": 38
+        },
+        {
+          "name": "Metabolomics and Mass Spectrometry Studies",
+          "weight": 25
         }
       ]
     },
@@ -5772,10 +5727,6 @@
         {
           "name": "Spaceflight effects on biology",
           "weight": 100
-        },
-        {
-          "name": "Photodynamic Therapy Research Studies",
-          "weight": 81
         },
         {
           "name": "Gallbladder and Bile Duct Disorders",
@@ -5790,37 +5741,12 @@
           "weight": 40
         },
         {
-          "name": "Prostate Cancer Treatment and Research",
-          "weight": 38
-        }
-      ]
-    },
-    {
-      "field": "Engineering",
-      "topics": [
-        {
-          "name": "Nanoplatforms for cancer theranostics",
-          "weight": 100
+          "name": "Tracheal and airway disorders",
+          "weight": 25
         },
         {
-          "name": "Characterization and Applications of Magnetic Nanoparticles",
-          "weight": 33
-        },
-        {
-          "name": "Bone Tissue Engineering Materials",
-          "weight": 12
-        },
-        {
-          "name": "Electrochemical sensors and biosensors",
-          "weight": 9
-        },
-        {
-          "name": "Soft Robotics and Applications",
-          "weight": 7
-        },
-        {
-          "name": "Innovative Microfluidic and Catalytic Techniques Innovation",
-          "weight": 2
+          "name": "Lipoproteins and Cardiovascular Health",
+          "weight": 24
         }
       ]
     }
