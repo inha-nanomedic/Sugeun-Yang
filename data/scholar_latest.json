@@ -1,6 +1,6 @@
 {
-  "total_citations": 4628,
-  "y5_citations": 2678,
+  "total_citations": 4634,
+  "y5_citations": 2684,
   "h_index": 36,
   "y5_h_index": 26,
   "i10_index": 75,
@@ -20,10 +20,10 @@
     "2020": 314,
     "2021": 339,
     "2022": 412,
-    "2023": 422,
-    "2024": 532,
+    "2023": 423,
+    "2024": 534,
     "2025": 549,
-    "2026": 420
+    "2026": 423
   },
   "articles": [
     {
@@ -33,7 +33,7 @@
       "authors": "R Baskaran, J Lee, SG Yang",
       "publication": "Biomaterials research 22 (1), 25, 2018",
       "cited_by": {
-        "value": 695,
+        "value": 696,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017256731585924847",
         "serpapi_link": "https://serpapi.com/search.json?cites=11017256731585924847&engine=google_scholar&hl=en",
         "cites_id": "11017256731585924847"
@@ -61,7 +61,7 @@
       "authors": "E Blanco, EA Bey, C Khemtong, SG Yang, J Setti-Guthi, H Chen, ...",
       "publication": "Cancer research 70 (10), 3896-3904, 2010",
       "cited_by": {
-        "value": 196,
+        "value": 197,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10698520288142344213",
         "serpapi_link": "https://serpapi.com/search.json?cites=10698520288142344213&engine=google_scholar&hl=en",
         "cites_id": "10698520288142344213"
@@ -117,7 +117,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 152,
+        "value": 153,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -131,7 +131,7 @@
       "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
       "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
       "cited_by": {
-        "value": 138,
+        "value": 139,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
         "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
         "cites_id": "18137633855902214834"
@@ -153,6 +153,20 @@
       "year": "2009"
     },
     {
+      "title": "Design and clinical developments of aptamer-drug conjugates for targeted cancer therapy",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:SeFeTyx0c_EC",
+      "citation_id": "X1B7JX8AAAAJ:SeFeTyx0c_EC",
+      "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
+      "publication": "Biomaterials research 25 (1), 42, 2021",
+      "cited_by": {
+        "value": 118,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
+        "cites_id": "4016965207215915602"
+      },
+      "year": "2021"
+    },
+    {
       "title": "Silymarin suppresses hepatic stellate cell activation in a dietary rat model of non-alcoholic steatohepatitis: analysis of isolated hepatic stellate cells",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:Wp0gIr-vW9MC",
       "citation_id": "X1B7JX8AAAAJ:Wp0gIr-vW9MC",
@@ -165,20 +179,6 @@
         "cites_id": "14668852102543819973"
       },
       "year": "2012"
-    },
-    {
-      "title": "Design and clinical developments of aptamer-drug conjugates for targeted cancer therapy",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=X1B7JX8AAAAJ&citation_for_view=X1B7JX8AAAAJ:SeFeTyx0c_EC",
-      "citation_id": "X1B7JX8AAAAJ:SeFeTyx0c_EC",
-      "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
-      "publication": "Biomaterials research 25 (1), 42, 2021",
-      "cited_by": {
-        "value": 117,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
-        "cites_id": "4016965207215915602"
-      },
-      "year": "2021"
     },
     {
       "title": "An acetylated polysaccharide-PTFE membrane-covered stent for the delivery of gemcitabine for treatment of gastrointestinal cancer and related stenosis",
@@ -229,7 +229,7 @@
       "authors": "S Lee, T Eom, MK Kim, SG Yang, BS Shim",
       "publication": "Electrochimica Acta 313, 79-90, 2019",
       "cited_by": {
-        "value": 80,
+        "value": 79,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2704977120617069866",
         "serpapi_link": "https://serpapi.com/search.json?cites=2704977120617069866&engine=google_scholar&hl=en",
         "cites_id": "2704977120617069866"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-11-09T19:38:51.736027+00:00",
+  "fetched_at": "2026-11-16T19:25:58.418392+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 99
 }
