@@ -1,6 +1,6 @@
 {
-  "total_citations": 4634,
-  "y5_citations": 2684,
+  "total_citations": 4640,
+  "y5_citations": 2690,
   "h_index": 36,
   "y5_h_index": 26,
   "i10_index": 75,
@@ -21,9 +21,9 @@
     "2021": 339,
     "2022": 412,
     "2023": 423,
-    "2024": 534,
-    "2025": 549,
-    "2026": 423
+    "2024": 533,
+    "2025": 548,
+    "2026": 431
   },
   "articles": [
     {
@@ -117,7 +117,7 @@
       "authors": "HP Nguyen, PH Tran, KS Kim, SG Yang",
       "publication": "npj Microgravity 7 (1), 44, 2021",
       "cited_by": {
-        "value": 153,
+        "value": 154,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700195494764375335",
         "serpapi_link": "https://serpapi.com/search.json?cites=15700195494764375335&engine=google_scholar&hl=en",
         "cites_id": "15700195494764375335"
@@ -131,7 +131,7 @@
       "authors": "G Huang, C Zhang, S Li, C Khemtong, SG Yang, R Tian, JD Minna, ...",
       "publication": "Journal of materials chemistry 19 (35), 6367-6372, 2009",
       "cited_by": {
-        "value": 139,
+        "value": 138,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18137633855902214834",
         "serpapi_link": "https://serpapi.com/search.json?cites=18137633855902214834&engine=google_scholar&hl=en",
         "cites_id": "18137633855902214834"
@@ -159,7 +159,7 @@
       "authors": "DH Kim, JM Seo, KJ Shin, SG Yang",
       "publication": "Biomaterials research 25 (1), 42, 2021",
       "cited_by": {
-        "value": 118,
+        "value": 119,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016965207215915602",
         "serpapi_link": "https://serpapi.com/search.json?cites=4016965207215915602&engine=google_scholar&hl=en",
         "cites_id": "4016965207215915602"
@@ -215,7 +215,7 @@
       "authors": "L Huang, J Feng, J Zhu, J Yang, W Xiong, X Lu, S Chen, S Yang, Y Li, ...",
       "publication": "Advanced healthcare materials 12 (18), 2203362, 2023",
       "cited_by": {
-        "value": 80,
+        "value": 81,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7409885569168661484",
         "serpapi_link": "https://serpapi.com/search.json?cites=7409885569168661484&engine=google_scholar&hl=en",
         "cites_id": "7409885569168661484"
@@ -243,7 +243,7 @@
       "authors": "J Yang, J Feng, S Yang, Y Xu, Z Shen",
       "publication": "Small 19 (49), 2302856, 2023",
       "cited_by": {
-        "value": 76,
+        "value": 77,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7474365134918622444",
         "serpapi_link": "https://serpapi.com/search.json?cites=7474365134918622444&engine=google_scholar&hl=en",
         "cites_id": "7474365134918622444"
@@ -307,7 +307,7 @@
       "year": "2015"
     }
   ],
-  "fetched_at": "2026-11-16T19:25:58.418392+00:00",
+  "fetched_at": "2026-11-23T21:01:07.135772+00:00",
   "source": "SerpAPI \u00b7 google_scholar_author",
   "pub_count": 99
 }
